@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these entries or tools, please cite them as below."
+title: "Coffearium: open coffee compendium – entries and verification tools"
+type: dataset
+authors:
+  - name: "Coffearium"
+date-released: 2026-10-25
+url: "https://coffearium.org/"
+license: CC-BY-4.0
+keywords: [coffee, open data, evidence, verification]

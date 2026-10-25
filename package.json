@@ -1,0 +1,22 @@
+{
+  "name": "coffearium-open",
+  "version": "2026.10.25",
+  "private": true,
+  "type": "module",
+  "description": "Coffearium entries as open data (CC BY 4.0) and the tools that check them (MIT).",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "quotes": "node tools/quote-check/check.mjs",
+    "test:quotes": "node --test tools/quote-check/test/*.test.mjs",
+    "audit:sample": "node tools/context-audit/sample.mjs",
+    "audit:tally": "node tools/context-audit/tally.mjs",
+    "lit:due": "node tools/lit-watch/due.mjs",
+    "consistency": "node tools/consistency/scan.mjs"
+  },
+  "devDependencies": {
+    "js-yaml": "4.3.2",
+    "pdf-parse": "1.1.1"
+  }
+}

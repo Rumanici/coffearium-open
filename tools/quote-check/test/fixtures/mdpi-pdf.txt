@@ -1,0 +1,8 @@
+Beverages 2020, 6, 44
+Article
+Effect of Grind Size on Espresso Extraction
+1. Introduction
+Espresso is prepared by forcing hot water through a compacted bed of ground coffee.
+3. Results
+At the finest setting the shot time exceeded 40 s and the extraction yield rose to 22.1%,
+whereas the coarsest setting gave 17.4%.

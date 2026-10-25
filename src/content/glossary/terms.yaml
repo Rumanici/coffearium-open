@@ -1,0 +1,3884 @@
+# Coffearium glossary. One item per term; the `id` becomes the anchor (#id) on /glossary/.
+# `aliases` are other English words that should link here (plurals are matched automatically).
+# `entry` points to the full article when one exists – links then go to the article instead.
+# Translations stay marked unverified until a native-speaking coffee professional has checked them.
+- id: acetic-acid-bacteria
+  en: Acetic acid bacteria
+  es: Bacterias acéticas
+  zh-hant: 醋酸菌
+  zh-hans: 醋酸菌
+  definition: Bacteria that turn sugars and alcohol into acetic and other acids; common in dry processing.
+  stage: process
+- id: anaerobic-fermentation
+  en: Anaerobic fermentation
+  es: Fermentación anaeróbica
+  zh-hant: 厭氧發酵
+  zh-hans: 厌氧发酵
+  definition: Fermenting coffee in sealed, low-oxygen vessels.
+  stage: process
+  entry: anaerobic-fermentation
+- id: cascara
+  en: Cascara
+  aliases: [coffee husk, husk coffee, husk]
+  es: Cáscara
+  zh-hant: 咖啡果皮
+  zh-hans: 咖啡果皮
+  definition: The dried skin and pulp of the coffee cherry, removed after natural processing; also used for tea-like drinks.
+  stage: process
+- id: casehardening
+  en: Casehardening
+  es: Endurecimiento superficial
+  zh-hant: 表面硬化
+  zh-hans: 表面硬化
+  definition: Drying defect in which the outside of the seed dries much faster than the inside and forms a hard shell.
+  stage: process
+- id: cupping
+  en: Cupping
+  es: Catación
+  zh-hant: 杯測
+  zh-hans: 杯测
+  definition: Standardised tasting used to evaluate coffee.
+  stage: cup
+  entry: cupping
+- id: demucilager
+  en: Mechanical demucilager
+  aliases: [demucilager, mechanical demucilaging, demucilaging]
+  es: Desmucilaginador
+  zh-hant: 機械脫膠機
+  zh-hans: 机械脱胶机
+  definition: Machine that removes mucilage by friction instead of fermentation, using little water.
+  stage: process
+  entry: mechanical-demucilaging
+- id: endosperm
+  en: Endosperm
+  es: Endospermo
+  zh-hant: 胚乳
+  zh-hans: 胚乳
+  definition: The storage tissue that makes up most of the coffee seed – the part that is roasted.
+  stage: plant
+- id: extraction
+  en: Extraction
+  es: Extracción
+  zh-hant: 萃取
+  zh-hans: 萃取
+  definition: Dissolving soluble compounds from ground coffee into water.
+  stage: brew
+  entry: what-extraction-is
+- id: fermentation
+  en: Fermentation
+  es: Fermentación
+  zh-hant: 發酵
+  zh-hans: 发酵
+  definition: In processing, the breakdown of sugars and pectins around the seed by yeasts and bacteria.
+  stage: process
+  entry: fermentation
+- id: green-coffee
+  en: Green coffee
+  aliases: [green coffee beans, green bean]
+  es: Café verde
+  zh-hant: 生豆
+  zh-hans: 生豆
+  definition: Unroasted coffee seeds that have been dried and milled.
+  stage: trade
+- id: honey-process
+  en: Honey process
+  es: Proceso honey
+  zh-hant: 蜜處理
+  zh-hans: 蜜处理
+  definition: Drying depulped coffee with some mucilage left on.
+  stage: process
+  entry: honey-process
+- id: hulling
+  en: Hulling
+  aliases: [dehulling, huller, dry milling]
+  es: Trilla
+  zh-hant: 脫殼
+  zh-hans: 脱壳
+  definition: Mechanically removing the dried husk or parchment to obtain green coffee.
+  stage: process
+  entry: hulling-and-dry-milling
+- id: lactic-acid-bacteria
+  en: Lactic acid bacteria
+  es: Bacterias ácido lácticas
+  zh-hant: 乳酸菌
+  zh-hans: 乳酸菌
+  definition: Bacteria that turn sugars mainly into lactic acid; they dominate most wet fermentations.
+  stage: process
+- id: moisture-content
+  en: Moisture content
+  es: Contenido de humedad
+  zh-hant: 含水率
+  zh-hans: 含水率
+  definition: The share of water in coffee by weight, usually given on a wet basis (wb).
+  stage: process
+  entry: moisture-and-water-activity
+- id: mucilage
+  en: Mucilage
+  es: Mucílago
+  zh-hant: 果膠
+  zh-hans: 果胶
+  definition: The sticky layer between the fruit skin and the parchment.
+  stage: process
+  entry: mucilage
+- id: natural-process
+  en: Natural process
+  es: Proceso natural
+  zh-hant: 日曬處理
+  zh-hans: 日晒处理
+  definition: Drying the whole cherry before removing the fruit.
+  stage: process
+  entry: natural-process
+- id: ochratoxin-a
+  en: Ochratoxin A
+  aliases: [OTA]
+  es: Ocratoxina A
+  zh-hant: 赭麴毒素A
+  zh-hans: 赭曲霉毒素A
+  definition: A mycotoxin produced by some moulds; its prevention is a key aim of good drying practice.
+  stage: process
+  entry: ochratoxin-a
+- id: parchment
+  en: Parchment
+  aliases: [parchment coffee]
+  es: Pergamino
+  zh-hant: 帶殼豆
+  zh-hans: 带壳豆
+  definition: The papery layer around the seed; also coffee dried inside it.
+  stage: process
+  entry: coffee-cherry-anatomy
+- id: patio
+  en: Drying patio
+  aliases: [patio]
+  es: Patio de secado
+  zh-hant: 曬場
+  zh-hans: 晒场
+  definition: A flat surface of concrete, brick or earth on which coffee is spread to dry in the sun.
+  stage: process
+- id: pectin
+  en: Pectin
+  aliases: [pectic substances]
+  es: Pectina
+  zh-hant: 果膠質
+  zh-hans: 果胶质
+  definition: Gel-forming polysaccharide of plant cell walls; a main component of coffee mucilage.
+  stage: plant
+- id: pulper
+  en: Pulper
+  aliases: [depulper, pulping machine, pulping, depulping]
+  es: Despulpadora
+  definition: Machine that squeezes the seeds out of the fresh cherry, removing skin and pulp.
+  stage: process
+  entry: pulping
+- id: raised-bed
+  en: Raised bed
+  aliases: [African bed, drying bed]
+  es: Cama africana
+  zh-hant: 高架棚
+  zh-hans: 高架棚
+  definition: A mesh table on which coffee dries with air moving above and below it.
+  stage: process
+- id: roast-profile
+  en: Roast profile
+  es: Perfil de tueste
+  zh-hant: 烘焙曲線
+  zh-hans: 烘焙曲线
+  definition: The time and temperature curve of a roast.
+  stage: roast
+  entry: roast-profile
+- id: silverskin
+  en: Silverskin
+  aliases: [silver skin, chaff]
+  es: Película plateada
+  zh-hant: 銀皮
+  zh-hans: 银皮
+  definition: The thin film that covers the coffee seed under the parchment.
+  stage: plant
+  entry: coffee-cherry-anatomy
+- id: water-activity
+  en: Water activity
+  es: Actividad de agua
+  zh-hant: 水活性
+  zh-hans: 水分活度
+  definition: How much of the water in a food is available to microorganisms (aw, 0 to 1); key to storage safety.
+  stage: process
+  entry: moisture-and-water-activity
+- id: washed-process
+  en: Washed process
+  aliases: [wet process, wet processing, washed coffee]
+  es: Proceso lavado
+  zh-hant: 水洗處理
+  zh-hans: 水洗处理
+  definition: Removing fruit and mucilage before drying.
+  stage: process
+  entry: washed-process
+- id: pectinase
+  en: Pectinase
+  aliases: [pectinases, pectinolytic enzymes, pectolytic enzymes]
+  es: Pectinasa
+  zh-hant: 果膠酶
+  zh-hans: 果胶酶
+  definition: Any enzyme that breaks down pectin; used to speed up mucilage removal.
+  stage: process
+  translationsVerified: false
+- id: pectin-methylesterase
+  en: Pectin methylesterase
+  es: Pectina metilesterasa
+  zh-hant: 果膠甲酯酶
+  zh-hans: 果胶甲酯酶
+  definition: Enzyme that removes methyl ester groups from pectin, releasing methanol.
+  stage: process
+  translationsVerified: false
+- id: polygalacturonase
+  en: Polygalacturonase
+  es: Poligalacturonasa
+  zh-hant: 多聚半乳糖醛酸酶
+  zh-hans: 多聚半乳糖醛酸酶
+  definition: Enzyme that splits the pectin chain by hydrolysis.
+  stage: process
+  translationsVerified: false
+- id: pectin-lyase
+  en: Pectin lyase
+  aliases: [pectate lyase]
+  es: Pectina liasa
+  zh-hant: 果膠裂解酶
+  zh-hans: 果胶裂解酶
+  definition: Enzyme that splits esterified pectin by β-elimination rather than hydrolysis.
+  stage: process
+  translationsVerified: false
+- id: homogalacturonan
+  en: Homogalacturonan
+  es: Homogalacturonano
+  zh-hant: 同型半乳糖醛酸聚糖
+  zh-hans: 同型半乳糖醛酸聚糖
+  definition: The main pectin chain, made of α-1,4-linked galacturonic acid units.
+  stage: plant
+  translationsVerified: false
+- id: degree-of-methylesterification
+  en: Degree of methylesterification
+  aliases: [degree of methylation, high-methoxyl]
+  es: Grado de metilesterificación
+  zh-hant: 甲酯化度
+  zh-hans: 甲酯化度
+  definition: The share of galacturonic acid units in pectin that carry a methyl ester.
+  stage: plant
+  translationsVerified: false
+- id: sorption-isotherm
+  en: Sorption isotherm
+  aliases: [moisture sorption isotherm, adsorption isotherm, desorption isotherm]
+  es: Isoterma de sorción
+  zh-hant: 吸附等溫線
+  zh-hans: 吸附等温线
+  definition: The curve linking a food's equilibrium moisture content to water activity at one temperature.
+  stage: process
+  entry: moisture-and-water-activity
+  translationsVerified: false
+- id: equilibrium-moisture-content
+  en: Equilibrium moisture content
+  es: Humedad de equilibrio
+  zh-hant: 平衡含水率
+  zh-hans: 平衡含水率
+  definition: The moisture a product reaches when it stops gaining or losing water to air of a given temperature and humidity.
+  stage: process
+  translationsVerified: false
+- id: equilibrium-relative-humidity
+  en: Equilibrium relative humidity
+  es: Humedad relativa de equilibrio
+  zh-hant: 平衡相對濕度
+  zh-hans: 平衡相对湿度
+  definition: The relative humidity of air in equilibrium with a sample; numerically water activity × 100.
+  stage: process
+  translationsVerified: false
+- id: sorption-hysteresis
+  en: Sorption hysteresis
+  es: Histéresis de sorción
+  zh-hant: 吸附遲滯
+  zh-hans: 吸附滞后
+  definition: The difference between the drying (desorption) and rewetting (adsorption) isotherms of the same material.
+  stage: process
+  translationsVerified: false
+- id: glass-transition
+  en: Glass transition
+  aliases: [glass transition temperature]
+  es: Transición vítrea
+  zh-hant: 玻璃轉化
+  zh-hans: 玻璃化转变
+  definition: The temperature range in which an amorphous solid changes from a rigid glassy state to a softer rubbery one; lowered by water.
+  stage: process
+  entry: glass-rubber-transition
+  translationsVerified: false
+- id: wet-basis
+  en: Wet basis
+  aliases: [dry basis]
+  es: Base húmeda
+  zh-hant: 濕基
+  zh-hans: 湿基
+  definition: Moisture expressed as water per total wet mass, the coffee-trade convention (dry basis uses dry matter as the reference).
+  stage: process
+  entry: moisture-and-water-activity
+  translationsVerified: false
+- id: starter-culture
+  en: Starter culture
+  aliases: [inoculum, inoculated fermentation]
+  es: Cultivo iniciador
+  zh-hant: 發酵菌種
+  zh-hans: 发酵菌种
+  definition: A selected strain of yeast or bacteria added to coffee to steer its fermentation.
+  stage: process
+  entry: co-fermentation
+  translationsVerified: false
+- id: amplicon-sequencing
+  en: Amplicon sequencing
+  aliases: [metabarcoding, 16S sequencing, ITS sequencing]
+  es: Secuenciación de amplicones
+  zh-hant: 擴增子定序
+  zh-hans: 扩增子测序
+  definition: A DNA method that identifies microbes by sequencing a marker gene such as 16S rRNA or ITS.
+  stage: process
+  translationsVerified: false
+- id: heterofermentative
+  en: Heterofermentative
+  es: Heterofermentativo
+  zh-hant: 異型發酵
+  zh-hans: 异型发酵
+  definition: Describes lactic acid bacteria that make lactic acid plus other products such as ethanol, acetic acid or mannitol.
+  stage: process
+  translationsVerified: false
+- id: homofermentative
+  en: Homofermentative
+  es: Homofermentativo
+  zh-hant: 同型發酵
+  zh-hans: 同型发酵
+  definition: Describes lactic acid bacteria that turn sugars mainly into lactic acid.
+  stage: process
+  translationsVerified: false
+- id: pectinolytic
+  en: Pectinolytic
+  aliases: [pectinolysis]
+  es: Pectinolítico
+  zh-hant: 果膠分解
+  zh-hans: 果胶分解
+  definition: Able to break down pectin, the main structural material of coffee mucilage.
+  stage: process
+  translationsVerified: false
+- id: enterobacteria
+  en: Enterobacteria
+  aliases: [Enterobacteriaceae]
+  es: Enterobacterias
+  zh-hant: 腸桿菌
+  zh-hans: 肠杆菌
+  definition: Bacteria of the family Enterobacteriaceae, such as Pantoea, Erwinia and Klebsiella, common early in coffee fermentation.
+  stage: process
+  translationsVerified: false
+- id: stinker-bean
+  en: Stinker bean
+  aliases: [stinker]
+  es: Grano hediondo
+  zh-hant: 臭豆
+  zh-hans: 臭豆
+  definition: A green bean with a foul, fermented smell, linked to excessively long fermentation, unclean process water, nipped beans or dirty equipment.
+  stage: process
+  translationsVerified: false
+- id: fermaestro
+  en: Fermaestro
+  es: Fermaestro
+  zh-hant: 發酵終點測定器
+  zh-hans: 发酵终点测定器
+  definition: A Cenicafé device that shows the washing point by measuring how far a sample of fermenting coffee settles as broken-down mucilage drains away.
+  stage: process
+  translationsVerified: false
+- id: brix
+  en: Brix
+  aliases: [degrees Brix]
+  es: Brix
+  zh-hant: 白利糖度
+  zh-hans: 白利糖度
+  definition: A measure of dissolved solids, mostly sugars, in a liquid, read with a refractometer.
+  stage: process
+  translationsVerified: false
+- id: floaters
+  en: Floaters
+  aliases: [floater]
+  es: Flotes
+  zh-hant: 浮豆
+  zh-hans: 浮豆
+  definition: Cherries or beans that float in water – typically overripe, dried, undeveloped or damaged fruit – removed before processing.
+  stage: farm
+  translationsVerified: false
+- id: selective-picking
+  en: Selective picking
+  aliases: [selective harvesting]
+  es: Recolección selectiva
+  zh-hant: 選擇性採收
+  zh-hans: 选择性采收
+  definition: Hand harvesting in which only ripe cherries are picked, over several rounds.
+  stage: farm
+  entry: harvesting-and-sorting
+  translationsVerified: false
+- id: strip-picking
+  en: Strip picking
+  aliases: [strip harvesting, derriça]
+  es: Cosecha por ordeño
+  zh-hant: 捋採
+  zh-hans: 捋采
+  definition: Harvesting all the fruit on a branch at once, by hand or machine, regardless of ripeness.
+  stage: farm
+  entry: harvesting-and-sorting
+  translationsVerified: false
+- id: breast-plate
+  en: Breast plate
+  aliases: [pechero]
+  es: Pechero
+  zh-hant: 胸板
+  zh-hans: 胸板
+  definition: The fixed, ribbed plate of a pulper against which the rotating drum or disc presses the cherry.
+  stage: process
+  translationsVerified: false
+- id: repasser
+  en: Repasser
+  es: Repasadora
+  zh-hant: 復脫機
+  zh-hans: 复脱机
+  definition: A second pulper that re-pulps cherries which passed through the first pulper whole.
+  stage: process
+  translationsVerified: false
+- id: siphon-tank
+  en: Siphon tank
+  aliases: [cherry siphon]
+  es: Sifón
+  zh-hant: 虹吸槽
+  zh-hans: 虹吸槽
+  definition: A water tank between cherry reception and the pulper in which floating cherries are separated from sinking ones.
+  stage: process
+  translationsVerified: false
+- id: nipped-bean
+  en: Nipped bean
+  aliases: [pulper-nipped bean]
+  es: Grano mordido
+  zh-hant: 脫皮機咬傷豆
+  zh-hans: 脱皮机咬伤豆
+  definition: A seed cut or crushed by a badly adjusted pulper; counted as a defect.
+  stage: process
+  translationsVerified: false
+- id: dry-pulping
+  en: Dry pulping
+  aliases: [pulping without water]
+  es: Despulpado sin agua
+  zh-hant: 無水脫皮
+  zh-hans: 无水脱皮
+  definition: Pulping cherries without adding water, fed from a dry hopper.
+  stage: process
+  translationsVerified: false
+- id: polishing
+  en: Polishing
+  aliases: [polisher]
+  es: Pulido
+  zh-hant: 拋光
+  zh-hans: 抛光
+  definition: Mechanical removal of the residual silverskin from green coffee after hulling.
+  stage: process
+  translationsVerified: false
+- id: husk-coffee
+  en: Husk coffee
+  aliases: [dried cherry]
+  es: Café en cereza seca
+  zh-hant: 乾果咖啡
+  zh-hans: 干果咖啡
+  definition: Whole coffee cherry dried with its skin, pulp and parchment still on the seed, before hulling.
+  stage: process
+  translationsVerified: false
+- id: outturn
+  en: Outturn
+  aliases: [hulling recovery, outturn ratio]
+  es: Rendimiento
+  zh-hant: 出品率
+  zh-hans: 出品率
+  definition: The weight of green coffee obtained from a given weight of dried parchment or dried cherry.
+  stage: process
+  translationsVerified: false
+- id: semi-washed
+  en: Semi-washed
+  es: Semilavado
+  zh-hant: 半水洗
+  zh-hans: 半水洗
+  definition: 'An ambiguous term used for three different processes: pulped coffee dried in its mucilage (Codex code of practice), pulped coffee whose mucilage is removed by a machine without fermentation (FAO), and, in the coffee trade, Indonesian wet-hulled coffee.'
+  stage: process
+  translationsVerified: false
+- id: becolsub
+  en: Becolsub
+  es: Becolsub
+  zh-hant: Becolsub 生態處理模組
+  zh-hans: Becolsub 生态处理模组
+  definition: Cenicafé's ecological wet-mill module combining water-free pulping, an upflow demucilager and a screw conveyor that mixes mucilage into the pulp.
+  stage: process
+  translationsVerified: false
+- id: reposado
+  en: Reposado (defect)
+  aliases: [reposado]
+  es: Reposado
+  zh-hant: 陳化味（瑕疵）
+  zh-hans: 陈化味（瑕疵）
+  definition: A storage defect with aged, heavy, low-acid flavours and whitish, faded green beans, linked to warm, humid or overlong storage.
+  stage: process
+  translationsVerified: false
+- id: tetrazolium-test
+  en: Tetrazolium test
+  es: Prueba de tetrazolio
+  zh-hant: 四唑鹽活性測試
+  zh-hans: 四唑盐活性测试
+  definition: A staining test that shows whether seed tissue is still alive.
+  stage: process
+  translationsVerified: false
+- id: electrical-conductivity-test
+  en: Electrical conductivity test
+  es: Prueba de conductividad eléctrica
+  zh-hant: 電導度測試
+  zh-hans: 电导率测试
+  definition: A measure of the ions that leak from soaked beans into water, used as an indicator of cell-membrane damage.
+  stage: process
+  translationsVerified: false
+- id: screen-size
+  en: Screen size
+  aliases: [screen number, sieve size]
+  es: Tamaño de criba
+  zh-hant: 篩網目數
+  zh-hans: 筛网目数
+  definition: Size grade of green coffee, given as the hole size of the screen that retains the bean, in 64ths of an inch.
+  stage: process
+  entry: grading-and-sorting
+  translationsVerified: false
+- id: peaberry
+  en: Peaberry
+  aliases: [peaberries]
+  es: Caracol
+  zh-hant: 圓豆
+  zh-hans: 圆豆
+  definition: A single rounded seed formed in place of the usual two flat seeds.
+  stage: plant
+  entry: peaberries-and-bean-shapes
+  translationsVerified: false
+- id: full-defect
+  en: Full defect
+  aliases: [full defect equivalent]
+  es: Defecto completo
+  zh-hant: 完整瑕疵當量
+  zh-hans: 完整瑕疵当量
+  definition: The unit of a green-coffee defect count; each defect type converts to full defects by a fixed equivalence.
+  stage: process
+  translationsVerified: false
+- id: primary-defect
+  en: Primary defect
+  aliases: [category 1 defect]
+  es: Defecto primario
+  zh-hant: 一級瑕疵
+  zh-hans: 一级瑕疵
+  definition: In SCAA grading, a severe defect such as a full black, full sour or pod that counts heavily and bars specialty grade.
+  stage: process
+  translationsVerified: false
+- id: quaker
+  en: Quaker
+  es: Quaker
+  zh-hant: 未熟豆（Quaker）
+  zh-hans: 未熟豆（Quaker）
+  definition: A bean that stays pale when roasted.
+  stage: process
+  translationsVerified: false
+- id: cereja-descascada
+  en: Cereja descascada
+  aliases: [cereja descascado, CD coffee]
+  es: Cereza descascarada
+  zh-hant: 去皮日曬
+  zh-hans: 去皮日晒
+  definition: Brazilian name for coffee whose skin is removed and which is dried with the mucilage still attached to the parchment.
+  stage: process
+  entry: pulped-natural
+  translationsVerified: false
+- id: mucilage-retention
+  en: Mucilage retention
+  aliases: [mucilage retained]
+  es: Retención de mucílago
+  zh-hant: 果膠保留率
+  zh-hans: 果胶保留率
+  definition: The share of the original mucilage left on the parchment before drying, used to describe honey grades.
+  stage: process
+  translationsVerified: false
+- id: despolpado
+  en: Despolpado
+  aliases: [café despolpado]
+  es: Despulpado
+  zh-hant: 去果肉發酵水洗（巴西）
+  zh-hans: 去果肉发酵水洗（巴西）
+  definition: Brazilian term for coffee that is pulped, fermented and washed before drying – washed coffee.
+  stage: process
+  translationsVerified: false
+- id: aqueous-extract
+  en: Aqueous extract
+  aliases: [water-soluble extract]
+  es: Extracto acuoso
+  zh-hant: 水溶性萃取物
+  zh-hans: 水溶性萃取物
+  definition: The share of a coffee sample's mass that dissolves in hot water, used as a composition and quality measure.
+  stage: process
+  translationsVerified: false
+- id: wet-huller
+  en: Wet huller
+  es: Descascadora en húmedo
+  zh-hant: 濕式脫殼機
+  zh-hans: 湿式脱壳机
+  definition: A huller adapted to remove parchment from coffee at high moisture, for example by replacing the steel huller bar with a rubber strip.
+  stage: process
+  translationsVerified: false
+- id: development-time
+  en: Development time
+  es: Tiempo de desarrollo
+  zh-hant: 發展時間
+  zh-hans: 发展时间
+  definition: The time from first crack to the end of the roast.
+  stage: roast
+  entry: development-time
+  aliases: [development phase]
+  translationsVerified: false
+- id: second-crack
+  en: Second crack
+  es: Segundo crack
+  zh-hant: 二爆
+  zh-hans: 二爆
+  definition: A second, snapping crack heard when a roast is taken very dark.
+  stage: roast
+  entry: second-crack
+  translationsVerified: false
+- id: air-to-bean-ratio
+  en: Air-to-bean ratio
+  es: Relación aire-grano
+  zh-hant: 風豆比
+  zh-hans: 风豆比
+  definition: Kilograms of hot process air used per kilogram of green coffee in a roast.
+  stage: roast
+  translationsVerified: false
+- id: water-quench
+  en: Water quench
+  es: Enfriamiento con agua
+  zh-hant: 噴水冷卻
+  zh-hans: 喷水冷却
+  definition: Spraying a measured amount of water onto the beans at the end of a roast to stop it quickly.
+  stage: roast
+  aliases: [water quenching]
+  translationsVerified: false
+- id: htst-roasting
+  en: High-temperature short-time roasting
+  es: Tueste de alta temperatura y corto tiempo
+  zh-hant: 高溫短時烘焙
+  zh-hans: 高温短时烘焙
+  definition: A fast roast at high air temperature, contrasted in research with low-temperature long-time (LTLT) roasting.
+  stage: roast
+  aliases: [HTST]
+  translationsVerified: false
+- id: melanoidins
+  en: Melanoidins
+  es: Melanoidinas
+  zh-hant: 類黑素
+  zh-hans: 类黑素
+  definition: Brown, high-molecular compounds formed by browning reactions during roasting.
+  stage: roast
+  entry: melanoidins
+  aliases: [melanoidin]
+  translationsVerified: false
+- id: strecker-degradation
+  en: Strecker degradation
+  es: Degradación de Strecker
+  zh-hant: Strecker 降解
+  zh-hans: Strecker 降解
+  definition: A reaction alongside the Maillard reaction that turns amino acids into aldehydes and releases CO₂.
+  stage: roast
+  entry: strecker-degradation
+  translationsVerified: false
+- id: freshness-index
+  en: Freshness index
+  es: Índice de frescura
+  zh-hant: 新鮮度指數
+  zh-hans: 新鲜度指数
+  definition: The ratio of two aroma compounds in the air above roasted coffee, used to track loss of freshness during storage.
+  stage: roast
+  aliases: [freshness indices]
+  entry: freshness-and-storage
+  translationsVerified: false
+- id: methanethiol
+  en: Methanethiol
+  es: Metanotiol
+  zh-hant: 甲硫醇
+  zh-hans: 甲硫醇
+  definition: A highly volatile sulphur compound in fresh roasted coffee whose rapid decline is a sensitive marker of staling.
+  stage: roast
+  aliases: [MeSH, methyl mercaptan]
+  translationsVerified: false
+- id: dimethyl-disulfide
+  en: Dimethyl disulfide
+  es: Disulfuro de dimetilo
+  zh-hant: 二甲基二硫醚
+  zh-hans: 二甲基二硫醚
+  definition: A sulphury compound formed when methanethiol oxidises during storage of roasted coffee.
+  stage: roast
+  aliases: [DMDS]
+  translationsVerified: false
+- id: hexanal
+  en: Hexanal
+  es: Hexanal
+  zh-hant: 己醛
+  zh-hans: 己醛
+  definition: An aldehyde formed by oxidation of unsaturated fatty acids, used as a marker of rancidity in stored coffee.
+  stage: roast
+  translationsVerified: false
+- id: secondary-shelf-life
+  en: Secondary shelf life
+  es: Vida útil secundaria
+  zh-hant: 開封後保存期限
+  zh-hans: 开封后保质期
+  definition: How long a food keeps its quality after the package is first opened.
+  stage: roast
+  translationsVerified: false
+- id: one-way-valve
+  en: One-way valve
+  es: Válvula unidireccional
+  zh-hant: 單向排氣閥
+  zh-hans: 单向排气阀
+  definition: A valve in a coffee bag that lets gas released by the beans escape without letting outside air in.
+  stage: roast
+  entry: degassing
+  aliases: [degassing valve, valve bag]
+  translationsVerified: false
+- id: refractometer
+  en: Refractometer
+  aliases: [coffee refractometer]
+  es: Refractómetro
+  zh-hant: 折射儀
+  zh-hans: 折射仪
+  definition: An instrument that estimates the dissolved solids in a coffee brew from how strongly a drop bends light.
+  stage: brew
+  translationsVerified: false
+- id: liquid-retention-ratio
+  en: Liquid retention ratio
+  aliases: [retained liquid]
+  es: Relación de retención de líquido
+  zh-hant: 液體保留比
+  zh-hans: 液体保留比
+  definition: The mass of brew held back in the spent grounds per gram of dry coffee.
+  stage: brew
+  entry: brew-ratio-and-strength
+  translationsVerified: false
+- id: over-extraction
+  en: Over-extraction
+  aliases: [over-extracted, overextraction]
+  es: Sobreextracción
+  zh-hant: 過度萃取
+  zh-hans: 过度萃取
+  definition: Brewing that dissolves too much of the slow-dissolving bitter and astringent compounds, giving a harsh cup.
+  stage: brew
+  translationsVerified: false
+- id: under-extraction
+  en: Under-extraction
+  aliases: [under-extracted, underextraction]
+  es: Subextracción
+  zh-hant: 萃取不足
+  zh-hans: 萃取不足
+  definition: Brewing that dissolves too little of the coffee's solubles (a low extraction yield); it is often described as tasting sour and thin.
+  stage: brew
+  translationsVerified: false
+- id: total-solids
+  en: Total solids
+  es: Sólidos totales
+  zh-hant: 總固形物
+  zh-hans: 总固形物
+  definition: Everything in a brew that is not water, dissolved or suspended, measured by oven drying.
+  stage: brew
+  translationsVerified: false
+- id: carbonate-hardness
+  en: Carbonate hardness
+  aliases: [temporary hardness]
+  es: Dureza carbonática
+  zh-hant: 碳酸鹽硬度
+  zh-hans: 碳酸盐硬度
+  definition: The part of a water's hardness that can precipitate as scale, equal to the lower of total hardness and alkalinity.
+  stage: brew
+  translationsVerified: false
+- id: french-degree
+  en: French degree
+  aliases: [°fH]
+  es: Grado francés
+  zh-hant: 法國硬度
+  zh-hans: 法国硬度
+  definition: A hardness unit used in Switzerland and France; 1 °fH equals 10 ppm as CaCO₃.
+  stage: brew
+  translationsVerified: false
+- id: german-degree
+  en: German degree
+  aliases: [°dH]
+  es: Grado alemán
+  zh-hant: 德國硬度
+  zh-hans: 德国硬度
+  definition: A hardness unit based on calcium oxide; 1 °dH equals 17.85 ppm as CaCO₃.
+  stage: brew
+  translationsVerified: false
+- id: decarboniser
+  en: Decarboniser
+  aliases: [decarbonizer, weak-acid cation exchanger]
+  es: Descarbonatador
+  zh-hant: 去碳酸鹽濾芯
+  zh-hans: 去碳酸盐滤芯
+  definition: An ion exchanger that swaps calcium and magnesium for hydrogen ions, lowering hardness and alkalinity by equal amounts.
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: water-softener
+  en: Water softener
+  aliases: [softened water]
+  es: Descalcificador
+  zh-hant: 軟水器
+  zh-hans: 软水器
+  definition: An ion exchanger that swaps calcium and magnesium for sodium or potassium, lowering hardness but not alkalinity.
+  stage: brew
+  translationsVerified: false
+- id: reverse-osmosis
+  en: Reverse osmosis
+  aliases: [RO water]
+  es: Ósmosis inversa
+  zh-hant: 逆滲透
+  zh-hans: 反渗透
+  definition: Water treatment that forces water through a membrane that holds back almost all dissolved substances.
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: bloom
+  en: Bloom
+  es: Bloom (preinfusión)
+  zh-hant: 悶蒸
+  zh-hans: 闷蒸
+  definition: The release of gas when water first meets freshly roasted ground coffee, often given a short pause at the start of a pour-over.
+  stage: brew
+  entry: co2-and-the-bloom
+  aliases: [blooming]
+  translationsVerified: false
+- id: slurry
+  en: Slurry
+  es: Lodo de café
+  zh-hant: 咖啡漿
+  zh-hans: 咖啡浆
+  definition: The mixture of ground coffee and water during brewing.
+  stage: brew
+  translationsVerified: false
+- id: cafestol
+  en: Cafestol
+  es: Cafestol
+  zh-hant: 咖啡醇
+  zh-hans: 咖啡醇
+  definition: A cholesterol-raising diterpene in coffee oil, largely held back by paper filters.
+  stage: brew
+  entry: coffee-oil
+  translationsVerified: false
+- id: titratable-acidity
+  en: Titratable acidity
+  es: Acidez titulable
+  zh-hant: 可滴定酸度
+  zh-hans: 可滴定酸度
+  definition: The amount of acid in a brew measured by neutralising it with a base to a set pH, as distinct from pH itself.
+  stage: brew
+  translationsVerified: false
+- id: shower-screen
+  en: Shower screen
+  es: Ducha de grupo
+  zh-hant: 分水網
+  zh-hans: 分水网
+  definition: Perforated plate in the group of an espresso machine that spreads brew water over the whole coffee bed.
+  stage: brew
+  aliases: [dispersion screen]
+  translationsVerified: false
+- id: thermosiphon
+  en: Thermosiphon
+  es: Termosifón
+  zh-hant: 熱虹吸
+  zh-hans: 热虹吸
+  definition: Circulation of hot water driven only by temperature differences, used to keep the group of a heat-exchanger espresso machine hot.
+  stage: brew
+  translationsVerified: false
+- id: thermoblock
+  en: Thermoblock
+  es: Termobloque
+  zh-hant: 加熱塊
+  zh-hans: 加热块
+  definition: Heated metal block through which an espresso machine pumps brew water instead of storing it in a boiler.
+  stage: brew
+  translationsVerified: false
+- id: vibratory-pump
+  en: Vibratory pump
+  es: Bomba vibratoria
+  zh-hant: 震動泵
+  zh-hans: 震动泵
+  definition: Pump in which a solenoid moves a piston back and forth against a spring, with check valves turning this into flow.
+  stage: brew
+  aliases: [vibration pump]
+  translationsVerified: false
+- id: volumetric-dosing
+  en: Volumetric dosing
+  es: Dosificación volumétrica
+  zh-hant: 定量出水
+  zh-hans: 定量出水
+  definition: Ending an espresso shot when a flowmeter has counted a set volume of water pumped into the machine.
+  stage: brew
+  translationsVerified: false
+- id: channelling
+  en: Channelling
+  es: Canalización
+  zh-hant: 通道效應
+  zh-hans: 通道效应
+  definition: Uneven flow through a coffee bed, in which water follows paths of low resistance and extracts parts of the bed unevenly.
+  stage: brew
+  aliases: [channeling]
+  translationsVerified: false
+- id: puck
+  en: Puck
+  es: Pastilla de café
+  zh-hant: 粉餅
+  zh-hans: 粉饼
+  definition: The compacted bed of ground coffee in an espresso basket, before or after brewing.
+  stage: brew
+  translationsVerified: false
+- id: check-all-that-apply
+  en: Check-all-that-apply (CATA)
+  es: Marque todo lo que corresponda (CATA)
+  zh-hant: 勾選所有適用項（CATA）
+  zh-hans: 勾选所有适用项（CATA）
+  definition: A rapid sensory method in which tasters tick every listed descriptor they perceive, without rating intensity.
+  stage: cup
+  aliases: [CATA]
+  translationsVerified: false
+- id: non-uniform-cup
+  en: Non-uniform cup
+  es: Taza no uniforme
+  zh-hant: 不一致杯
+  zh-hans: 不一致杯
+  definition: A cup in a cupping that differs in kind, not just in intensity, from the other cups of the same sample.
+  stage: cup
+  translationsVerified: false
+- id: sensory-defect
+  en: Sensory defect
+  es: Defecto sensorial
+  zh-hant: 感官瑕疵
+  zh-hans: 感官瑕疵
+  definition: A smell or taste broadly seen as negative; in the CVA limited to potato, mouldy and phenolic.
+  stage: cup
+  translationsVerified: false
+- id: skimming
+  en: Skimming
+  es: Desnatado
+  zh-hant: 撈渣
+  zh-hans: 捞渣
+  definition: Removing floating grounds, foam and oil from a cupping bowl after the crust is broken.
+  stage: cup
+  translationsVerified: false
+- id: retronasal
+  en: Retronasal smell
+  es: Olfacción retronasal
+  zh-hant: 鼻後嗅覺
+  zh-hans: 鼻后嗅觉
+  definition: Smell that reaches the nose from the back of the mouth while food or drink is in the mouth; part of flavour.
+  stage: cup
+  aliases: [retronasal]
+  translationsVerified: false
+- id: orthonasal
+  en: Orthonasal smell
+  es: Olfacción ortonasal
+  zh-hant: 鼻前嗅覺
+  zh-hans: 鼻前嗅觉
+  definition: Smell taken in through the nostrils, as when sniffing dry grounds or brew.
+  stage: cup
+  aliases: [orthonasal]
+  translationsVerified: false
+- id: hedonic-scale
+  en: 9-point hedonic scale
+  es: Escala hedónica de 9 puntos
+  zh-hant: 九點享樂量表
+  zh-hans: 九点享乐量表
+  definition: A nine-category liking scale developed for US military food research and widely used to measure consumer acceptance.
+  stage: cup
+  aliases: [hedonic scale]
+  translationsVerified: false
+- id: q-grader
+  en: Q grader
+  es: Q Grader
+  zh-hant: Q 咖啡品質鑑定師
+  zh-hans: Q 咖啡品质鉴定师
+  definition: A cupper certified by the Coffee Quality Institute to evaluate green coffee quality.
+  stage: cup
+  aliases: [Q graders]
+  translationsVerified: false
+- id: cyp1a2
+  en: CYP1A2
+  es: CYP1A2
+  zh-hant: CYP1A2
+  zh-hans: CYP1A2
+  definition: The liver enzyme of the cytochrome P450 family that breaks down most of the caffeine a person ingests.
+  stage: cup
+  translationsVerified: false
+- id: adenosine-receptor
+  en: Adenosine receptor
+  es: Receptor de adenosina
+  zh-hant: 腺苷受體
+  zh-hans: 腺苷受体
+  definition: A receptor in the nervous system that adenosine normally activates and caffeine blocks.
+  stage: cup
+  translationsVerified: false
+- id: half-life
+  en: Half-life
+  es: Vida media de eliminación
+  zh-hant: 排除半衰期
+  zh-hans: 消除半衰期
+  definition: The time the body needs to clear half of a dose of a substance such as caffeine.
+  stage: cup
+  aliases: [elimination half-life]
+  translationsVerified: false
+- id: chlorogenic-acids
+  en: Chlorogenic acids
+  es: Ácidos clorogénicos
+  zh-hant: 綠原酸
+  zh-hans: 绿原酸
+  definition: A family of phenolic acids, mainly caffeoylquinic acids, abundant in green coffee and largely broken down during roasting.
+  stage: roast
+  entry: chlorogenic-acids
+  aliases: [chlorogenic acid, CGA]
+  translationsVerified: false
+- id: hplc
+  en: HPLC
+  es: HPLC
+  zh-hant: 高效液相層析
+  zh-hans: 高效液相色谱
+  definition: High-performance liquid chromatography, the laboratory method that separates and measures single compounds such as caffeine in a brew.
+  stage: cup
+  aliases: [high-performance liquid chromatography]
+  translationsVerified: false
+- id: bean-probe
+  en: Bean probe
+  es: Sonda de grano
+  zh-hant: 豆溫探針
+  zh-hans: 豆温探针
+  definition: The temperature probe in the bean mass of a roaster; it reads a mix of bean surface and hot air.
+  stage: roast
+  aliases: [bean temperature probe, BT probe]
+  translationsVerified: false
+- id: environment-temperature
+  en: Environment temperature
+  es: Temperatura ambiente del tostador
+  zh-hant: 環境溫度
+  zh-hans: 环境温度
+  definition: The air temperature in or leaving a roaster's chamber, logged next to the bean probe.
+  stage: roast
+  aliases: [exhaust temperature]
+  translationsVerified: false
+- id: ror-crash
+  en: RoR crash
+  es: Caída del RoR
+  zh-hant: 升溫率驟降
+  zh-hans: 升温率骤降
+  definition: Practitioner term for a sudden plunge in rate of rise during first crack.
+  stage: roast
+  translationsVerified: false
+- id: ror-flick
+  en: RoR flick
+  es: Repunte del RoR
+  zh-hant: 升溫率回升
+  zh-hans: 升温率回升
+  definition: Practitioner term for a late upturn in rate of rise near the end of a roast.
+  stage: roast
+  translationsVerified: false
+- id: charge-temperature
+  en: Charge temperature
+  es: Temperatura de carga
+  zh-hant: 入豆溫度
+  zh-hans: 入豆温度
+  definition: The temperature of the roaster or its air when the green coffee goes in.
+  stage: roast
+  entry: preheating-and-charge
+  translationsVerified: false
+- id: agtron
+  en: Agtron
+  es: Agtron
+  zh-hant: Agtron 烘焙色值
+  zh-hans: Agtron 烘焙色值
+  definition: A roast-colour number from a near-infrared reflectance meter; lower values mean darker roasts.
+  stage: roast
+  entry: roast-degree-and-colour
+  aliases: [Agtron number, Agtron value]
+  translationsVerified: false
+- id: roast-meter
+  en: Roast meter
+  es: Medidor de tueste
+  zh-hant: 烘焙度測量儀
+  zh-hans: 烘焙度测量仪
+  definition: An instrument that measures roast degree from the light reflected by a coffee sample, on its own numerical scale.
+  stage: roast
+  aliases: [roast colour meter, roast analyser]
+  translationsVerified: false
+- id: organic-roast-loss
+  en: Organic roast loss
+  es: Pérdida orgánica de tueste
+  zh-hant: 有機烘焙失重
+  zh-hans: 有机烘焙失重
+  definition: Roast loss calculated on dry matter, so that differences in green-coffee moisture do not affect it.
+  stage: roast
+  entry: roast-loss
+  aliases: [dry-matter roast loss]
+  translationsVerified: false
+- id: split-roasting
+  en: Split roasting
+  es: Tueste por separado
+  zh-hant: 分開烘焙後拼配
+  zh-hans: 分开烘焙后拼配
+  definition: Roasting the components of a blend separately and blending the roasted beans.
+  stage: roast
+  aliases: [post-roast blending]
+  translationsVerified: false
+- id: macropore
+  en: Macropore
+  es: Macroporo
+  zh-hant: 大孔
+  zh-hans: 大孔
+  definition: A large gas-filled void left inside a roasted coffee cell, where much of the trapped gas sits.
+  stage: roast
+  translationsVerified: false
+- id: micropore
+  en: Micropore
+  es: Microporo
+  zh-hant: 微孔
+  zh-hans: 微孔
+  definition: A very fine pore in the cell walls of roasted coffee, through which gas leaves by diffusion.
+  stage: roast
+  translationsVerified: false
+- id: knudsen-diffusion
+  en: Knudsen diffusion
+  es: Difusión de Knudsen
+  zh-hant: 克努森擴散
+  zh-hans: 克努森扩散
+  definition: Diffusion of gas through pores so narrow that molecules hit the pore walls more often than each other.
+  stage: roast
+  translationsVerified: false
+- id: degassing-silo
+  en: Degassing silo
+  es: Silo de desgasificación
+  zh-hant: 脫氣倉
+  zh-hans: 脱气仓
+  definition: A silo in which roasted or ground coffee is held so that trapped gas can escape before packing or further processing.
+  stage: roast
+  aliases: [degas silo]
+  translationsVerified: false
+- id: functional-unit
+  en: Functional unit
+  es: Unidad funcional
+  zh-hant: 功能單位
+  zh-hans: 功能单位
+  definition: The quantity a life-cycle assessment reports its results for, such as 1 kg of green coffee or one cup.
+  stage: cup
+  entry: carbon-footprint-of-coffee
+  translationsVerified: false
+- id: system-boundary
+  en: System boundary
+  es: Límite del sistema
+  zh-hant: 系統邊界
+  zh-hans: 系统边界
+  definition: The set of life-cycle stages a study counts, such as cradle to farm gate or cradle to grave.
+  stage: cup
+  aliases: [cradle to grave, cradle to farm gate]
+  translationsVerified: false
+- id: co2-equivalent
+  en: Carbon dioxide equivalent
+  es: Dióxido de carbono equivalente
+  zh-hant: 二氧化碳當量
+  zh-hans: 二氧化碳当量
+  definition: The amount of carbon dioxide with the same climate effect as a given amount of another greenhouse gas.
+  stage: cup
+  aliases: [CO2e, CO₂e]
+  translationsVerified: false
+- id: land-use-change
+  en: Land-use change
+  es: Cambio de uso del suelo
+  zh-hant: 土地利用變化
+  zh-hans: 土地利用变化
+  definition: Converting land, such as forest, to another use, such as a coffee plantation, with the emissions this releases.
+  stage: farm
+  translationsVerified: false
+- id: due-diligence-statement
+  en: Due diligence statement
+  es: Declaración de diligencia debida
+  zh-hant: 盡職調查聲明
+  zh-hans: 尽职调查声明
+  definition: Under the EU Deforestation Regulation, an operator's declaration that a product is deforestation-free and legal, submitted in the EU Information System.
+  stage: trade
+  entry: eudr
+  translationsVerified: false
+- id: downstream-operator
+  en: Downstream operator
+  es: Operador posterior
+  zh-hant: 下游經營者
+  zh-hans: 下游经营者
+  definition: Under the EU Deforestation Regulation, a company that sells or exports products made from covered products that already have a due diligence statement.
+  stage: trade
+  entry: eudr
+  translationsVerified: false
+- id: deforestation-cut-off-date
+  en: Deforestation cut-off date
+  es: Fecha de corte de deforestación
+  zh-hant: 毀林截止日期
+  zh-hans: 毁林截止日期
+  definition: The date after which clearing forest on a plot makes its produce ineligible under a standard or law; 31 December 2020 under the EU Deforestation Regulation.
+  stage: trade
+  translationsVerified: false
+- id: carbon-dioxide-removal
+  en: Carbon dioxide removal
+  es: Eliminación de dióxido de carbono
+  zh-hant: 二氧化碳移除
+  zh-hans: 二氧化碳移除
+  definition: Deliberate technologies, practices and approaches that remove carbon dioxide from the atmosphere and store it durably.
+  stage: trade
+  aliases: [carbon removal]
+  translationsVerified: false
+- id: fairtrade-minimum-price
+  en: Fairtrade Minimum Price
+  es: Precio Mínimo Fairtrade
+  zh-hant: 公平貿易最低價格
+  zh-hans: 公平贸易最低价格
+  definition: The lowest price a Fairtrade buyer may pay producers for Fairtrade coffee; the market price applies when it is higher.
+  stage: trade
+  entry: certifications-and-labels
+  translationsVerified: false
+- id: fairtrade-premium
+  en: Fairtrade Premium
+  es: Prima Fairtrade
+  zh-hant: 公平貿易溢價
+  zh-hans: 公平贸易溢价
+  definition: A fixed sum per pound paid on top of the coffee price to Fairtrade producer organisations for projects they choose.
+  stage: trade
+  entry: certifications-and-labels
+  translationsVerified: false
+- id: mass-balance-chain-of-custody
+  en: Mass balance (chain of custody)
+  es: Balance de masa
+  zh-hant: 質量平衡
+  zh-hans: 质量平衡
+  definition: A chain-of-custody model in which certified and uncertified material may be mixed as long as the volumes sold as certified match the volumes bought as certified.
+  stage: trade
+  translationsVerified: false
+- id: amadori-product
+  en: Amadori product
+  es: Producto de Amadori
+  zh-hant: 阿馬多里產物
+  zh-hans: 阿马多里产物
+  definition: The first stable intermediate of the Maillard reaction, formed when a reducing sugar and an amino compound condense and rearrange.
+  stage: roast
+  aliases: [Amadori products, Heyns product]
+  translationsVerified: false
+- id: reducing-sugar
+  en: Reducing sugar
+  es: Azúcar reductor
+  zh-hant: 還原糖
+  zh-hans: 还原糖
+  definition: A sugar such as glucose or fructose with a reactive carbonyl group that can enter the Maillard reaction; sucrose must first be split to form one.
+  stage: roast
+  aliases: [reducing sugars]
+  translationsVerified: false
+- id: caramelisation
+  en: Caramelisation
+  es: Caramelización
+  zh-hant: 焦糖化
+  zh-hans: 焦糖化
+  definition: The breakdown of sugars by heat without amino compounds, giving caramel-like aroma and brown polymers.
+  stage: roast
+  entry: caramelisation
+  aliases: [caramelization]
+  translationsVerified: false
+- id: aliphatic-acids
+  en: Aliphatic acids
+  es: Ácidos alifáticos
+  zh-hant: 脂肪族酸
+  zh-hans: 脂肪族酸
+  definition: Small open-chain acids – formic, acetic, glycolic and lactic – formed mainly from sucrose during roasting.
+  stage: roast
+  aliases: [aliphatic acid]
+  translationsVerified: false
+- id: quinic-acid
+  en: Quinic acid
+  es: Ácido quínico
+  zh-hant: 奎寧酸
+  zh-hans: 奎宁酸
+  definition: An acid released when chlorogenic acids break down during roasting; its content rises with roast degree.
+  stage: roast
+  translationsVerified: false
+- id: chlorogenic-acid-lactones
+  en: Chlorogenic acid lactones
+  es: Lactonas de ácidos clorogénicos
+  zh-hant: 綠原酸內酯
+  zh-hans: 绿原酸内酯
+  definition: Bitter compounds formed from chlorogenic acids during roasting; also called quinides.
+  stage: roast
+  aliases: [quinides]
+  translationsVerified: false
+- id: bulk-density
+  en: Bulk density
+  es: Densidad aparente
+  zh-hant: 容積密度
+  zh-hans: 容积密度
+  definition: Mass of a quantity of beans or grounds divided by the volume it fills, including the air between particles.
+  stage: roast
+  entry: bean-size-and-density
+  translationsVerified: false
+- id: sublimation
+  en: Sublimation
+  es: Sublimación
+  zh-hant: 昇華
+  zh-hans: 升华
+  definition: The change of a solid directly into vapour without melting.
+  stage: roast
+  translationsVerified: false
+- id: laminate
+  en: Laminate
+  es: Laminado
+  zh-hant: 複合膜
+  zh-hans: 复合膜
+  definition: Packaging film made of several thin layers bonded together, each with its own job such as sealing, barrier or print.
+  stage: roast
+  entry: packaging
+  aliases: [multilayer film]
+  translationsVerified: false
+- id: oxygen-barrier
+  en: Oxygen barrier
+  es: Barrera al oxígeno
+  zh-hant: 阻氧層
+  zh-hans: 阻氧层
+  definition: A packaging layer, such as aluminium foil, a metallised film or EVOH, that slows oxygen passing into the pack.
+  stage: roast
+  entry: packaging
+  translationsVerified: false
+- id: extended-producer-responsibility
+  en: Extended producer responsibility
+  es: Responsabilidad ampliada del productor
+  zh-hant: 生產者延伸責任
+  zh-hans: 生产者延伸责任
+  definition: A rule that makes producers report, pay for or organise the collection and recycling of the packaging they put on the market.
+  stage: roast
+  entry: packaging
+  aliases: [EPR]
+  translationsVerified: false
+- id: trier
+  en: Trier
+  es: Probador
+  zh-hant: 取樣勺
+  zh-hans: 取样勺
+  definition: A sampling device on the front of a roaster that lets the roaster pull out a few beans during the roast to check them.
+  stage: roast
+  aliases: [tryer]
+  translationsVerified: false
+- id: roaster-cyclone
+  en: Cyclone (roaster)
+  es: Ciclón
+  zh-hant: 旋風分離器
+  zh-hans: 旋风分离器
+  definition: The separator in a roaster's exhaust that removes silverskin, dust and bean fragments from the hot air.
+  stage: roast
+  aliases: [chaff collector]
+  translationsVerified: false
+- id: spouted-bed
+  en: Spouted bed
+  es: Lecho de chorro
+  zh-hant: 噴動床
+  zh-hans: 喷动床
+  definition: A hot-air roaster design in which air entering through a narrow inlet drives beans up in a central spout, from which they fall back into a slower-moving bed.
+  stage: roast
+  entry: fluid-bed-roaster
+  translationsVerified: false
+- id: expansion-chamber
+  en: Expansion chamber
+  es: Cámara de expansión
+  zh-hant: 膨脹室
+  zh-hans: 膨胀室
+  definition: A wider space above or after a roasting chamber where the air slows down so that beans are not carried away with it.
+  stage: roast
+  translationsVerified: false
+- id: dichloromethane
+  en: Dichloromethane
+  es: Diclorometano
+  zh-hant: 二氯甲烷
+  zh-hans: 二氯甲烷
+  definition: A chlorinated organic solvent used to extract caffeine from moistened green coffee; also called methylene chloride.
+  stage: roast
+  entry: decaffeination
+  aliases: [methylene chloride, DCM]
+  translationsVerified: false
+- id: supercritical-carbon-dioxide
+  en: Supercritical carbon dioxide
+  es: Dióxido de carbono supercrítico
+  zh-hant: 超臨界二氧化碳
+  zh-hans: 超临界二氧化碳
+  definition: Carbon dioxide above its critical temperature and pressure, used under high pressure to extract caffeine from green coffee.
+  stage: roast
+  entry: decaffeination
+  aliases: [supercritical CO₂]
+  translationsVerified: false
+- id: activated-carbon
+  en: Activated carbon
+  es: Carbón activado
+  zh-hant: 活性碳
+  zh-hans: 活性炭
+  definition: A porous carbon that adsorbs dissolved substances, such as chlorine and organic taints in water filters or caffeine in some decaffeination processes.
+  stage: roast
+  aliases: [activated charcoal]
+  translationsVerified: false
+# Brew wave (15 Oct 2026)
+- id: specific-surface
+  en: Specific surface
+  definition: Surface area of a particle divided by its volume; it rises as particles get smaller.
+  stage: brew
+  aliases: [specific surface area]
+- id: grinding-on-demand
+  en: Grinding on demand
+  definition: Grinding coffee at the moment it is needed for brewing, as café and home grinders do.
+  stage: brew
+  aliases: [on-demand grinding]
+- id: triboelectric-charging
+  en: Triboelectric charging
+  definition: Electric charge built up on particles by friction, here during grinding; it makes grounds clump and cling.
+  stage: brew
+  aliases: [triboelectrification]
+- id: burr
+  en: Burr
+  definition: One of the two toothed grinding parts of a burr grinder; one turns, the other is held, and the gap between them sets the grind size.
+  stage: brew
+  entry: grinder-types-and-burrs
+  aliases: [grinding burr]
+- id: normaliser
+  en: Normaliser
+  definition: A unit below an industrial grinder that mixes, kneads or beats ground coffee to break large particles, bind fines and set density.
+  stage: brew
+  aliases: [normalizer, densifier]
+- id: grind-by-weight
+  en: Grind by weight
+  definition: Dosing in which a load cell weighs the ground coffee and stops the grinder at a set mass.
+  stage: brew
+  aliases: [gravimetric dosing]
+- id: grinder-retention
+  en: Grinder retention
+  definition: Ground coffee that stays inside a grinder after a dose instead of leaving it.
+  stage: brew
+- id: bed-permeability
+  en: Bed permeability
+  definition: How easily water flows through a packed bed of ground coffee; fines and compaction lower it.
+  stage: brew
+  aliases: [coffee bed permeability]
+- id: laser-diffraction
+  en: Laser diffraction
+  definition: A particle-sizing method that infers the sizes of equivalent spheres from the pattern of laser light scattered by dispersed particles.
+  stage: brew
+  aliases: [laser diffractometry]
+- id: sauter-mean-diameter
+  en: Sauter mean diameter
+  definition: The surface-weighted mean particle size, d[3,2], strongly influenced by fines.
+  stage: brew
+- id: sieve-analysis
+  en: Sieve analysis
+  definition: Measuring a particle size distribution by shaking a sample through a stack of sieves and weighing what each one retains.
+  stage: brew
+- id: bypass-brewing
+  en: Bypass
+  es: Bypass
+  zh-hant: 旁通加水
+  zh-hans: 旁通加水
+  definition: Stopping percolation after a planned time and adding hot water to the brew instead of passing all the water through the grounds.
+  stage: brew
+  aliases: [bypass water]
+- id: pulse-pouring
+  en: Pulse pouring
+  es: Vertido por pulsos
+  zh-hant: 分段注水
+  zh-hans: 分段注水
+  definition: Adding the water of a pour-over in several separate pours rather than one continuous pour.
+  stage: brew
+  aliases: [pulse pour, staged pouring]
+- id: strombolian-phase
+  en: Strombolian phase
+  definition: The late phase of a moka brew, when a noisy mix of boiling water and vapour bursts from the spout.
+  stage: brew
+  entry: moka-pot
+- id: safety-valve
+  en: Safety valve
+  definition: A pressure-release valve on a moka pot boiler that keeps the internal pressure below a set safety pressure.
+  stage: brew
+- id: cold-drip
+  en: Cold drip
+  definition: Cold brew made by letting cold or iced water drip through a bed of ground coffee and a filter.
+  stage: brew
+  entry: cold-brew
+  aliases: [slow drip]
+- id: low-acid-food
+  en: Low-acid food
+  definition: In US federal rules, a food other than an alcoholic beverage with a finished equilibrium pH above 4.6 and a water activity above 0.85.
+  stage: brew
+- id: reduced-oxygen-packaging
+  en: Reduced oxygen packaging
+  definition: Packaging that lowers the oxygen around a food, such as sealed kegs or bottles.
+  stage: brew
+- id: nitro-cold-brew
+  en: Nitro cold brew
+  definition: Cold brew stored and served under nitrogen, for example from a keg.
+  stage: brew
+  entry: cold-brew
+  aliases: [nitro coffee]
+# Cup wave (15 Oct 2026)
+- id: prop
+  en: PROP (propylthiouracil)
+  definition: A bitter test compound whose perceived bitterness depends largely on variants of the TAS2R38 gene.
+  stage: cup
+  aliases: [propylthiouracil]
+- id: sensory-reference
+  en: Sensory reference
+  definition: A physical sample, such as a solution or food, that shows what a descriptor means and, where scored, how intense it is.
+  stage: cup
+  aliases: [reference standard]
+- id: alignment
+  en: Alignment (cupping)
+  definition: The SCA's term for what cupping rooms call calibration – agreement among tasters in using scales and descriptors.
+  stage: cup
+  aliases: [cupper calibration]
+- id: colloid
+  en: Colloid
+  definition: Particles or large molecules spread through a liquid without settling or truly dissolving, such as polysaccharides and melanoidins in brewed coffee.
+  stage: cup
+  aliases: [colloidal]
+- id: emulsion
+  en: Emulsion
+  definition: Tiny droplets of one liquid, such as coffee oil, dispersed through another, such as water.
+  stage: cup
+- id: iarc-group-2a
+  en: Group 2A (IARC)
+  definition: The IARC category for agents that are probably carcinogenic to humans.
+  stage: cup
+  entry: serving-temperature
+# Plant, Farm and Trade wave (16 Oct 2026)
+- id: allotetraploid
+  en: Allotetraploid
+  aliases: [allopolyploid, amphidiploid]
+  es: Alotetraploide
+  zh-hant: 異源四倍體
+  zh-hans: 异源四倍体
+  definition: A plant with four sets of chromosomes that come from two different parent species, as in Coffea arabica.
+  stage: plant
+  entry: polyploidy-and-the-arabica-genome
+  translationsVerified: false
+- id: understorey
+  en: Understorey
+  aliases: [understory, forest understorey]
+  es: Sotobosque
+  zh-hant: 林下層
+  zh-hans: 林下层
+  definition: The layer of shrubs and small trees growing in the shade beneath a forest canopy.
+  stage: plant
+  translationsVerified: false
+- id: self-incompatibility
+  en: Self-incompatibility
+  aliases: [self-incompatible]
+  es: Autoincompatibilidad
+  zh-hant: 自交不親和性
+  zh-hans: 自交不亲和性
+  definition: A plant's rejection of its own pollen, so seed forms only after cross-pollination with a compatible plant, as in Coffea canephora.
+  stage: plant
+  translationsVerified: false
+- id: clone
+  en: Clone
+  aliases: [clonal cultivar, clonal variety, polyclonal variety]
+  es: Clon
+  zh-hant: 無性系
+  zh-hans: 无性系
+  definition: Plants propagated vegetatively (cuttings, grafts, somatic embryos) from one mother tree and therefore genetically identical.
+  stage: plant
+  translationsVerified: false
+- id: fine-robusta
+  en: Fine robusta
+  es: Robusta fino
+  zh-hant: 精品羅布斯塔
+  zh-hans: 精品罗布斯塔
+  definition: Robusta that meets the cup-quality standard of the CQI and Uganda Coffee Development Authority system, as opposed to commercial grades.
+  stage: cup
+  translationsVerified: false
+- id: coffee-wilt-disease
+  en: Coffee wilt disease
+  aliases: [tracheomycosis]
+  es: Marchitez del cafeto
+  zh-hant: 咖啡萎凋病
+  zh-hans: 咖啡萎凋病
+  definition: A fungal wilt of coffee trees caused by Fusarium xylarioides, severe on robusta and liberica in tropical Africa.
+  stage: farm
+  entry: coffee-wilt-disease
+  translationsVerified: false
+- id: vapour-pressure-deficit
+  en: Vapour pressure deficit
+  aliases: [VPD, vapor pressure deficit]
+  es: Déficit de presión de vapor
+  zh-hant: 飽和水氣壓差
+  zh-hans: 饱和水汽压差
+  definition: The difference between the water vapour the air could hold at its temperature and what it actually holds; a measure of how strongly air dries plants.
+  stage: farm
+  translationsVerified: false
+- id: lapse-rate
+  en: Lapse rate
+  aliases: [temperature lapse rate]
+  es: Gradiente térmico vertical
+  zh-hant: 氣溫垂直遞減率
+  zh-hans: 气温垂直递减率
+  definition: The rate at which air temperature falls with altitude, usually given in °C per 100 m.
+  stage: farm
+  translationsVerified: false
+- id: agro-ecological-zone
+  en: Agro-ecological zone
+  aliases: [agro-climatic zone]
+  es: Zona agroecológica
+  zh-hant: 農業生態區
+  zh-hans: 农业生态区
+  definition: An area grouped by shared climate and growing conditions for a crop.
+  stage: farm
+  translationsVerified: false
+- id: windbreak
+  en: Windbreak
+  es: Cortina rompevientos
+  zh-hant: 防風林
+  zh-hans: 防风林
+  definition: A row of trees or shrubs planted to shelter crops from wind.
+  stage: farm
+  translationsVerified: false
+- id: agroforestry
+  en: Agroforestry
+  aliases: [agroforestry system, coffee agroforestry]
+  es: Agroforestería
+  zh-hant: 農林複合經營
+  zh-hans: 农林复合经营
+  definition: Growing crops such as coffee together with planted or retained trees on the same land.
+  stage: farm
+  entry: shade-and-agroforestry
+  translationsVerified: false
+- id: canopy-cover
+  en: Canopy cover
+  aliases: [canopy closure]
+  es: Cobertura del dosel
+  zh-hant: 樹冠覆蓋度
+  zh-hans: 树冠覆盖度
+  definition: The share of the area above the coffee covered by tree crowns, one of several ways of expressing shade.
+  stage: farm
+  translationsVerified: false
+- id: alternate-bearing
+  en: Alternate bearing
+  aliases: [biennial bearing]
+  es: Bienalidad
+  zh-hant: 隔年結果
+  zh-hans: 隔年结果
+  definition: The swing between heavy and light crops in successive years.
+  stage: farm
+  translationsVerified: false
+- id: urediniospore
+  en: Urediniospore
+  aliases: [uredospore, urediospore]
+  es: Urediniospora
+  zh-hant: 夏孢子
+  zh-hans: 夏孢子
+  definition: The asexual spore of a rust fungus; in coffee leaf rust, the spore that spreads and reinfects leaves.
+  stage: farm
+  translationsVerified: false
+- id: physiological-race
+  en: Physiological race
+  aliases: [rust race]
+  es: Raza fisiológica
+  zh-hant: 生理小種
+  zh-hans: 生理小种
+  definition: A group of isolates of a pathogen with the same combination of virulence genes.
+  stage: farm
+  translationsVerified: false
+- id: sh-genes
+  en: SH genes
+  aliases: [SH gene]
+  es: Genes SH
+  zh-hant: SH 抗性基因
+  zh-hans: SH 抗性基因
+  definition: The nine known coffee genes (SH1–SH9) that give resistance to leaf rust races lacking the matching virulence gene.
+  stage: plant
+  translationsVerified: false
+- id: latent-period
+  en: Latent period
+  es: Período de latencia
+  zh-hant: 潛伏期
+  zh-hans: 潜伏期
+  definition: The time from infection until a pathogen produces new spores.
+  stage: farm
+  translationsVerified: false
+- id: differential
+  en: Differential
+  aliases: [physical differential, price differential]
+  entry: differentials
+  es: Diferencial
+  zh-hant: 價差（Differential）
+  zh-hans: 价差（Differential）
+  definition: The premium or discount over the futures price for a given origin and quality of coffee, agreed between buyer and seller.
+  stage: trade
+  translationsVerified: false
+- id: price-to-be-fixed
+  en: Price to be fixed
+  aliases: [PTBF, price-to-be-fixed contract]
+  es: Precio por fijar
+  zh-hant: 待定價合約
+  zh-hans: 待定价合约
+  definition: A contract that agrees the differential now and fixes the futures part of the price later against the exchange.
+  stage: trade
+  translationsVerified: false
+- id: outright-contract
+  en: Outright contract
+  aliases: [outright price, fixed-price contract]
+  es: Contrato a precio fijo
+  zh-hant: 一口價合約
+  zh-hans: 一口价合约
+  definition: A contract that sets one complete price at signing, without later fixing against the futures market.
+  stage: trade
+  translationsVerified: false
+- id: free-on-board
+  en: Free on board
+  aliases: [FOB, FOB price]
+  es: Franco a bordo
+  zh-hant: 船上交貨
+  zh-hans: 船上交货
+  definition: A price for coffee loaded on the ship at the port of export; the buyer pays freight and insurance from there.
+  stage: trade
+  translationsVerified: false
+- id: landed-cost
+  en: Landed cost
+  aliases: [landed price]
+  es: Costo en destino
+  zh-hant: 到岸成本
+  zh-hans: 到岸成本
+  definition: The cost of green coffee in the importing country, after freight, insurance, duty, import costs and financing.
+  stage: trade
+  translationsVerified: false
+- id: ico-composite-indicator
+  en: ICO composite indicator price
+  aliases: [I-CIP, ICO composite]
+  es: Precio indicativo compuesto de la OIC
+  zh-hant: ICO 綜合指標價格
+  zh-hans: ICO 综合指标价格
+  definition: A daily reference price from the International Coffee Organization that combines four group indicators, weighted by market share.
+  stage: trade
+  translationsVerified: false
+- id: futures-contract
+  en: Futures contract
+  aliases: [coffee futures, terminal market]
+  es: Contrato de futuros
+  zh-hant: 期貨合約
+  zh-hans: 期货合约
+  definition: A standardised exchange contract to buy or sell a set quantity and grade of a commodity in a set future delivery month.
+  stage: trade
+  entry: coffee-futures
+  translationsVerified: false
+- id: hedge
+  en: Hedge
+  aliases: [hedging, short hedge, long hedge]
+  es: Cobertura
+  zh-hant: 避險
+  zh-hans: 套期保值
+  definition: A futures position taken as a temporary stand-in for a physical purchase or sale, to offset price risk.
+  stage: trade
+  entry: hedging
+  translationsVerified: false
+- id: contango
+  en: Contango
+  aliases: [carry market]
+  es: Contango
+  zh-hant: 正價差（Contango）
+  zh-hans: 正价差（Contango）
+  definition: A market in which futures for later delivery months are progressively higher priced than the nearest month.
+  stage: trade
+  translationsVerified: false
+- id: backwardation
+  en: Backwardation
+  aliases: [inverted market]
+  es: Backwardation
+  zh-hant: 逆價差（Backwardation）
+  zh-hans: 逆价差（Backwardation）
+  definition: A market in which futures for later delivery months are progressively lower priced than the nearest month.
+  stage: trade
+  translationsVerified: false
+- id: certified-stocks
+  en: Certified stocks
+  aliases: [certified stock, exchange stocks]
+  es: Existencias certificadas
+  zh-hant: 認證庫存
+  zh-hans: 认证库存
+  definition: Coffee in exchange-licensed warehouses that has been graded and found deliverable against a futures contract.
+  stage: trade
+  translationsVerified: false
+- id: variation-margin
+  en: Variation margin
+  aliases: [margin call]
+  es: Margen de variación
+  zh-hant: 變動保證金
+  zh-hans: 变动保证金
+  definition: The daily payment between a futures position holder and the clearing house that settles that day's price move.
+  stage: trade
+  translationsVerified: false
+- id: exchange-for-physicals
+  en: Exchange for physicals
+  aliases: [EFP, exchange of futures for physicals]
+  es: Intercambio de futuros por físicos
+  zh-hant: 期貨轉現貨
+  zh-hans: 期货转现货
+  definition: A trade in which a futures position is swapped for the matching physical coffee between two parties, often to fix a PTBF price.
+  stage: trade
+  entry: price-fixation
+  translationsVerified: false
+- id: category-2-defect
+  en: Category 2 defect
+  aliases: [secondary defect]
+  es: Defecto de categoría 2
+  zh-hant: 二級瑕疵
+  zh-hans: 二级瑕疵
+  definition: In the SCA green coffee assessment, a defect that counts lightly, so several beans make one full defect, such as broken or partial black beans.
+  stage: trade
+  translationsVerified: false
+- id: basis-grade
+  en: Basis grade
+  aliases: [contract basis]
+  es: Grado base
+  zh-hant: 基準等級
+  zh-hans: 基准等级
+  definition: The grade against which a futures exchange prices all other deliverable grades by premiums and discounts.
+  stage: trade
+  translationsVerified: false
+- id: excelso
+  en: Excelso
+  es: Excelso
+  zh-hant: Excelso 等級
+  zh-hans: Excelso 等级
+  definition: Colombian export grade of mainly flat, even beans above screen 14.
+  stage: trade
+  translationsVerified: false
+- id: supremo
+  en: Supremo
+  es: Supremo
+  zh-hant: Supremo 等級
+  zh-hans: Supremo 等级
+  definition: Colombian export grade of mainly flat, even beans above screen 17.
+  stage: trade
+  translationsVerified: false
+# Plant, Farm and Trade wave 2 (16 Oct 2026)
+- id: appressorium
+  en: Appressorium
+  aliases: [appressoria]
+  es: Apresorio
+  zh-hant: 附著胞
+  zh-hans: 附着胞
+  definition: "A swollen tip of a germinating fungal spore that attaches to the plant surface and helps the fungus enter."
+  stage: farm
+  translationsVerified: false
+- id: landrace
+  en: Landrace
+  aliases: [local landrace]
+  es: Variedad local
+  zh-hant: 地方品種
+  zh-hans: 地方品种
+  definition: "A traditional, locally adapted crop population that farmers keep and pass on, as opposed to a variety released by a breeding programme."
+  stage: plant
+  entry: ethiopian-landraces
+  translationsVerified: false
+- id: accession
+  en: Accession
+  aliases: [germplasm accession]
+  es: Accesión
+  zh-hant: 種質材料（Accession）
+  zh-hans: 种质材料（Accession）
+  definition: "One sample of seed or plants held in a genebank or collection under its own identifier."
+  stage: plant
+  translationsVerified: false
+- id: nagoya-protocol
+  en: Nagoya Protocol
+  es: Protocolo de Nagoya
+  zh-hant: 名古屋議定書
+  zh-hans: 名古屋议定书
+  definition: "The agreement under the Convention on Biological Diversity on access to genetic resources and fair sharing of the benefits from their use; in force since October 2014."
+  stage: plant
+  translationsVerified: false
+- id: active-lesion
+  en: Active lesion
+  es: Lesión activa
+  zh-hant: 活性病斑
+  zh-hans: 活性病斑
+  definition: "A dark, sunken, fast-spreading spot of coffee berry disease that carries spore masses."
+  stage: farm
+  entry: coffee-berry-disease
+  translationsVerified: false
+- id: scab-lesion
+  en: Scab lesion
+  es: Lesión de costra
+  zh-hant: 痂狀病斑
+  zh-hans: 痂状病斑
+  definition: "A slow, buff, corky spot of coffee berry disease with little or no sporulation, linked to cork barriers in resistant plants."
+  stage: farm
+  entry: coffee-berry-disease
+  translationsVerified: false
+- id: quarantine-pest
+  en: Quarantine pest
+  es: Plaga cuarentenaria
+  zh-hant: 檢疫性有害生物
+  zh-hans: 检疫性有害生物
+  definition: "A pest that a country's import rules aim to keep out or contain."
+  stage: farm
+  translationsVerified: false
+- id: repase
+  en: Repase
+  aliases: [sanitation pick]
+  es: Repase
+  zh-hant: 清園採收（Repase）
+  zh-hans: 清园采收（Repase）
+  definition: "A final picking pass after the main harvest that removes ripe, overripe and dry fruit from tree and ground to break the berry borer cycle."
+  stage: farm
+  entry: coffee-berry-borer
+  translationsVerified: false
+- id: beauveria-bassiana
+  en: Beauveria bassiana
+  aliases: [Beauveria]
+  es: Beauveria bassiana
+  zh-hant: 白僵菌
+  zh-hans: 白僵菌
+  definition: "An insect-killing fungus that infects the coffee berry borer and is applied as a biological insecticide."
+  stage: farm
+  translationsVerified: false
+- id: parasitoid
+  en: Parasitoid
+  aliases: [parasitoid wasp]
+  es: Parasitoide
+  zh-hant: 擬寄生物
+  zh-hans: 拟寄生物
+  definition: "An insect whose larvae develop in or on a single host insect and kill it."
+  stage: farm
+  translationsVerified: false
+- id: degree-day
+  en: Degree-day
+  aliases: [degree day]
+  es: Grado-día
+  zh-hant: 度日
+  zh-hans: 度日
+  definition: "A unit of accumulated warmth above a development threshold, used to predict insect development time."
+  stage: farm
+  translationsVerified: false
+- id: basis-risk
+  en: Basis risk
+  aliases: [differential risk]
+  es: Riesgo de base
+  zh-hant: 基差風險
+  zh-hans: 基差风险
+  definition: "The risk that the differential between a physical price and the futures price changes between placing and lifting a hedge."
+  stage: trade
+  entry: differentials
+  translationsVerified: false
+- id: growth-differential
+  en: Growth differential
+  aliases: [origin differential, exchange differential]
+  es: Diferencial de origen
+  zh-hant: 產地價差
+  zh-hans: 产地价差
+  definition: "The fixed premium or discount, set in the exchange rules, at which coffee of a named origin can be delivered against a futures contract."
+  stage: trade
+  entry: differentials
+  translationsVerified: false
+- id: weight-franchise
+  en: Weight franchise
+  es: Franquicia de peso
+  zh-hant: 重量免賠額
+  zh-hans: 重量免赔额
+  definition: "The weight loss in transit, as a share of the invoiced weight, that the buyer bears under a shipped-weights contract; loss beyond it is refunded by the seller."
+  stage: trade
+  entry: green-coffee-contracts
+  translationsVerified: false
+- id: shipped-weights
+  en: Shipped weights
+  aliases: [shipped weight]
+  es: Pesos de embarque
+  zh-hant: 裝運重量
+  zh-hans: 装运重量
+  definition: "A contract basis on which green coffee is invoiced on its weight at loading."
+  stage: trade
+  entry: green-coffee-contracts
+  translationsVerified: false
+- id: landed-weights
+  en: Landed weights
+  aliases: [landed weight]
+  es: Pesos desembarcados
+  zh-hant: 到岸重量
+  zh-hans: 到岸重量
+  definition: "A contract basis on which green coffee is weighed after discharge at destination and the invoice is settled on that weight."
+  stage: trade
+  entry: green-coffee-contracts
+  translationsVerified: false
+- id: bill-of-lading
+  en: Bill of lading
+  aliases: [B/L]
+  es: Conocimiento de embarque
+  zh-hant: 提單
+  zh-hans: 提单
+  definition: "The transport document for a sea shipment; its \"on board\" date proves the shipment date in coffee contracts."
+  stage: trade
+  entry: shipping-green-coffee
+  translationsVerified: false
+- id: letter-of-credit
+  en: Letter of credit
+  aliases: [L/C]
+  es: Carta de crédito
+  zh-hant: 信用狀
+  zh-hans: 信用证
+  definition: "A payment arranged through banks against documents; coffee contracts require it to stay valid beyond the shipment period."
+  stage: trade
+  translationsVerified: false
+- id: quality-arbitration
+  en: Quality arbitration
+  es: Arbitraje de calidad
+  zh-hant: 品質仲裁
+  zh-hans: 品质仲裁
+  definition: "Settlement by an arbitral body of the coffee trade of a dispute over whether delivered coffee matches the contract quality, judged on sealed samples."
+  stage: trade
+  entry: green-coffee-contracts
+  translationsVerified: false
+- id: type-sample
+  en: Type sample
+  es: Muestra tipo
+  zh-hant: 類型樣品
+  zh-hans: 类型样品
+  definition: "A sample that shows the quality type a contract is sold on, against which the delivered coffee is compared."
+  stage: trade
+  translationsVerified: false
+- id: incoterms
+  en: Incoterms rules
+  aliases: [Incoterms, Incoterms 2020]
+  es: Reglas Incoterms
+  zh-hant: 國際貿易術語（Incoterms）
+  zh-hans: 国际贸易术语（Incoterms）
+  definition: "Eleven three-letter trade terms of the International Chamber of Commerce that set where the seller delivers, where risk passes and who pays which costs."
+  stage: trade
+  entry: incoterms-for-coffee
+  translationsVerified: false
+- id: cost-insurance-freight
+  en: Cost, insurance and freight
+  aliases: [CIF]
+  es: Costo, seguro y flete
+  zh-hant: 成本、保險加運費
+  zh-hans: 成本、保险加运费
+  definition: "An Incoterms rule under which risk passes on board at the port of shipment, while the seller pays freight and minimum insurance to the named port of destination."
+  stage: trade
+  entry: incoterms-for-coffee
+  translationsVerified: false
+- id: free-carrier
+  en: Free carrier
+  aliases: [FCA]
+  es: Franco transportista
+  zh-hant: 貨交承運人
+  zh-hans: 货交承运人
+  definition: "An Incoterms rule under which the seller delivers the goods to the carrier nominated by the buyer, and risk passes at that point."
+  stage: trade
+  entry: incoterms-for-coffee
+  translationsVerified: false
+- id: ex-dock
+  en: Ex dock
+  aliases: [ex-dock]
+  es: Ex muelle
+  zh-hant: 碼頭交貨（Ex dock）
+  zh-hans: 码头交货（Ex dock）
+  definition: "A delivery term of the Green Coffee Association contract, not an Incoterms rule; risk passes on the dock at the port of destination."
+  stage: trade
+  entry: incoterms-for-coffee
+  translationsVerified: false
+# Roast steps wave (17 Oct 2026)
+- id: first-crack
+  en: First crack
+  es: Primer crack
+  zh-hant: 一爆
+  zh-hans: 一爆
+  definition: "The first audible cracking of the beans during roasting, as built-up water vapour and gas break the bean structure."
+  stage: roast
+  entry: first-crack
+  translationsVerified: false
+- id: between-batch-protocol
+  en: Between-batch protocol
+  aliases: [BBP]
+  es: Protocolo entre tandas
+  zh-hant: 批次間程序
+  zh-hans: 批次间程序
+  definition: "A fixed routine between roasts, used in practice to bring the roaster back to the same starting state."
+  stage: roast
+  entry: preheating-and-charge
+  translationsVerified: false
+- id: drying-front
+  en: Drying front
+  aliases: [evaporation front]
+  es: Frente de secado
+  zh-hant: 乾燥前緣
+  zh-hans: 干燥前缘
+  definition: "The moving boundary inside a roasting bean between a drying outer layer and a moist core."
+  stage: roast
+  entry: drying-phase
+  translationsVerified: false
+- id: evaporative-cooling
+  en: Evaporative cooling
+  es: Enfriamiento evaporativo
+  zh-hant: 蒸發冷卻
+  zh-hans: 蒸发冷却
+  definition: "The cooling of a material as its water absorbs heat to evaporate."
+  stage: roast
+  translationsVerified: false
+- id: latent-heat
+  en: Latent heat
+  aliases: [latent heat of evaporation]
+  es: Calor latente
+  zh-hant: 潛熱
+  zh-hans: 潜热
+  definition: "Heat taken up or released when a substance changes phase, such as water turning to vapour, without a change in temperature."
+  stage: roast
+  translationsVerified: false
+- id: endothermic-reaction
+  en: Endothermic reaction
+  aliases: [endothermic, endothermic phase]
+  es: Reacción endotérmica
+  zh-hant: 吸熱反應
+  zh-hans: 吸热反应
+  definition: "A process that absorbs heat; in roasting, the early phase when energy goes into heating the beans and evaporating water."
+  stage: roast
+  translationsVerified: false
+- id: exothermic-reaction
+  en: Exothermic reaction
+  aliases: [exothermic, exothermic phase]
+  es: Reacción exotérmica
+  zh-hant: 放熱反應
+  zh-hans: 放热反应
+  definition: "A chemical reaction that releases heat; in roasting, reactions late in the roast that need less heat input."
+  stage: roast
+  translationsVerified: false
+- id: yellowing
+  en: Yellowing
+  aliases: [colour change, color change]
+  es: Amarilleo
+  zh-hant: 轉黃
+  zh-hans: 转黄
+  definition: "The visible change of roasting beans from greenish to yellow, used as the boundary between the drying and browning phases."
+  stage: roast
+  entry: browning-phase
+  translationsVerified: false
+- id: pyrolysis
+  en: Pyrolysis
+  aliases: [pyrolytic]
+  es: Pirólisis
+  zh-hant: 熱裂解
+  zh-hans: 热裂解
+  definition: "Chemical breakdown of organic matter by heat alone, without oxygen taking part."
+  stage: roast
+  translationsVerified: false
+- id: time-to-first-crack
+  en: Time to first crack
+  es: Tiempo hasta el primer crack
+  zh-hant: 一爆前時間
+  zh-hans: 一爆前时间
+  definition: "The time from the charge to the first audible cracking of the beans."
+  stage: roast
+  translationsVerified: false
+- id: end-temperature
+  en: End temperature
+  aliases: [drop temperature]
+  es: Temperatura final
+  zh-hant: 出豆溫度
+  zh-hans: 出豆温度
+  definition: "The probe temperature at which a roast is ended; it depends on the machine and probe."
+  stage: roast
+  translationsVerified: false
+- id: guaiacol
+  en: Guaiacol
+  aliases: [guaiacols, 4-vinylguaiacol, volatile phenols]
+  es: Guayacol
+  zh-hant: 愈創木酚
+  zh-hans: 愈创木酚
+  definition: "A volatile phenol formed from chlorogenic acids during roasting that gives dark roasts smoky, woody notes."
+  stage: roast
+  translationsVerified: false
+- id: oil-migration
+  en: Oil migration
+  aliases: [oily beans]
+  es: Migración de aceite
+  zh-hant: 油脂遷移
+  zh-hans: 油脂迁移
+  definition: "Movement of coffee oil to the bean surface, pushed by gas pressure, faster in dark roasts."
+  stage: roast
+  entry: second-crack
+  translationsVerified: false
+- id: phenylindanes
+  en: Phenylindanes
+  aliases: [phenylindane]
+  es: Fenilindanos
+  zh-hant: 苯基茚滿
+  zh-hans: 苯基茚满
+  definition: "Breakdown products of chlorogenic acid lactones that give dark roasts a lingering harsh bitterness."
+  stage: roast
+  entry: chlorogenic-acids
+  translationsVerified: false
+- id: trigonelline
+  en: Trigonelline
+  es: Trigonelina
+  zh-hant: 葫蘆巴鹼
+  zh-hans: 葫芦巴碱
+  definition: "A nitrogen-containing alkaloid in green coffee, partly broken down in roasting to nicotinic acid, pyridines and pyrroles."
+  stage: roast
+  entry: green-coffee-composition
+  translationsVerified: false
+- id: galactomannan
+  en: Galactomannan
+  aliases: ["galactomannans"]
+  es: Galactomanano
+  zh-hant: 半乳甘露聚糖
+  zh-hans: 半乳甘露聚糖
+  definition: "A cell-wall polysaccharide of the coffee bean: a mannose chain with single galactose side units, about half of the polysaccharides in green coffee."
+  stage: roast
+  entry: carbohydrates-and-body
+  translationsVerified: false
+- id: arabinogalactan
+  en: Arabinogalactan
+  aliases: ["arabinogalactans", "arabinogalactan-protein", "arabinogalactan proteins"]
+  es: Arabinogalactano
+  zh-hant: 阿拉伯半乳聚糖
+  zh-hans: 阿拉伯半乳聚糖
+  definition: "A branched, protein-linked cell-wall polysaccharide of the coffee bean whose arabinose side chains break off during roasting."
+  stage: roast
+  entry: carbohydrates-and-body
+  translationsVerified: false
+- id: diterpenes
+  en: Diterpenes
+  aliases: ["diterpene", "diterpene esters"]
+  es: Diterpenos
+  zh-hant: 二萜
+  zh-hans: 二萜
+  definition: "A class of compounds in coffee oil, chiefly cafestol and kahweol, mostly bound to fatty acids as esters."
+  stage: roast
+  entry: coffee-oil
+  translationsVerified: false
+- id: kahweol
+  en: Kahweol
+  es: Kahweol
+  zh-hant: 咖啡豆醇
+  zh-hans: 咖啡豆醇
+  definition: "A diterpene of coffee oil, abundant in arabica and scarce in robusta, that breaks down more readily in roasting than cafestol."
+  stage: roast
+  entry: coffee-oil
+  translationsVerified: false
+- id: 16-o-methylcafestol
+  en: "16-O-methylcafestol"
+  aliases: ["16-OMC"]
+  es: 16-O-metilcafestol
+  zh-hant: 16-O-甲基咖啡醇
+  zh-hans: 16-O-甲基咖啡醇
+  definition: "A diterpene typical of robusta, stable in roasting and used to detect robusta in arabica blends."
+  stage: roast
+  entry: coffee-oil
+  translationsVerified: false
+- id: oil-bodies
+  en: Oil bodies
+  aliases: ["oleosomes", "oil body"]
+  es: Cuerpos lipídicos
+  zh-hant: 油體
+  zh-hans: 油体
+  definition: "Tiny membrane-bound droplets of oil in the cells of the coffee seed."
+  stage: plant
+  entry: coffee-oil
+  translationsVerified: false
+- id: caffeoylquinic-acids
+  en: Caffeoylquinic acids
+  aliases: ["caffeoylquinic acid", "CQA"]
+  es: Ácidos cafeoilquínicos
+  zh-hant: 咖啡醯奎寧酸
+  zh-hans: 咖啡酰奎宁酸
+  definition: "The main group of chlorogenic acids, in which caffeic acid is bound to quinic acid; 5-caffeoylquinic acid is the most abundant."
+  stage: roast
+  entry: chlorogenic-acids
+  translationsVerified: false
+- id: hydroxymethylfurfural
+  en: "5-Hydroxymethylfurfural"
+  aliases: ["HMF", "hydroxymethylfurfural"]
+  es: 5-Hidroximetilfurfural
+  zh-hant: 5-羥甲基糠醛
+  zh-hans: 5-羟甲基糠醛
+  definition: "A furan formed when hexose sugars lose water on heating, by caramelisation or the Maillard reaction."
+  stage: roast
+  entry: caramelisation
+  translationsVerified: false
+- id: strecker-aldehyde
+  en: Strecker aldehyde
+  aliases: ["Strecker aldehydes"]
+  es: Aldehído de Strecker
+  zh-hant: Strecker 醛
+  zh-hans: Strecker 醛
+  definition: "An aldehyde with one carbon fewer than its parent amino acid, formed by Strecker degradation, such as malty 3-methylbutanal."
+  stage: roast
+  entry: strecker-degradation
+  translationsVerified: false
+- id: alpha-dicarbonyl
+  en: "α-Dicarbonyl"
+  aliases: ["α-dicarbonyls", "alpha-dicarbonyl", "dicarbonyl compounds"]
+  es: α-Dicarbonilo
+  zh-hant: α-二羰基化合物
+  zh-hans: α-二羰基化合物
+  definition: "A small molecule with two neighbouring carbonyl groups, formed when sugars break down, that drives Strecker degradation of amino acids."
+  stage: roast
+  entry: strecker-degradation
+  translationsVerified: false
+- id: decarboxylation
+  en: Decarboxylation
+  es: Descarboxilación
+  zh-hant: 脫羧反應
+  zh-hans: 脱羧反应
+  definition: "A reaction in which a molecule loses its acid (carboxyl) group as carbon dioxide; in roasting it is part of Strecker degradation."
+  stage: roast
+  entry: roast-gases-and-co2
+  translationsVerified: false
+- id: acrylamide
+  en: Acrylamide
+  es: Acrilamida
+  zh-hant: 丙烯醯胺
+  zh-hans: 丙烯酰胺
+  definition: "A process contaminant formed from asparagine and sugars in the Maillard reaction; in coffee it peaks early in the roast and falls with darker roasting."
+  stage: roast
+  entry: roasting-contaminants
+  translationsVerified: false
+- id: asparaginase
+  en: Asparaginase
+  es: Asparaginasa
+  zh-hant: 天門冬醯胺酶
+  zh-hans: 天冬酰胺酶
+  definition: "An enzyme that breaks down the amino acid asparagine, used in some foods before heating to lower acrylamide formation."
+  stage: roast
+  entry: roasting-contaminants
+  translationsVerified: false
+- id: bean-density
+  en: Bean density
+  aliases: ["apparent bean density"]
+  es: Densidad del grano
+  zh-hant: 豆體密度
+  zh-hans: 豆体密度
+  definition: "Mass of coffee beans divided by the volume of the beans themselves, internal pores included, usually measured by liquid displacement."
+  stage: roast
+  entry: bean-size-and-density
+  translationsVerified: false
+- id: plasticisation
+  en: Plasticisation
+  aliases: ["plasticization", "plasticiser", "plasticizer"]
+  es: Plastificación
+  zh-hant: 塑化
+  zh-hans: 塑化
+  definition: "Softening of an amorphous material by a small molecule such as water, which lowers its glass transition temperature."
+  stage: roast
+  entry: glass-rubber-transition
+  translationsVerified: false
+- id: mercury-porosimetry
+  en: Mercury porosimetry
+  aliases: ["mercury intrusion porosimetry"]
+  es: Porosimetría de mercurio
+  zh-hant: 壓汞孔隙測定法
+  zh-hans: 压汞孔隙测定法
+  definition: "A method that forces mercury into a sample under rising pressure to measure its pore volume and pore size distribution."
+  stage: roast
+  entry: porosity-and-cell-structure
+  translationsVerified: false
+- id: x-ray-microtomography
+  en: X-ray microtomography
+  aliases: ["micro-CT", "X-ray micro-CT"]
+  es: Microtomografía de rayos X
+  zh-hant: X射線顯微斷層掃描
+  zh-hans: X射线显微断层扫描
+  definition: "Three-dimensional X-ray imaging at micrometre resolution, used to see pores and cracks inside whole beans without cutting them."
+  stage: roast
+  entry: porosity-and-cell-structure
+  translationsVerified: false
+- id: diffusion
+  en: "Diffusion"
+  aliases: ["diffuse", "diffuses"]
+  es: Difusión
+  zh-hant: 擴散
+  zh-hans: 扩散
+  definition: "Movement of dissolved substances from where they are more concentrated to where they are less, as from inside a coffee particle into the brew."
+  stage: brew
+  entry: what-extraction-is
+  translationsVerified: false
+- id: suspended-solids
+  en: "Suspended solids"
+  aliases: ["suspended solid"]
+  es: Sólidos en suspensión
+  zh-hant: 懸浮固體
+  zh-hans: 悬浮固体
+  definition: "Undissolved coffee particles carried into the brew, counted in total solids but not in dissolved solids."
+  stage: brew
+  entry: what-extraction-is
+  translationsVerified: false
+- id: contact-time
+  en: "Contact time"
+  aliases: ["brew time"]
+  es: Tiempo de contacto
+  zh-hant: 接觸時間
+  zh-hans: 接触时间
+  definition: "How long brewing water and ground coffee are together during extraction."
+  stage: brew
+  entry: extraction-variables
+  translationsVerified: false
+- id: boiling-point
+  en: "Boiling point"
+  aliases: ["boiling temperature"]
+  es: Punto de ebullición
+  zh-hant: 沸點
+  zh-hans: 沸点
+  definition: "The temperature at which water's vapour pressure equals the surrounding pressure; it falls with altitude and rises in a pressurised boiler."
+  stage: brew
+  entry: brew-temperature
+  translationsVerified: false
+- id: brewing-ratio
+  en: "Brewing ratio"
+  aliases: ["coffee-to-water ratio", "water-to-coffee ratio"]
+  es: Proporción de preparación
+  zh-hant: 粉水比
+  zh-hans: 粉水比
+  definition: "The mass of dry ground coffee compared with the mass of water used to brew it, written for example as 55 g/kg or 1:18."
+  stage: brew
+  entry: brew-ratio-and-strength
+  translationsVerified: false
+- id: beverage-ratio
+  en: "Beverage ratio"
+  aliases: ["coffee-to-beverage ratio"]
+  es: Proporción de bebida
+  zh-hant: 粉液比
+  zh-hans: 粉液比
+  definition: "The mass of dry ground coffee compared with the mass of beverage collected, as in espresso recipes such as 20 g to 40 g (1:2)."
+  stage: brew
+  entry: brew-ratio-and-strength
+  translationsVerified: false
+- id: golden-cup-standard
+  en: "Golden Cup Standard"
+  aliases: ["Golden Cup", "Gold Cup standard"]
+  es: Estándar Golden Cup
+  zh-hant: 金杯標準
+  zh-hans: 金杯标准
+  definition: "The SCA's target box for filter coffee on the brewing control chart, 1.15–1.35% TDS at 18–22% extraction yield."
+  stage: brew
+  entry: brewing-control-chart
+  translationsVerified: false
+- id: bicarbonate
+  en: "Bicarbonate"
+  aliases: ["hydrogen carbonate", "HCO₃⁻"]
+  es: Bicarbonato
+  zh-hant: 碳酸氫根
+  zh-hans: 碳酸氢根
+  definition: "The hydrogen carbonate ion, which makes up most of the alkalinity of natural waters and neutralises acids."
+  stage: brew
+  entry: hardness-and-alkalinity
+  translationsVerified: false
+- id: carbonic-acid
+  en: "Carbonic acid"
+  aliases: ["H₂CO₃"]
+  es: Ácido carbónico
+  zh-hant: 碳酸
+  zh-hans: 碳酸
+  definition: "The weak acid formed when carbon dioxide dissolves in water; it links dissolved CO₂, bicarbonate and pH."
+  stage: brew
+  entry: hardness-and-alkalinity
+  translationsVerified: false
+- id: tds-meter
+  en: "TDS meter"
+  aliases: ["total dissolved solids meter"]
+  es: Medidor de TDS
+  zh-hant: TDS 測定筆
+  zh-hans: TDS 测定笔
+  definition: "A conductivity meter that converts its reading to dissolved solids in mg/L with a built-in factor that varies between meters."
+  stage: brew
+  entry: measuring-water
+  translationsVerified: false
+- id: edta-titration
+  en: "EDTA titration"
+  aliases: ["complexometric titration"]
+  es: Valoración con EDTA
+  zh-hant: EDTA 滴定
+  zh-hans: EDTA 滴定
+  definition: "A drop-by-drop test that measures total hardness (calcium plus magnesium) with the reagent EDTA and a colour indicator."
+  stage: brew
+  entry: measuring-water
+  translationsVerified: false
+- id: chloramine
+  en: "Chloramine"
+  aliases: ["chloramines", "monochloramine"]
+  es: Cloramina
+  zh-hant: 氯胺
+  zh-hans: 氯胺
+  definition: "A chlorine–ammonia disinfectant used by some waterworks, usually removed for coffee with activated carbon."
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: chlorophenol
+  en: "Chlorophenol"
+  aliases: ["chlorophenols"]
+  es: Clorofenol
+  zh-hant: 氯酚
+  zh-hans: 氯酚
+  definition: "A compound formed when chlorine reacts with phenols, with a medicinal taste noticeable at very low levels."
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: dealkaliser
+  en: "Dealkaliser"
+  aliases: ["dealkalizer", "dealkalisation"]
+  es: Desalcalinizador
+  zh-hant: 降鹼度處理
+  zh-hans: 降碱度处理
+  definition: "A treatment that lowers alkalinity without changing hardness, by anion exchange or by adding a strong acid."
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: remineralisation
+  en: "Remineralisation"
+  aliases: ["remineralization"]
+  es: Remineralización
+  zh-hant: 再礦化
+  zh-hans: 再矿化
+  definition: "Adding minerals back to demineralised water, such as reverse-osmosis water, to give it buffer and hardness."
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: scale-inhibitor
+  en: "Scale inhibitor"
+  aliases: ["polyphosphate"]
+  es: Inhibidor de incrustaciones
+  zh-hant: 阻垢劑
+  zh-hans: 阻垢剂
+  definition: "An additive such as polyphosphate that delays scale without lowering hardness or alkalinity."
+  stage: brew
+  entry: water-treatment
+  translationsVerified: false
+- id: mendelian-randomisation
+  en: "Mendelian randomisation"
+  aliases: ["Mendelian randomization", "MR study"]
+  es: Aleatorización mendeliana
+  zh-hant: 孟德爾隨機化
+  zh-hans: 孟德尔随机化
+  definition: "A study method that uses gene variants linked to an exposure, such as coffee intake, as a stand-in for the exposure itself."
+  stage: cup
+  entry: coffee-and-long-term-health
+  translationsVerified: false
+- id: umbrella-review
+  en: "Umbrella review"
+  aliases: ["umbrella reviews"]
+  es: Revisión paraguas
+  zh-hant: 傘狀綜述
+  zh-hans: 伞状综述
+  definition: "A review that collects and grades existing systematic reviews and meta-analyses on a topic."
+  stage: cup
+  entry: coffee-and-long-term-health
+  translationsVerified: false
+- id: relative-risk
+  en: "Relative risk"
+  aliases: ["risk ratio", "relative risks"]
+  es: Riesgo relativo
+  zh-hant: 相對風險
+  zh-hans: 相对风险
+  definition: "The risk of an outcome in one group divided by the risk in a comparison group; 1 means no difference."
+  stage: cup
+  entry: how-to-read-coffee-health-news
+  translationsVerified: false
+- id: absolute-risk
+  en: "Absolute risk"
+  aliases: ["absolute risks"]
+  es: Riesgo absoluto
+  zh-hant: 絕對風險
+  zh-hans: 绝对风险
+  definition: "The share of people in a group who develop an outcome over a stated period, for example 11 per 1,000."
+  stage: cup
+  entry: how-to-read-coffee-health-news
+  translationsVerified: false
+- id: confounding
+  en: "Confounding"
+  aliases: ["confounder", "confounders"]
+  es: Confusión (sesgo de confusión)
+  zh-hant: 混雜
+  zh-hans: 混杂
+  definition: "Distortion of an association by a third factor linked to both the exposure and the outcome, such as smoking in coffee studies."
+  stage: cup
+  entry: how-to-read-coffee-health-news
+  translationsVerified: false
+- id: cohort-study
+  en: "Cohort study"
+  aliases: ["cohort studies", "prospective cohort"]
+  es: Estudio de cohortes
+  zh-hant: 世代研究
+  zh-hans: 队列研究
+  definition: "An observational study that follows a group of people forward in time and records who develops an outcome."
+  stage: cup
+  entry: how-to-read-coffee-health-news
+  translationsVerified: false
+- id: randomised-trial
+  en: "Randomised trial"
+  aliases: ["randomised controlled trial", "randomized controlled trial", "RCT"]
+  es: Ensayo aleatorizado
+  zh-hant: 隨機對照試驗
+  zh-hans: 随机对照试验
+  definition: "A study in which chance decides who receives the intervention, so differences in outcome can be attributed to it."
+  stage: cup
+  entry: how-to-read-coffee-health-news
+  translationsVerified: false
+- id: gastrin
+  en: "Gastrin"
+  es: Gastrina
+  zh-hant: 胃泌素
+  zh-hans: 胃泌素
+  definition: "A hormone that stimulates the stomach to secrete acid."
+  stage: cup
+  entry: coffee-and-digestion
+  translationsVerified: false
+- id: maximum-residue-level
+  en: "Maximum residue level"
+  aliases: ["MRL", "MRLs"]
+  es: Límite máximo de residuos
+  zh-hant: 最大殘留限量
+  zh-hans: 最大残留限量
+  definition: "The highest legally permitted concentration of a pesticide residue in or on a food, set per pesticide and product."
+  stage: cup
+  entry: contaminants-and-food-safety
+  translationsVerified: false
+- id: crossmodal-correspondence
+  en: "Crossmodal correspondence"
+  aliases: ["crossmodal correspondences", "cross-modal correspondence"]
+  es: Correspondencia intermodal
+  zh-hant: 跨感官對應
+  zh-hans: 跨感官对应
+  definition: "A consistent tendency to match a feature in one sense with one in another, such as round shapes with sweetness."
+  stage: cup
+  entry: crossmodal-effects
+  translationsVerified: false
+- id: food-contact-material
+  en: "Food contact material"
+  aliases: ["food contact materials", "FCM"]
+  es: Material en contacto con alimentos
+  zh-hant: 食品接觸材料
+  zh-hans: 食品接触材料
+  definition: "Any material or article intended to come into contact with food, such as cups, glazes and linings, regulated by limits on what may migrate into food."
+  stage: cup
+  entry: cups-and-vessels
+  translationsVerified: false
+- id: jebena
+  en: "Jebena"
+  aliases: ["jebenas"]
+  es: Jebena
+  zh-hant: 傑貝納陶壺
+  zh-hans: 杰贝纳陶壶
+  definition: "Round-bottomed clay coffee pot with a long neck and narrow spout, used to boil coffee in the Ethiopian coffee ceremony."
+  stage: cup
+  entry: the-ethiopian-coffee-ceremony
+  translationsVerified: false
+- id: specialty-coffee
+  en: "Specialty coffee"
+  aliases: ["speciality coffee"]
+  es: Café de especialidad
+  zh-hant: 精品咖啡
+  zh-hans: 精品咖啡
+  definition: "Coffee sold on its distinctive flavour in the cup, as opposed to undifferentiated commodity coffee."
+  stage: cup
+  entry: eras-and-waves-of-coffee
+  translationsVerified: false
+- id: cup-of-excellence
+  en: "Cup of Excellence"
+  aliases: ["CoE"]
+  es: Taza de la Excelencia
+  zh-hant: 卓越杯
+  zh-hans: 卓越杯
+  definition: "A national coffee competition, begun in Brazil in the late 1990s, whose top-scoring lots are sold at online auction."
+  stage: trade
+  entry: auctions-and-competitions
+  translationsVerified: false
+- id: perisperm
+  en: "Perisperm"
+  aliases: []
+  es: "Perispermo"
+  zh-hant: "外胚乳"
+  zh-hans: "外胚乳"
+  definition: "A temporary tissue of the young coffee seed that the endosperm gradually replaces; the silverskin is its remnant."
+  stage: plant
+  entry: fruit-development
+  translationsVerified: false
+- id: cryopreservation
+  en: "Cryopreservation"
+  aliases: ["cryoconservation"]
+  es: "Criopreservación"
+  zh-hant: "超低溫保存"
+  zh-hans: "超低温保存"
+  definition: "Long-term storage of living seeds or tissues in liquid nitrogen."
+  stage: plant
+  entry: seed-anatomy-and-storage
+  translationsVerified: false
+- id: intermediate-seed
+  en: "Intermediate seed"
+  aliases: ["intermediate seeds", "intermediate storage behaviour"]
+  es: "Semilla intermedia"
+  zh-hant: "中間型種子"
+  zh-hans: "中间型种子"
+  definition: "A seed that survives partial drying but not complete drying, as coffee seeds do, so it cannot be kept long in a conventional seed bank."
+  stage: plant
+  entry: seed-anatomy-and-storage
+  translationsVerified: false
+- id: field-genebank
+  en: "Field genebank"
+  aliases: ["field genebanks", "field gene bank"]
+  es: "Banco de germoplasma en campo"
+  zh-hant: "田間種原庫"
+  zh-hans: "田间种质库"
+  definition: "A collection that conserves plant genetic resources as living plants in the field rather than as stored seed."
+  stage: plant
+  entry: seed-anatomy-and-storage
+  translationsVerified: false
+- id: radicle
+  en: "Radicle"
+  aliases: ["radicles"]
+  es: "Radícula"
+  zh-hant: "胚根"
+  zh-hans: "胚根"
+  definition: "The embryonic root, the first part of the embryo to break out of a germinating seed."
+  stage: plant
+  entry: germination-and-seedlings
+  translationsVerified: false
+- id: hypocotyl
+  en: "Hypocotyl"
+  aliases: ["hypocotyls"]
+  es: "Hipocótilo"
+  zh-hant: "下胚軸"
+  zh-hans: "下胚轴"
+  definition: "The seedling stem below the cotyledons; in coffee it lifts the seed out of the soil."
+  stage: plant
+  entry: germination-and-seedlings
+  translationsVerified: false
+- id: cotyledon
+  en: "Cotyledon"
+  aliases: ["cotyledons", "seed leaves"]
+  es: "Cotiledón"
+  zh-hant: "子葉"
+  zh-hans: "子叶"
+  definition: "A seed leaf of the embryo; coffee has two, which absorb the endosperm and then open above the soil."
+  stage: plant
+  entry: germination-and-seedlings
+  translationsVerified: false
+- id: endosperm-cap
+  en: "Endosperm cap"
+  aliases: ["micropylar endosperm"]
+  es: "Casquete del endospermo"
+  zh-hant: "胚乳帽"
+  zh-hans: "胚乳帽"
+  definition: "The part of the endosperm in front of the radicle tip, which must weaken before the root can emerge."
+  stage: plant
+  entry: germination-and-seedlings
+  translationsVerified: false
+- id: anthesis
+  en: "Anthesis"
+  aliases: []
+  es: "Antesis"
+  zh-hant: "開花期"
+  zh-hans: "开花期"
+  definition: "The opening of a flower, when its pollen is released and its stigma becomes receptive."
+  stage: plant
+  entry: flowering-and-pollination
+  translationsVerified: false
+- id: star-flower
+  en: "Star flower"
+  aliases: ["star flowers"]
+  es: "Flor estrella"
+  zh-hant: "星形花"
+  zh-hans: "星形花"
+  definition: "An abnormal coffee flower that opens too early with small, stiff petals, after heat with drought or long waterlogging."
+  stage: plant
+  entry: flowering-and-pollination
+  translationsVerified: false
+- id: compatibility-group
+  en: "Compatibility group"
+  aliases: ["compatibility groups"]
+  es: "Grupo de compatibilidad"
+  zh-hant: "親和群"
+  zh-hans: "亲和群"
+  definition: "In Coffea canephora, plants that share the same self-incompatibility genotype and cannot pollinate one another."
+  stage: plant
+  entry: flowering-and-pollination
+  translationsVerified: false
+- id: pinhead-stage
+  en: "Pinhead stage"
+  aliases: ["pinhead"]
+  es: "Estado de cabeza de alfiler"
+  zh-hant: "針頭期"
+  zh-hans: "针头期"
+  definition: "The first weeks after flowering, when the young coffee fruit hardly grows."
+  stage: plant
+  entry: fruit-development
+  translationsVerified: false
+- id: physiological-maturity
+  en: "Physiological maturity"
+  aliases: []
+  es: "Madurez fisiológica"
+  zh-hant: "生理成熟"
+  zh-hans: "生理成熟"
+  definition: "The point at which the endosperm of the coffee fruit is solid and the fruit is still green, before it changes colour."
+  stage: plant
+  entry: fruit-development
+  translationsVerified: false
+- id: elephant-bean
+  en: "Elephant bean"
+  aliases: ["elephant beans"]
+  es: "Grano elefante"
+  zh-hant: "象豆"
+  zh-hans: "象豆"
+  definition: "Two coffee seeds joined together, the result of false polyembryony; it often breaks into a shell and an inner piece."
+  stage: plant
+  entry: peaberries-and-bean-shapes
+  translationsVerified: false
+- id: empty-locule
+  en: "Empty locule"
+  aliases: ["empty locules"]
+  es: "Lóculo vacío"
+  zh-hant: "空室"
+  zh-hans: "空室"
+  definition: "A seed chamber in a coffee fruit that holds no developed seed."
+  stage: plant
+  entry: peaberries-and-bean-shapes
+  translationsVerified: false
+- id: leaf-axil
+  en: "Leaf axil"
+  aliases: ["leaf axils", "axil"]
+  es: "Axila foliar"
+  zh-hant: "葉腋"
+  zh-hans: "叶腋"
+  definition: "The angle between a leaf stalk and the stem, where coffee flowers and fruit form in clusters."
+  stage: plant
+  entry: branching-and-fruiting-wood
+  translationsVerified: false
+- id: diploid
+  en: "Diploid"
+  aliases: ["diploids"]
+  es: "Diploide"
+  zh-hant: "二倍體"
+  zh-hans: "二倍体"
+  definition: "Having two sets of chromosomes; most coffee species are diploid, with 22 chromosomes."
+  stage: plant
+  entry: polyploidy-and-the-arabica-genome
+  translationsVerified: false
+- id: subgenome
+  en: "Subgenome"
+  aliases: ["subgenomes"]
+  es: "Subgenoma"
+  zh-hant: "亞基因組"
+  zh-hans: "亚基因组"
+  definition: "The part of a hybrid polyploid genome inherited from one parent species, such as the canephora and eugenioides halves of arabica."
+  stage: plant
+  entry: polyploidy-and-the-arabica-genome
+  translationsVerified: false
+- id: disomic-inheritance
+  en: "Disomic inheritance"
+  aliases: []
+  es: "Herencia disómica"
+  zh-hant: "二體遺傳"
+  zh-hans: "二体遗传"
+  definition: "Inheritance in which each chromosome pairs only with its partner from the same subgenome, so genes segregate as in a diploid."
+  stage: plant
+  entry: polyploidy-and-the-arabica-genome
+  translationsVerified: false
+- id: homoeologous-exchange
+  en: "Homoeologous exchange"
+  aliases: ["homoeologous exchanges"]
+  es: "Intercambio homeólogo"
+  zh-hant: "部分同源交換"
+  zh-hans: "部分同源交换"
+  definition: "Replacement of a chromosome segment of one subgenome by the matching segment of the other in a polyploid."
+  stage: plant
+  entry: polyploidy-and-the-arabica-genome
+  translationsVerified: false
+- id: plastid-genome
+  en: "Plastid genome"
+  aliases: ["chloroplast DNA"]
+  es: "Genoma plastidial"
+  zh-hant: "質體基因組"
+  zh-hans: "质体基因组"
+  definition: "The small genome of chloroplasts, passed on through the mother in the coffee crosses studied."
+  stage: plant
+  entry: coffea-eugenioides
+  translationsVerified: false
+- id: crop-wild-relative
+  en: "Crop wild relative"
+  aliases: ["crop wild relatives"]
+  es: "Pariente silvestre de cultivo"
+  zh-hant: "作物野生近緣種"
+  zh-hans: "作物野生近缘种"
+  definition: "A wild plant species closely related to a crop that can pass useful genes to it by crossing."
+  stage: plant
+  entry: stenophylla-and-wild-relatives
+  translationsVerified: false
+- id: genetic-bottleneck
+  en: "Genetic bottleneck"
+  aliases: []
+  es: "Cuello de botella genético"
+  zh-hant: "遺傳瓶頸"
+  zh-hans: "遗传瓶颈"
+  definition: "A sharp reduction of a population to few individuals, after which the descendants carry only the genetic variation of those few."
+  stage: plant
+  entry: the-arabica-bottleneck
+  translationsVerified: false
+- id: nucleotide-diversity
+  en: "Nucleotide diversity"
+  aliases: []
+  es: "Diversidad nucleotídica"
+  zh-hant: "核苷酸多樣性"
+  zh-hans: "核苷酸多样性"
+  definition: "The average share of DNA positions that differ between two copies of a genome in a population."
+  stage: plant
+  entry: the-arabica-bottleneck
+  translationsVerified: false
+- id: allele
+  en: "Allele"
+  aliases: ["alleles"]
+  es: "Alelo"
+  zh-hant: "等位基因"
+  zh-hans: "等位基因"
+  definition: "One of the variant forms of a gene or DNA marker at a given place in the genome."
+  stage: plant
+  translationsVerified: false
+- id: introgression
+  en: "Introgression"
+  aliases: ["introgressed"]
+  es: "Introgresión"
+  zh-hant: "基因滲入"
+  zh-hans: "基因渗入"
+  definition: "The transfer of genes from one species into another by hybridisation followed by repeated backcrossing."
+  stage: plant
+  entry: the-timor-hybrid
+  translationsVerified: false
+- id: backcross
+  en: "Backcross"
+  aliases: ["backcrossing"]
+  es: "Retrocruzamiento"
+  zh-hant: "回交"
+  zh-hans: "回交"
+  definition: "A cross of a hybrid with one of its parents, or a plant like that parent, to recover that parent’s traits."
+  stage: plant
+  translationsVerified: false
+- id: heterosis
+  en: "Heterosis"
+  aliases: ["hybrid vigour"]
+  es: "Heterosis"
+  zh-hant: "雜種優勢"
+  zh-hans: "杂种优势"
+  definition: "The tendency of first-generation hybrids between distant parents to outperform their parents, for example in yield."
+  stage: plant
+  entry: f1-hybrids
+  translationsVerified: false
+- id: somatic-embryogenesis
+  en: "Somatic embryogenesis"
+  aliases: ["somatic embryos"]
+  es: "Embriogénesis somática"
+  zh-hant: "體細胞胚胎發生"
+  zh-hans: "体细胞胚胎发生"
+  definition: "Growing plant embryos in a laboratory from body cells of one selected plant, giving clones of it."
+  stage: plant
+  entry: f1-hybrids
+  translationsVerified: false
+- id: male-sterility
+  en: "Male sterility"
+  aliases: ["male-sterile"]
+  es: "Androesterilidad"
+  zh-hant: "雄性不育"
+  zh-hans: "雄性不育"
+  definition: "Inability of a plant to produce working pollen, so that all its seed comes from another plant’s pollen."
+  stage: plant
+  entry: f1-hybrids
+  translationsVerified: false
+- id: somaclonal-variation
+  en: "Somaclonal variation"
+  aliases: []
+  es: "Variación somaclonal"
+  zh-hant: "體細胞無性系變異"
+  zh-hans: "体细胞无性系变异"
+  definition: "Genetic or visible changes that appear in plants cloned through tissue culture."
+  stage: plant
+  entry: f1-hybrids
+  translationsVerified: false
+- id: orthotropic
+  en: "Orthotropic"
+  aliases: ["orthotropic stem"]
+  es: "Ortotrópico"
+  zh-hant: "直立生長"
+  zh-hans: "直立生长"
+  definition: "Growing upright, like the main stem and suckers of a coffee plant."
+  stage: plant
+  entry: branching-and-fruiting-wood
+  translationsVerified: false
+- id: plagiotropic
+  en: "Plagiotropic"
+  aliases: ["plagiotropic branch"]
+  es: "Plagiotrópico"
+  zh-hant: "斜向生長"
+  zh-hans: "斜向生长"
+  definition: "Growing roughly horizontally, like the side branches of a coffee plant that carry the flowers and fruit."
+  stage: plant
+  entry: branching-and-fruiting-wood
+  translationsVerified: false
+- id: serial-buds
+  en: "Serial buds"
+  aliases: ["serial bud"]
+  es: "Yemas seriadas"
+  zh-hant: "序列芽"
+  zh-hans: "序列芽"
+  definition: "The short row of buds in each coffee leaf axil, which can become branches or flowers or stay dormant."
+  stage: plant
+  entry: branching-and-fruiting-wood
+  translationsVerified: false
+- id: sucker
+  en: "Sucker"
+  aliases: ["suckers"]
+  es: "Chupón"
+  zh-hant: "徒長枝"
+  zh-hans: "徒长枝"
+  definition: "An upright shoot that grows from a dormant bud on the coffee stem."
+  stage: plant
+  entry: branching-and-fruiting-wood
+  translationsVerified: false
+- id: fruiting-wood
+  en: "Fruiting wood"
+  aliases: ["bearing wood"]
+  es: "Madera productiva"
+  zh-hant: "結果枝"
+  zh-hans: "结果枝"
+  definition: "Branch wood that carries the crop; in arabica, mainly wood grown in the previous season."
+  stage: plant
+  entry: branching-and-fruiting-wood
+- id: gaba
+  en: GABA
+  aliases: [γ-aminobutyric acid, gamma-aminobutyric acid]
+  es: GABA (ácido γ-aminobutírico)
+  zh-hant: γ-胺基丁酸
+  zh-hans: γ-氨基丁酸
+  definition: A non-protein amino acid that plant cells build up under stress; higher in natural than in washed green coffee.
+  stage: process
+  entry: seed-physiology
+  translationsVerified: false
+- id: embryo
+  en: Embryo
+  aliases: [seed embryo]
+  es: Embrión
+  zh-hant: 胚
+  zh-hans: 胚
+  definition: The small plant inside the coffee seed, 3–4 mm long, whose survival is scored in viability tests.
+  stage: process
+  entry: seed-physiology
+  translationsVerified: false
+- id: isocitrate-lyase
+  en: Isocitrate lyase
+  aliases: [ICL]
+  es: Isocitrato liasa
+  zh-hant: 異檸檬酸裂解酶
+  zh-hans: 异柠檬酸裂解酶
+  definition: Key enzyme of the glyoxylate cycle, used as a marker for the start of germination in coffee seeds.
+  stage: process
+  entry: seed-physiology
+  translationsVerified: false
+- id: potassium-leaching-test
+  en: Potassium leaching test
+  aliases: [potassium leaching]
+  es: Prueba de lixiviación de potasio
+  zh-hant: 鉀離子滲漏測試
+  zh-hans: 钾离子渗漏测试
+  definition: A measure of the potassium that leaks from soaked beans into water, used with electrical conductivity to show membrane damage.
+  stage: process
+  translationsVerified: false
+- id: carbonic-maceration
+  en: Carbonic maceration
+  es: Maceración carbónica
+  zh-hant: 二氧化碳浸漬
+  zh-hans: 二氧化碳浸渍
+  definition: A winemaking method in which intact grapes ferment under carbon dioxide; in coffee, fermenting whole cherries sealed with added carbon dioxide.
+  stage: process
+  entry: carbonic-maceration
+  translationsVerified: false
+- id: intracellular-fermentation
+  en: Intracellular fermentation
+  aliases: [intracellular fermentations]
+  es: Fermentación intracelular
+  zh-hant: 細胞內發酵
+  zh-hans: 细胞内发酵
+  definition: Fermentation inside intact fruit cells by the fruit's own enzymes, without yeasts, as in carbonic maceration of grapes.
+  stage: process
+  translationsVerified: false
+- id: siaf
+  en: Self-induced anaerobic fermentation
+  aliases: [SIAF]
+  es: Fermentación anaeróbica autoinducida
+  zh-hant: 自誘導厭氧發酵
+  zh-hans: 自诱导厌氧发酵
+  definition: Fermentation in a closed vessel with an airlock, in which microbes use up the oxygen and the carbon dioxide they make escapes through the valve.
+  stage: process
+  entry: anaerobic-fermentation
+  translationsVerified: false
+- id: airlock
+  en: Airlock
+  aliases: [fermentation lock]
+  es: Válvula de fermentación
+  zh-hant: 發酵氣閥
+  zh-hans: 发酵气阀
+  definition: A one-way valve on a fermentation vessel that lets gas out without letting outside air in.
+  stage: process
+  entry: anaerobic-fermentation
+  translationsVerified: false
+- id: semi-anaerobic-fermentation
+  en: Semi-anaerobic fermentation
+  es: Fermentación semianaeróbica
+  zh-hant: 半厭氧發酵
+  zh-hans: 半厌氧发酵
+  definition: Fermentation of coffee in open containers, where air can still reach the surface of the mass.
+  stage: process
+  entry: anaerobic-fermentation
+  translationsVerified: false
+- id: coffee-bean-weevil
+  en: Coffee bean weevil
+  aliases: [Araecerus fasciculatus, coffee weevil]
+  es: Gorgojo del café
+  zh-hant: 咖啡豆象
+  zh-hans: 咖啡豆象
+  definition: A small beetle, Araecerus fasciculatus, mostly known as a pest of stored coffee that bores into green beans.
+  stage: process
+  translationsVerified: false
+- id: desiccant
+  en: Desiccant
+  aliases: [desiccants]
+  es: Desecante
+  zh-hant: 乾燥劑
+  zh-hans: 干燥剂
+  definition: A water-absorbing material packed with coffee to keep moisture down during storage or shipment.
+  stage: process
+  translationsVerified: false
+- id: big-bag
+  en: Big bag
+  aliases: [big bags, bulk bag]
+  es: Big bag
+  zh-hant: 大型集裝袋
+  zh-hans: 大型集装袋
+  definition: A large flexible container of woven plastic used to store or ship coffee in bulk.
+  stage: process
+  translationsVerified: false
+- id: parchment-husk
+  en: Parchment husk
+  aliases: [cisco, cascarilla]
+  es: Cisco de café
+  zh-hant: 咖啡羊皮紙殼
+  zh-hans: 咖啡羊皮纸壳
+  definition: The dry parchment shell removed in hulling, widely burnt as fuel in coffee dryer furnaces.
+  stage: process
+  entry: mechanical-dryers
+  translationsVerified: false
+- id: half-dry
+  en: Half-dry stage
+  aliases: [meia-seca, half dry]
+  es: Media seca
+  zh-hant: 半乾階段
+  zh-hans: 半干阶段
+  definition: The point in drying, at about 25% moisture (wet basis) in Brazilian practice, after which coffee may be heaped or the dryer stopped overnight.
+  stage: process
+  translationsVerified: false
+- id: arroba
+  en: Arroba
+  es: Arroba
+  zh-hant: 阿羅巴（重量單位）
+  zh-hans: 阿罗巴（重量单位）
+  definition: A traditional weight unit used for coffee in Colombia, equal to 12.5 kg of dry parchment.
+  stage: process
+  translationsVerified: false
+- id: mycotoxin
+  en: Mycotoxin
+  aliases: [mycotoxins]
+  es: Micotoxina
+  zh-hant: 黴菌毒素
+  zh-hans: 霉菌毒素
+  definition: A toxic substance produced by a fungus, such as ochratoxin A in coffee.
+  stage: process
+  translationsVerified: false
+- id: immunoaffinity-column
+  en: Immunoaffinity column
+  aliases: [immunoaffinity clean-up, IAC]
+  es: Columna de inmunoafinidad
+  zh-hant: 免疫親和管柱
+  zh-hans: 免疫亲和柱
+  definition: A clean-up cartridge holding an antibody that binds one analyte, such as ochratoxin A, so other compounds can be washed away before analysis.
+  stage: process
+  translationsVerified: false
+- id: margin-of-exposure
+  en: Margin of exposure
+  aliases: [MOE]
+  es: Margen de exposición
+  zh-hant: 暴露限值
+  zh-hans: 暴露边际
+  definition: The ratio between a reference dose from animal studies and the estimated human exposure, used by EFSA where no safe intake can be set.
+  stage: process
+  translationsVerified: false
+- id: black-bean
+  en: Black bean
+  aliases: [full black, partial black]
+  es: Grano negro
+  zh-hant: 黑豆
+  zh-hans: 黑豆
+  definition: A green coffee bean that is wholly or partly opaque black, linked to fermentation of overripe or fallen fruit and poor drying.
+  stage: process
+  entry: processing-defects
+  translationsVerified: false
+- id: sour-bean
+  en: Sour bean
+  aliases: [full sour, partial sour, ardido]
+  es: Grano ardido
+  zh-hant: 酸豆
+  zh-hans: 酸豆
+  definition: A green coffee bean coloured brown in various shades, linked to abnormal fermentation or water shortage during fruit development.
+  stage: process
+  entry: processing-defects
+  translationsVerified: false
+- id: triage
+  en: Triage
+  aliases: [triage beans]
+  es: Triage
+  zh-hant: 次級篩除豆
+  zh-hans: 次级筛除豆
+  definition: Defective beans rejected after green coffee is sorted by size and colour.
+  stage: process
+  translationsVerified: false
+- id: black-green-bean
+  en: Black-green bean
+  aliases: [preto-verde, black-immature bean]
+  es: Grano negro-verde
+  zh-hant: 黑綠豆
+  zh-hans: 黑绿豆
+  definition: A black bean that shines because its silverskin still adheres, formed when an immature seed is damaged by heat.
+  stage: process
+  entry: processing-defects
+  translationsVerified: false
+- id: factor-de-rendimiento
+  en: Factor de rendimiento
+  aliases: [rendimiento en trilla, milling yield factor]
+  es: Factor de rendimiento
+  zh-hant: 出品係數
+  zh-hans: 出品系数
+  definition: Kilograms of dry parchment coffee needed to obtain a 70 kg bag of Colombian excelso; lower is better.
+  stage: trade
+  entry: cherry-to-green-conversion
+  translationsVerified: false
+- id: pasilla
+  en: Pasilla
+  es: Pasilla
+  zh-hant: 次級豆（Pasilla）
+  zh-hans: 次级豆（Pasilla）
+  definition: The defective, lower-grade beans sorted out of Colombian green coffee during milling.
+  stage: trade
+  translationsVerified: false
+- id: dry-matter
+  en: Dry matter
+  aliases: [dry weight]
+  es: Materia seca
+  zh-hant: 乾物質
+  zh-hans: 干物质
+  definition: The mass left when all water is removed; it stays constant during drying and is the reference for dry-basis moisture.
+  stage: process
+  translationsVerified: false
+- id: co-inoculation
+  en: Co-inoculation
+  aliases: [mixed starter culture, co-culture]
+  es: Coinoculación
+  zh-hant: 共同接種
+  zh-hans: 共同接种
+  definition: Adding two or more selected microbes, such as a yeast and a lactic acid bacterium, together as a starter culture.
+  stage: process
+  translationsVerified: false
+- id: biocontrol-yeast
+  en: Biocontrol yeast
+  aliases: [biocontrol agent, antagonistic yeast]
+  es: Levadura de biocontrol
+  zh-hant: 生物防治酵母
+  zh-hans: 生物防治酵母
+  definition: A yeast that inhibits the growth or toxin production of harmful moulds such as ochratoxin A producers.
+  stage: process
+  translationsVerified: false
+- id: cation-exchange-capacity
+  en: "Cation exchange capacity"
+  aliases: ["CEC"]
+  es: "Capacidad de intercambio catiónico"
+  zh-hant: "陽離子交換容量"
+  zh-hans: "阳离子交换容量"
+  definition: "The amount of positively charged nutrients, such as potassium, calcium and magnesium, that a soil can hold on its particles."
+  stage: farm
+  entry: soils-for-coffee
+  translationsVerified: false
+- id: base-saturation
+  en: "Base saturation"
+  aliases: []
+  es: "Saturación de bases"
+  zh-hant: "鹽基飽和度"
+  zh-hans: "盐基饱和度"
+  definition: "The share of a soil’s cation exchange capacity held by calcium, magnesium, potassium and sodium, in %."
+  stage: farm
+  entry: soil-acidity-and-liming
+  translationsVerified: false
+- id: exchangeable-aluminium
+  en: "Exchangeable aluminium"
+  aliases: ["exchangeable aluminum"]
+  es: "Aluminio intercambiable"
+  zh-hant: "交換性鋁"
+  zh-hans: "交换性铝"
+  definition: "Aluminium held on soil particles that can pass into the soil solution, where it is toxic to roots in acid soils."
+  stage: farm
+  entry: soil-acidity-and-liming
+  translationsVerified: false
+- id: dolomitic-lime
+  en: "Dolomitic lime"
+  aliases: ["dolomitic limestone"]
+  es: "Cal dolomítica"
+  zh-hant: "白雲石石灰"
+  zh-hans: "白云石石灰"
+  definition: "Ground limestone that contains magnesium carbonate as well as calcium carbonate, used to correct soil acidity and supply magnesium."
+  stage: farm
+  entry: soil-acidity-and-liming
+  translationsVerified: false
+- id: agricultural-gypsum
+  en: "Agricultural gypsum"
+  aliases: ["gypsum"]
+  es: "Yeso agrícola"
+  zh-hant: "農用石膏"
+  zh-hans: "农用石膏"
+  definition: "Calcium sulphate applied to soil to supply calcium and sulphur to deeper layers without much change in pH."
+  stage: farm
+  entry: soil-acidity-and-liming
+  translationsVerified: false
+- id: leaf-analysis
+  en: "Leaf analysis"
+  aliases: ["foliar analysis"]
+  es: "Análisis foliar"
+  zh-hant: "葉片分析"
+  zh-hans: "叶片分析"
+  definition: "Laboratory measurement of nutrient concentrations in a defined leaf, compared with sufficiency ranges to judge a plant’s nutrition."
+  stage: farm
+  entry: nutrition-and-fertilisation
+  translationsVerified: false
+- id: sufficiency-range
+  en: "Sufficiency range"
+  aliases: ["critical nutrient range"]
+  es: "Rango de suficiencia"
+  zh-hant: "適量範圍"
+  zh-hans: "适量范围"
+  definition: "The range of leaf nutrient concentration found in healthy, productive plants, used as the reference in leaf analysis."
+  stage: farm
+  entry: nutrition-and-fertilisation
+  translationsVerified: false
+- id: foliar-fertilisation
+  en: "Foliar fertilisation"
+  aliases: ["foliar feeding", "foliar fertilization"]
+  es: "Fertilización foliar"
+  zh-hant: "葉面施肥"
+  zh-hans: "叶面施肥"
+  definition: "Applying nutrients as a spray on the leaves, mainly to correct micronutrient deficiencies."
+  stage: farm
+  entry: nutrition-and-fertilisation
+  translationsVerified: false
+- id: nitrate-leaching
+  en: "Nitrate leaching"
+  aliases: []
+  es: "Lixiviación de nitratos"
+  zh-hant: "硝酸鹽淋溶"
+  zh-hans: "硝酸盐淋溶"
+  definition: "Loss of nitrate from the soil as drainage water carries it below the root zone."
+  stage: farm
+  entry: nutrition-and-fertilisation
+  translationsVerified: false
+- id: planting-density
+  en: "Planting density"
+  aliases: ["plant density", "plants per hectare"]
+  es: "Densidad de siembra"
+  zh-hant: "種植密度"
+  zh-hans: "种植密度"
+  definition: "The number of coffee plants per hectare, set by the distance between rows and between plants in a row."
+  stage: farm
+  entry: planting-density-and-layout
+  translationsVerified: false
+- id: hedgerow
+  en: "Hedgerow"
+  aliases: ["hedgerow planting"]
+  es: "Seto"
+  zh-hant: "綠籬式種植"
+  zh-hans: "绿篱式种植"
+  definition: "A planting layout with coffee plants close together in the row and wide alleys between rows."
+  stage: farm
+  entry: planting-density-and-layout
+  translationsVerified: false
+- id: contour-planting
+  en: "Contour planting"
+  aliases: ["contour rows"]
+  es: "Siembra en contorno"
+  zh-hant: "等高種植"
+  zh-hans: "等高种植"
+  definition: "Planting rows along lines of equal height across a slope, to reduce soil erosion."
+  stage: farm
+  entry: planting-density-and-layout
+  translationsVerified: false
+- id: live-barrier
+  en: "Live barrier"
+  aliases: ["live barriers"]
+  es: "Barrera viva"
+  zh-hant: "活籬屏障"
+  zh-hans: "活篱屏障"
+  definition: "A strip of grass or other plants grown across a hillside to slow runoff and hold soil."
+  stage: farm
+  entry: planting-density-and-layout
+  translationsVerified: false
+- id: zoca
+  en: "Zoca"
+  aliases: ["recepa"]
+  es: "Zoca"
+  zh-hant: "截幹更新"
+  zh-hans: "截干更新"
+  definition: "Renewal of a coffee plant by cutting the stem low, about 30 cm above the soil in Colombia, and growing new stems from the stump."
+  stage: farm
+  entry: pruning-and-renovation
+  translationsVerified: false
+- id: skeleton-pruning
+  en: "Skeleton pruning"
+  aliases: ["esqueletamento"]
+  es: "Esqueletamiento"
+  zh-hant: "骨架修剪"
+  zh-hans: "骨架修剪"
+  definition: "Cutting the side branches of a coffee plant back to short stubs, usually with topping, so that new branches grow."
+  stage: farm
+  entry: pruning-and-renovation
+  translationsVerified: false
+- id: topping
+  en: "Topping"
+  aliases: ["decote", "descope"]
+  es: "Descope"
+  zh-hant: "打頂"
+  zh-hans: "打顶"
+  definition: "Cutting the top of a coffee plant’s stem to stop it growing taller."
+  stage: farm
+  entry: pruning-and-renovation
+  translationsVerified: false
+- id: sink-strength
+  en: "Sink strength"
+  aliases: []
+  es: "Fuerza de sumidero"
+  zh-hant: "庫強度"
+  zh-hans: "库强度"
+  definition: "The ability of a plant organ, such as a fruit, to draw sugars and nutrients from the leaves that make them."
+  stage: farm
+  entry: overbearing-and-dieback
+  translationsVerified: false
+- id: leaf-to-fruit-ratio
+  en: "Leaf-to-fruit ratio"
+  aliases: ["leaf area per fruit"]
+  es: "Relación hoja-fruto"
+  zh-hant: "葉果比"
+  zh-hans: "叶果比"
+  definition: "The leaf area available to feed each fruit on a branch or plant, usually given in cm² per fruit."
+  stage: farm
+  entry: overbearing-and-dieback
+  translationsVerified: false
+- id: crop-coefficient
+  en: "Crop coefficient"
+  aliases: ["Kc"]
+  es: "Coeficiente de cultivo"
+  zh-hant: "作物係數"
+  zh-hans: "作物系数"
+  definition: "Ratio of a crop’s evapotranspiration to the reference evapotranspiration, used to estimate its water need."
+  stage: farm
+  entry: irrigation
+  translationsVerified: false
+- id: reference-evapotranspiration
+  en: "Reference evapotranspiration"
+  aliases: ["ET0", "ETo"]
+  es: "Evapotranspiración de referencia"
+  zh-hant: "參考蒸發散量"
+  zh-hans: "参考蒸散量"
+  definition: "Water lost by a standard, well-watered grass surface under given weather, the baseline for crop water needs."
+  stage: farm
+  entry: irrigation
+  translationsVerified: false
+- id: deficit-irrigation
+  en: "Deficit irrigation"
+  aliases: []
+  es: "Riego deficitario"
+  zh-hant: "虧缺灌溉"
+  zh-hans: "亏缺灌溉"
+  definition: "Irrigation that deliberately supplies less water than the crop’s full demand."
+  stage: farm
+  entry: irrigation
+  translationsVerified: false
+- id: fertigation
+  en: "Fertigation"
+  aliases: []
+  es: "Fertirrigación"
+  zh-hant: "水肥一體化"
+  zh-hans: "水肥一体化"
+  definition: "Applying fertiliser dissolved in irrigation water, usually through drip lines."
+  stage: farm
+  entry: irrigation
+  translationsVerified: false
+- id: yield-gap
+  en: "Yield gap"
+  aliases: ["yield gaps"]
+  es: "Brecha de rendimiento"
+  zh-hant: "產量差距"
+  zh-hans: "产量差距"
+  definition: "The difference between the yield farms actually harvest and the yield attainable under good management on the same site."
+  stage: farm
+  entry: coffee-yields
+  translationsVerified: false
+- id: vascular-wilt
+  en: "Vascular wilt"
+  aliases: []
+  es: "Marchitez vascular"
+  zh-hant: "維管束萎凋病"
+  zh-hans: "维管束萎蔫病"
+  definition: "A plant disease in which a pathogen colonises the water-conducting tissue and blocks the water supply, so that the plant wilts and dies."
+  stage: farm
+  entry: coffee-wilt-disease
+  translationsVerified: false
+- id: rootstock
+  en: "Rootstock"
+  aliases: ["rootstocks"]
+  es: "Portainjerto"
+  zh-hant: "砧木"
+  zh-hans: "砧木"
+  definition: "The root-bearing lower part of a grafted plant, chosen for traits such as nematode resistance."
+  stage: farm
+  entry: coffee-nematodes
+  translationsVerified: false
+- id: grafting
+  en: "Grafting"
+  aliases: ["grafted", "scion"]
+  es: "Injerto"
+  zh-hant: "嫁接"
+  zh-hans: "嫁接"
+  definition: "Joining a shoot (scion) of one plant to the root system (rootstock) of another so that they grow as one plant."
+  stage: farm
+  entry: coffee-nematodes
+  translationsVerified: false
+- id: root-gall
+  en: "Root gall"
+  aliases: ["root galls"]
+  es: "Agalla radicular"
+  zh-hant: "根結"
+  zh-hans: "根结"
+  definition: "A swelling on a root formed by the plant around feeding root-knot nematodes."
+  stage: farm
+  entry: coffee-nematodes
+  translationsVerified: false
+- id: leaf-mine
+  en: "Leaf mine"
+  aliases: ["mined leaf", "mined leaves"]
+  es: "Mina foliar"
+  zh-hant: "潛葉隧道"
+  zh-hans: "潜叶隧道"
+  definition: "A tunnel or blotch eaten by an insect larva between the upper and lower surfaces of a leaf."
+  stage: farm
+  entry: coffee-leaf-miner
+  translationsVerified: false
+- id: insecticide-resistance
+  en: "Insecticide resistance"
+  aliases: []
+  es: "Resistencia a insecticidas"
+  zh-hant: "殺蟲劑抗性"
+  zh-hans: "杀虫剂抗性"
+  definition: "An inherited reduction in a pest population’s sensitivity to an insecticide, selected by repeated use."
+  stage: farm
+  entry: coffee-leaf-miner
+  translationsVerified: false
+- id: action-threshold
+  en: "Action threshold"
+  aliases: ["economic threshold"]
+  es: "Umbral de acción"
+  zh-hant: "防治閾值"
+  zh-hans: "防治阈值"
+  definition: "The pest level, found by monitoring, at which a control measure is applied."
+  stage: farm
+  entry: integrated-pest-management
+  translationsVerified: false
+- id: economic-injury-level
+  en: "Economic injury level"
+  aliases: ["EIL"]
+  es: "Nivel de daño económico"
+  zh-hant: "經濟危害水平"
+  zh-hans: "经济危害水平"
+  definition: "The lowest pest density at which the damage is worth the cost of control."
+  stage: farm
+  entry: integrated-pest-management
+  translationsVerified: false
+- id: area-wide-pest-management
+  en: "Area-wide pest management"
+  aliases: []
+  es: "Manejo de plagas en área amplia"
+  zh-hant: "區域性害蟲管理"
+  zh-hans: "区域性害虫管理"
+  definition: "Pest control coordinated across a whole area rather than field by field."
+  stage: farm
+  entry: integrated-pest-management
+  translationsVerified: false
+- id: coffee-year
+  en: "Coffee year"
+  aliases: ["ICO coffee year"]
+  es: "Año cafetero"
+  zh-hant: "咖啡年度"
+  zh-hans: "咖啡年度"
+  definition: "The ICO’s statistical year, from 1 October to 30 September."
+  stage: trade
+  entry: crop-year-and-coffee-year
+  translationsVerified: false
+- id: crop-year
+  en: "Crop year"
+  aliases: ["crop years"]
+  es: "Año cosecha"
+  zh-hant: "作物年度"
+  zh-hans: "作物年度"
+  definition: "The 12 months from one harvest to the next in a producing country; the ICO uses crop years starting on 1 April, 1 July or 1 October."
+  stage: trade
+  entry: crop-year-and-coffee-year
+  translationsVerified: false
+- id: marketing-year
+  en: "Marketing year"
+  aliases: ["marketing years"]
+  es: "Año comercial"
+  zh-hant: "銷售年度"
+  zh-hans: "销售年度"
+  definition: "The USDA’s reporting year for a country, starting in April, July or October for producing countries."
+  stage: trade
+  entry: crop-year-and-coffee-year
+  translationsVerified: false
+- id: green-bean-equivalent
+  en: "Green bean equivalent"
+  aliases: ["GBE"]
+  es: "Equivalente en café verde"
+  zh-hant: "生豆當量"
+  zh-hans: "生豆当量"
+  definition: "Roasted or soluble coffee expressed as the weight of green coffee needed to make it."
+  stage: trade
+  entry: coffee-consumption-by-country
+  translationsVerified: false
+- id: disappearance
+  en: "Disappearance"
+  aliases: ["apparent consumption"]
+  es: "Desaparición (consumo aparente)"
+  zh-hant: "表觀消費量"
+  zh-hans: "表观消费量"
+  definition: "The ICO measure of coffee consumption in importing countries: imports minus re-exports, adjusted for changes in visible inventories."
+  stage: trade
+  entry: coffee-consumption-by-country
+  translationsVerified: false
+- id: re-export
+  en: "Re-export"
+  aliases: ["re-exports"]
+  es: "Reexportación"
+  zh-hant: "轉口"
+  zh-hans: "转口"
+  definition: "Coffee imported into a country and then exported again, green or after roasting or other processing."
+  stage: trade
+  entry: coffee-consumption-by-country
+  translationsVerified: false
+- id: exportable-production
+  en: "Exportable production"
+  aliases: []
+  es: "Producción exportable"
+  zh-hant: "可出口產量"
+  zh-hans: "可出口产量"
+  definition: "A country’s coffee production minus its domestic consumption, as the ICO defines it."
+  stage: trade
+  entry: coffee-production-by-country
+  translationsVerified: false
+- id: initial-margin
+  en: "Initial margin"
+  aliases: []
+  es: "Margen inicial"
+  zh-hant: "初始保證金"
+  zh-hans: "初始保证金"
+  definition: "The deposit required to open a futures position, as a guarantee that the contract will be fulfilled."
+  stage: trade
+  entry: hedging
+  translationsVerified: false
+- id: put-option
+  en: "Put option"
+  aliases: []
+  es: "Opción de venta"
+  zh-hant: "賣權"
+  zh-hans: "看跌期权"
+  definition: "The right, but not the obligation, to sell a futures contract at a set price."
+  stage: trade
+  entry: hedging
+  translationsVerified: false
+- id: forward-contract
+  en: "Forward contract"
+  aliases: ["forward contracts"]
+  es: "Contrato a plazo"
+  zh-hant: "遠期合約"
+  zh-hans: "远期合约"
+  definition: "A contract agreed now for delivery of coffee later, at a price fixed now or fixed later against futures."
+  stage: trade
+  entry: hedging
+  translationsVerified: false
+- id: sellers-call
+  en: "Seller’s call"
+  aliases: ["seller's call"]
+  es: "A opción del vendedor"
+  zh-hant: "賣方點價"
+  zh-hans: "卖方点价"
+  definition: "A price-to-be-fixed contract in which the seller chooses when the futures part of the price is fixed."
+  stage: trade
+  entry: price-fixation
+  translationsVerified: false
+- id: buyers-call
+  en: "Buyer’s call"
+  aliases: ["buyer's call"]
+  es: "A opción del comprador"
+  zh-hant: "買方點價"
+  zh-hans: "买方点价"
+  definition: "A price-to-be-fixed contract in which the buyer chooses when the futures part of the price is fixed."
+  stage: trade
+  entry: price-fixation
+  translationsVerified: false
+- id: first-notice-day
+  en: "First notice day"
+  aliases: ["FND"]
+  es: "Primer día de aviso"
+  zh-hant: "首次通知日"
+  zh-hans: "首次通知日"
+  definition: "The first day on which notices of intent to deliver can be issued against a futures delivery month."
+  stage: trade
+  entry: price-fixation
+  translationsVerified: false
+- id: real-price
+  en: "Real price"
+  aliases: ["inflation-adjusted price"]
+  es: "Precio real"
+  zh-hant: "實質價格"
+  zh-hans: "实际价格"
+  definition: "A price adjusted for inflation with a named price index, so that prices from different years can be compared."
+  stage: trade
+  entry: coffee-price-history
+  translationsVerified: false
+- id: nominal-price
+  en: "Nominal price"
+  aliases: []
+  es: "Precio nominal"
+  zh-hant: "名目價格"
+  zh-hans: "名义价格"
+  definition: "A price in the money of its own time, not adjusted for inflation."
+  stage: trade
+  entry: coffee-price-history
+  translationsVerified: false
+- id: ethiopia-commodity-exchange
+  en: "Ethiopia Commodity Exchange"
+  aliases: ["ECX"]
+  es: "Bolsa de Productos Básicos de Etiopía"
+  zh-hant: "衣索比亞商品交易所"
+  zh-hans: "埃塞俄比亚商品交易所"
+  definition: "Ethiopia’s national commodity exchange, established in 2008, through which most coffee had to be traded until a 2017 reform widened direct export."
+  stage: trade
+  entry: auctions-and-competitions
+  translationsVerified: false
+- id: nairobi-coffee-exchange
+  en: "Nairobi Coffee Exchange"
+  aliases: ["NCE"]
+  es: "Bolsa de Café de Nairobi"
+  zh-hant: "奈洛比咖啡交易所"
+  zh-hans: "内罗毕咖啡交易所"
+  definition: "Kenya’s central coffee market, where marketing agents sell growers’ coffee to licensed buyers."
+  stage: trade
+  entry: auctions-and-competitions
+  translationsVerified: false
+- id: reserve-price
+  en: "Reserve price"
+  aliases: []
+  es: "Precio de reserva"
+  zh-hant: "底價"
+  zh-hans: "底价"
+  definition: "The lowest price a seller will accept for a lot at auction."
+  stage: trade
+  entry: auctions-and-competitions
+  translationsVerified: false
+- id: buyer-driven-chain
+  en: "Buyer-driven chain"
+  aliases: ["buyer-driven value chain"]
+  es: "Cadena impulsada por el comprador"
+  zh-hant: "買方驅動型價值鏈"
+  zh-hans: "买方驱动型价值链"
+  definition: "A value chain whose terms are set mainly by large buyers such as roasters, retailers and traders rather than by producers."
+  stage: trade
+  entry: the-coffee-value-chain
+  translationsVerified: false
+- id: farm-gate-price
+  en: "Farm-gate price"
+  aliases: ["farmgate price", "grower price"]
+  es: "Precio en finca"
+  zh-hant: "農場交貨價"
+  zh-hans: "农场交货价"
+  definition: "The price a grower receives for coffee at or near the farm, in the form sold (cherry, parchment or green coffee)."
+  stage: trade
+  entry: who-earns-what
+  translationsVerified: false
+- id: relationship-coffee
+  en: "Relationship coffee"
+  aliases: []
+  es: "Café de relación"
+  zh-hant: "關係咖啡"
+  zh-hans: "关系咖啡"
+  definition: "A buying model of long-term partnerships between coffee buyers and producers based on quality."
+  stage: trade
+  entry: direct-trade
+  translationsVerified: false
+- id: dunnage
+  en: "Dunnage"
+  aliases: []
+  es: "Material de estiba"
+  zh-hant: "墊艙物料"
+  zh-hans: "垫舱物料"
+  definition: "Material such as paper, boards or mats used to protect and separate cargo in a container or hold."
+  stage: trade
+  entry: shipping-green-coffee
+  translationsVerified: false
+- id: liner-bag
+  en: "Liner bag"
+  aliases: ["bulk liner", "container liner"]
+  es: "Bolsa liner"
+  zh-hant: "貨櫃內襯袋"
+  zh-hans: "集装箱内衬袋"
+  definition: "A large plastic bag fitted inside a container so that green coffee can be shipped loose in bulk."
+  stage: trade
+  entry: shipping-green-coffee
+  translationsVerified: false
+- id: export-quota
+  en: "Export quota"
+  aliases: ["export quotas"]
+  es: "Cuota de exportación"
+  zh-hant: "出口配額"
+  zh-hans: "出口配额"
+  definition: "A limit on how much coffee a producing country may export to member markets, used under the International Coffee Agreements from 1962 to 1989."
+  stage: trade
+  entry: the-international-coffee-agreements
+  translationsVerified: false
+- id: international-coffee-organization
+  en: "International Coffee Organization"
+  aliases: ["ICO"]
+  es: "Organización Internacional del Café"
+  zh-hant: "國際咖啡組織"
+  zh-hans: "国际咖啡组织"
+  definition: "The intergovernmental body of coffee-exporting and coffee-importing countries that administers the International Coffee Agreements."
+  stage: trade
+  entry: the-international-coffee-agreements
+  translationsVerified: false
+- id: living-wage
+  en: "Living wage"
+  aliases: ["living wages"]
+  es: "Salario digno"
+  zh-hant: "生活工資"
+  zh-hans: "生活工资"
+  definition: "Pay for a standard work week that lets a hired worker in a particular place afford a decent standard of living for the worker and the family."
+  stage: trade
+  entry: living-income
+  translationsVerified: false

@@ -1,0 +1,1563 @@
+{
+  "exported": "2026-10-25",
+  "license": "CC-BY-4.0",
+  "entries": [
+    {
+      "id": "acids-in-coffee",
+      "title": "Acids in coffee",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/acids-in-coffee/",
+      "json": "https://coffearium.org/entries/acids-in-coffee.json",
+      "file": "src/content/entries/acids-in-coffee.md"
+    },
+    {
+      "id": "airflow",
+      "title": "Airflow",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/airflow/",
+      "json": "https://coffearium.org/entries/airflow.json",
+      "file": "src/content/entries/airflow.md"
+    },
+    {
+      "id": "anaerobic-fermentation",
+      "title": "Anaerobic fermentation",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/anaerobic-fermentation/",
+      "json": "https://coffearium.org/entries/anaerobic-fermentation.json",
+      "file": "src/content/entries/anaerobic-fermentation.md"
+    },
+    {
+      "id": "arabica-or-robusta",
+      "title": "Arabica and robusta compared",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/arabica-or-robusta/",
+      "json": "https://coffearium.org/entries/arabica-or-robusta.json",
+      "file": "src/content/entries/arabica-or-robusta.md"
+    },
+    {
+      "id": "arabica-varieties",
+      "title": "Arabica varieties and their lines",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/arabica-varieties/",
+      "json": "https://coffearium.org/entries/arabica-varieties.json",
+      "file": "src/content/entries/arabica-varieties.md"
+    },
+    {
+      "id": "auctions-and-competitions",
+      "title": "Auctions and competitions",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/auctions-and-competitions/",
+      "json": "https://coffearium.org/entries/auctions-and-competitions.json",
+      "file": "src/content/entries/auctions-and-competitions.md"
+    },
+    {
+      "id": "bean-size-and-density",
+      "title": "Bean size and density",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/bean-size-and-density/",
+      "json": "https://coffearium.org/entries/bean-size-and-density.json",
+      "file": "src/content/entries/bean-size-and-density.md"
+    },
+    {
+      "id": "bioactive-compounds",
+      "title": "Bioactive compounds",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/bioactive-compounds/",
+      "json": "https://coffearium.org/entries/bioactive-compounds.json",
+      "file": "src/content/entries/bioactive-compounds.md"
+    },
+    {
+      "id": "body-and-mouthfeel",
+      "title": "Body and mouthfeel",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/body-and-mouthfeel/",
+      "json": "https://coffearium.org/entries/body-and-mouthfeel.json",
+      "file": "src/content/entries/body-and-mouthfeel.md"
+    },
+    {
+      "id": "branching-and-fruiting-wood",
+      "title": "Branching and fruiting wood",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/branching-and-fruiting-wood/",
+      "json": "https://coffearium.org/entries/branching-and-fruiting-wood.json",
+      "file": "src/content/entries/branching-and-fruiting-wood.md"
+    },
+    {
+      "id": "brew-methods",
+      "title": "Pour-over and immersion",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/brew-methods/",
+      "json": "https://coffearium.org/entries/brew-methods.json",
+      "file": "src/content/entries/brew-methods.md"
+    },
+    {
+      "id": "brew-ratio-and-strength",
+      "title": "Brew ratio and strength",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/brew-ratio-and-strength/",
+      "json": "https://coffearium.org/entries/brew-ratio-and-strength.json",
+      "file": "src/content/entries/brew-ratio-and-strength.md"
+    },
+    {
+      "id": "brew-temperature",
+      "title": "Brew temperature",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/brew-temperature/",
+      "json": "https://coffearium.org/entries/brew-temperature.json",
+      "file": "src/content/entries/brew-temperature.md"
+    },
+    {
+      "id": "brewing-control-chart",
+      "title": "Brewing control chart",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/brewing-control-chart/",
+      "json": "https://coffearium.org/entries/brewing-control-chart.json",
+      "file": "src/content/entries/brewing-control-chart.md"
+    },
+    {
+      "id": "browning-phase",
+      "title": "Browning phase",
+      "status": "verified",
+      "updated": "2026-10-17T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/browning-phase/",
+      "json": "https://coffearium.org/entries/browning-phase.json",
+      "file": "src/content/entries/browning-phase.md"
+    },
+    {
+      "id": "caffeine",
+      "title": "Caffeine",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/caffeine/",
+      "json": "https://coffearium.org/entries/caffeine.json",
+      "file": "src/content/entries/caffeine.md"
+    },
+    {
+      "id": "caffeine-and-roast-degree",
+      "title": "Caffeine and roast degree",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/caffeine-and-roast-degree/",
+      "json": "https://coffearium.org/entries/caffeine-and-roast-degree.json",
+      "file": "src/content/entries/caffeine-and-roast-degree.md"
+    },
+    {
+      "id": "caramelisation",
+      "title": "Caramelisation",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/caramelisation/",
+      "json": "https://coffearium.org/entries/caramelisation.json",
+      "file": "src/content/entries/caramelisation.md"
+    },
+    {
+      "id": "carbohydrates-and-body",
+      "title": "Carbohydrates and body",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/carbohydrates-and-body/",
+      "json": "https://coffearium.org/entries/carbohydrates-and-body.json",
+      "file": "src/content/entries/carbohydrates-and-body.md"
+    },
+    {
+      "id": "carbon-footprint-of-coffee",
+      "title": "Carbon footprint of coffee",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/carbon-footprint-of-coffee/",
+      "json": "https://coffearium.org/entries/carbon-footprint-of-coffee.json",
+      "file": "src/content/entries/carbon-footprint-of-coffee.md"
+    },
+    {
+      "id": "carbonic-maceration",
+      "title": "Carbonic maceration",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/carbonic-maceration/",
+      "json": "https://coffearium.org/entries/carbonic-maceration.json",
+      "file": "src/content/entries/carbonic-maceration.md"
+    },
+    {
+      "id": "certifications-and-labels",
+      "title": "Certifications and labels",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/certifications-and-labels/",
+      "json": "https://coffearium.org/entries/certifications-and-labels.json",
+      "file": "src/content/entries/certifications-and-labels.md"
+    },
+    {
+      "id": "cherry-to-green-conversion",
+      "title": "Cherry-to-green conversion",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/cherry-to-green-conversion/",
+      "json": "https://coffearium.org/entries/cherry-to-green-conversion.json",
+      "file": "src/content/entries/cherry-to-green-conversion.md"
+    },
+    {
+      "id": "chlorogenic-acids",
+      "title": "Chlorogenic acids",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/chlorogenic-acids/",
+      "json": "https://coffearium.org/entries/chlorogenic-acids.json",
+      "file": "src/content/entries/chlorogenic-acids.md"
+    },
+    {
+      "id": "co-fermentation",
+      "title": "Starter cultures and co-fermentation",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/co-fermentation/",
+      "json": "https://coffearium.org/entries/co-fermentation.json",
+      "file": "src/content/entries/co-fermentation.md"
+    },
+    {
+      "id": "co2-and-the-bloom",
+      "title": "CO₂ and the bloom",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/co2-and-the-bloom/",
+      "json": "https://coffearium.org/entries/co2-and-the-bloom.json",
+      "file": "src/content/entries/co2-and-the-bloom.md"
+    },
+    {
+      "id": "coffea-arabica",
+      "title": "Coffea arabica",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffea-arabica/",
+      "json": "https://coffearium.org/entries/coffea-arabica.json",
+      "file": "src/content/entries/coffea-arabica.md"
+    },
+    {
+      "id": "coffea-canephora",
+      "title": "Coffea canephora (robusta)",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffea-canephora/",
+      "json": "https://coffearium.org/entries/coffea-canephora.json",
+      "file": "src/content/entries/coffea-canephora.md"
+    },
+    {
+      "id": "coffea-eugenioides",
+      "title": "Eugenioides, arabica’s other parent",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffea-eugenioides/",
+      "json": "https://coffearium.org/entries/coffea-eugenioides.json",
+      "file": "src/content/entries/coffea-eugenioides.md"
+    },
+    {
+      "id": "coffea-genus",
+      "title": "The coffee genus (Coffea)",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffea-genus/",
+      "json": "https://coffearium.org/entries/coffea-genus.json",
+      "file": "src/content/entries/coffea-genus.md"
+    },
+    {
+      "id": "coffee-and-digestion",
+      "title": "Coffee and digestion",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-and-digestion/",
+      "json": "https://coffearium.org/entries/coffee-and-digestion.json",
+      "file": "src/content/entries/coffee-and-digestion.md"
+    },
+    {
+      "id": "coffee-and-long-term-health",
+      "title": "Coffee and long-term health",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-and-long-term-health/",
+      "json": "https://coffearium.org/entries/coffee-and-long-term-health.json",
+      "file": "src/content/entries/coffee-and-long-term-health.md"
+    },
+    {
+      "id": "coffee-as-food-in-ethiopia",
+      "title": "Coffee as food in Ethiopia",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-as-food-in-ethiopia/",
+      "json": "https://coffearium.org/entries/coffee-as-food-in-ethiopia.json",
+      "file": "src/content/entries/coffee-as-food-in-ethiopia.md"
+    },
+    {
+      "id": "coffee-berry-borer",
+      "title": "Coffee berry borer",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-berry-borer/",
+      "json": "https://coffearium.org/entries/coffee-berry-borer.json",
+      "file": "src/content/entries/coffee-berry-borer.md"
+    },
+    {
+      "id": "coffee-berry-disease",
+      "title": "Coffee berry disease",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-berry-disease/",
+      "json": "https://coffearium.org/entries/coffee-berry-disease.json",
+      "file": "src/content/entries/coffee-berry-disease.md"
+    },
+    {
+      "id": "coffee-cherry-anatomy",
+      "title": "Coffee cherry anatomy",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-cherry-anatomy/",
+      "json": "https://coffearium.org/entries/coffee-cherry-anatomy.json",
+      "file": "src/content/entries/coffee-cherry-anatomy.md"
+    },
+    {
+      "id": "coffee-consumption-by-country",
+      "title": "Coffee consumption by country",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-consumption-by-country/",
+      "json": "https://coffearium.org/entries/coffee-consumption-by-country.json",
+      "file": "src/content/entries/coffee-consumption-by-country.md"
+    },
+    {
+      "id": "coffee-drinks-around-the-world",
+      "title": "Coffee drinks around the world",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-drinks-around-the-world/",
+      "json": "https://coffearium.org/entries/coffee-drinks-around-the-world.json",
+      "file": "src/content/entries/coffee-drinks-around-the-world.md"
+    },
+    {
+      "id": "coffee-futures",
+      "title": "Coffee futures",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-futures/",
+      "json": "https://coffearium.org/entries/coffee-futures.json",
+      "file": "src/content/entries/coffee-futures.md"
+    },
+    {
+      "id": "coffee-leaf-miner",
+      "title": "Coffee leaf miner",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-leaf-miner/",
+      "json": "https://coffearium.org/entries/coffee-leaf-miner.json",
+      "file": "src/content/entries/coffee-leaf-miner.md"
+    },
+    {
+      "id": "coffee-leaf-rust",
+      "title": "Coffee leaf rust",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-leaf-rust/",
+      "json": "https://coffearium.org/entries/coffee-leaf-rust.json",
+      "file": "src/content/entries/coffee-leaf-rust.md"
+    },
+    {
+      "id": "coffee-nematodes",
+      "title": "Nematodes",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-nematodes/",
+      "json": "https://coffearium.org/entries/coffee-nematodes.json",
+      "file": "src/content/entries/coffee-nematodes.md"
+    },
+    {
+      "id": "coffee-oil",
+      "title": "Coffee oil",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-oil/",
+      "json": "https://coffearium.org/entries/coffee-oil.json",
+      "file": "src/content/entries/coffee-oil.md"
+    },
+    {
+      "id": "coffee-price-history",
+      "title": "Coffee price history",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-price-history/",
+      "json": "https://coffearium.org/entries/coffee-price-history.json",
+      "file": "src/content/entries/coffee-price-history.md"
+    },
+    {
+      "id": "coffee-production-by-country",
+      "title": "Coffee production by country",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-production-by-country/",
+      "json": "https://coffearium.org/entries/coffee-production-by-country.json",
+      "file": "src/content/entries/coffee-production-by-country.md"
+    },
+    {
+      "id": "coffee-wilt-disease",
+      "title": "Coffee wilt disease",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-wilt-disease/",
+      "json": "https://coffearium.org/entries/coffee-wilt-disease.json",
+      "file": "src/content/entries/coffee-wilt-disease.md"
+    },
+    {
+      "id": "coffee-yields",
+      "title": "Coffee yields",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffee-yields/",
+      "json": "https://coffearium.org/entries/coffee-yields.json",
+      "file": "src/content/entries/coffee-yields.md"
+    },
+    {
+      "id": "coffeehouses-from-mecca-to-europe",
+      "title": "Coffeehouses from Mecca to Europe",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/coffeehouses-from-mecca-to-europe/",
+      "json": "https://coffearium.org/entries/coffeehouses-from-mecca-to-europe.json",
+      "file": "src/content/entries/coffeehouses-from-mecca-to-europe.md"
+    },
+    {
+      "id": "cold-brew",
+      "title": "Cold brew",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/cold-brew/",
+      "json": "https://coffearium.org/entries/cold-brew.json",
+      "file": "src/content/entries/cold-brew.md"
+    },
+    {
+      "id": "contaminants-and-food-safety",
+      "title": "Contaminants and food safety",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/contaminants-and-food-safety/",
+      "json": "https://coffearium.org/entries/contaminants-and-food-safety.json",
+      "file": "src/content/entries/contaminants-and-food-safety.md"
+    },
+    {
+      "id": "cooling-and-quenching",
+      "title": "Cooling and quenching",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/cooling-and-quenching/",
+      "json": "https://coffearium.org/entries/cooling-and-quenching.json",
+      "file": "src/content/entries/cooling-and-quenching.md"
+    },
+    {
+      "id": "crop-year-and-coffee-year",
+      "title": "Crop year and coffee year",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/crop-year-and-coffee-year/",
+      "json": "https://coffearium.org/entries/crop-year-and-coffee-year.json",
+      "file": "src/content/entries/crop-year-and-coffee-year.md"
+    },
+    {
+      "id": "crossmodal-effects",
+      "title": "Crossmodal effects",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/crossmodal-effects/",
+      "json": "https://coffearium.org/entries/crossmodal-effects.json",
+      "file": "src/content/entries/crossmodal-effects.md"
+    },
+    {
+      "id": "cupping",
+      "title": "Cupping",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/cupping/",
+      "json": "https://coffearium.org/entries/cupping.json",
+      "file": "src/content/entries/cupping.md"
+    },
+    {
+      "id": "cups-and-vessels",
+      "title": "Cups and vessels",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/cups-and-vessels/",
+      "json": "https://coffearium.org/entries/cups-and-vessels.json",
+      "file": "src/content/entries/cups-and-vessels.md"
+    },
+    {
+      "id": "decaffeination",
+      "title": "Decaffeination",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/decaffeination/",
+      "json": "https://coffearium.org/entries/decaffeination.json",
+      "file": "src/content/entries/decaffeination.md"
+    },
+    {
+      "id": "degassing",
+      "title": "Degassing",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/degassing/",
+      "json": "https://coffearium.org/entries/degassing.json",
+      "file": "src/content/entries/degassing.md"
+    },
+    {
+      "id": "development-time",
+      "title": "Development time",
+      "status": "verified",
+      "updated": "2026-10-17T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/development-time/",
+      "json": "https://coffearium.org/entries/development-time.json",
+      "file": "src/content/entries/development-time.md"
+    },
+    {
+      "id": "differentials",
+      "title": "Differentials",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/differentials/",
+      "json": "https://coffearium.org/entries/differentials.json",
+      "file": "src/content/entries/differentials.md"
+    },
+    {
+      "id": "direct-trade",
+      "title": "Direct trade",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/direct-trade/",
+      "json": "https://coffearium.org/entries/direct-trade.json",
+      "file": "src/content/entries/direct-trade.md"
+    },
+    {
+      "id": "drum-roaster",
+      "title": "Drum roasters",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/drum-roaster/",
+      "json": "https://coffearium.org/entries/drum-roaster.json",
+      "file": "src/content/entries/drum-roaster.md"
+    },
+    {
+      "id": "drying",
+      "title": "Drying",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/drying/",
+      "json": "https://coffearium.org/entries/drying.json",
+      "file": "src/content/entries/drying.md"
+    },
+    {
+      "id": "drying-phase",
+      "title": "Drying phase",
+      "status": "verified",
+      "updated": "2026-10-17T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/drying-phase/",
+      "json": "https://coffearium.org/entries/drying-phase.json",
+      "file": "src/content/entries/drying-phase.md"
+    },
+    {
+      "id": "endothermic-and-exothermic-phases",
+      "title": "Endothermic and exothermic phases",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/endothermic-and-exothermic-phases/",
+      "json": "https://coffearium.org/entries/endothermic-and-exothermic-phases.json",
+      "file": "src/content/entries/endothermic-and-exothermic-phases.md"
+    },
+    {
+      "id": "eras-and-waves-of-coffee",
+      "title": "Eras and waves of coffee",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/eras-and-waves-of-coffee/",
+      "json": "https://coffearium.org/entries/eras-and-waves-of-coffee.json",
+      "file": "src/content/entries/eras-and-waves-of-coffee.md"
+    },
+    {
+      "id": "espresso",
+      "title": "Espresso",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/espresso/",
+      "json": "https://coffearium.org/entries/espresso.json",
+      "file": "src/content/entries/espresso.md"
+    },
+    {
+      "id": "espresso-machine",
+      "title": "How an espresso machine works",
+      "status": "verified",
+      "updated": "2026-10-13T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/espresso-machine/",
+      "json": "https://coffearium.org/entries/espresso-machine.json",
+      "file": "src/content/entries/espresso-machine.md"
+    },
+    {
+      "id": "espresso-recipes-and-ratios",
+      "title": "Espresso recipes and ratios",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/espresso-recipes-and-ratios/",
+      "json": "https://coffearium.org/entries/espresso-recipes-and-ratios.json",
+      "file": "src/content/entries/espresso-recipes-and-ratios.md"
+    },
+    {
+      "id": "ethiopian-landraces",
+      "title": "Ethiopian landraces",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/ethiopian-landraces/",
+      "json": "https://coffearium.org/entries/ethiopian-landraces.json",
+      "file": "src/content/entries/ethiopian-landraces.md"
+    },
+    {
+      "id": "eudr",
+      "title": "EU Deforestation Regulation (EUDR)",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/eudr/",
+      "json": "https://coffearium.org/entries/eudr.json",
+      "file": "src/content/entries/eudr.md"
+    },
+    {
+      "id": "extraction-variables",
+      "title": "Extraction variables",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/extraction-variables/",
+      "json": "https://coffearium.org/entries/extraction-variables.json",
+      "file": "src/content/entries/extraction-variables.md"
+    },
+    {
+      "id": "extraction-yield-and-tds",
+      "title": "Extraction yield and TDS",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/extraction-yield-and-tds/",
+      "json": "https://coffearium.org/entries/extraction-yield-and-tds.json",
+      "file": "src/content/entries/extraction-yield-and-tds.md"
+    },
+    {
+      "id": "f1-hybrids",
+      "title": "F1 hybrids",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/f1-hybrids/",
+      "json": "https://coffearium.org/entries/f1-hybrids.json",
+      "file": "src/content/entries/f1-hybrids.md"
+    },
+    {
+      "id": "fermentation",
+      "title": "Fermentation",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/fermentation/",
+      "json": "https://coffearium.org/entries/fermentation.json",
+      "file": "src/content/entries/fermentation.md"
+    },
+    {
+      "id": "first-crack",
+      "title": "First crack",
+      "status": "verified",
+      "updated": "2026-10-17T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/first-crack/",
+      "json": "https://coffearium.org/entries/first-crack.json",
+      "file": "src/content/entries/first-crack.md"
+    },
+    {
+      "id": "flavour-language",
+      "title": "Flavour language",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/flavour-language/",
+      "json": "https://coffearium.org/entries/flavour-language.json",
+      "file": "src/content/entries/flavour-language.md"
+    },
+    {
+      "id": "flowering-and-pollination",
+      "title": "Flowering and pollination",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/flowering-and-pollination/",
+      "json": "https://coffearium.org/entries/flowering-and-pollination.json",
+      "file": "src/content/entries/flowering-and-pollination.md"
+    },
+    {
+      "id": "fluid-bed-roaster",
+      "title": "Fluid-bed roasters",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/fluid-bed-roaster/",
+      "json": "https://coffearium.org/entries/fluid-bed-roaster.json",
+      "file": "src/content/entries/fluid-bed-roaster.md"
+    },
+    {
+      "id": "freshness-and-storage",
+      "title": "Freshness and storage",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/freshness-and-storage/",
+      "json": "https://coffearium.org/entries/freshness-and-storage.json",
+      "file": "src/content/entries/freshness-and-storage.md"
+    },
+    {
+      "id": "fruit-development",
+      "title": "Fruit development",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/fruit-development/",
+      "json": "https://coffearium.org/entries/fruit-development.json",
+      "file": "src/content/entries/fruit-development.md"
+    },
+    {
+      "id": "germination-and-seedlings",
+      "title": "Germination and seedlings",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/germination-and-seedlings/",
+      "json": "https://coffearium.org/entries/germination-and-seedlings.json",
+      "file": "src/content/entries/germination-and-seedlings.md"
+    },
+    {
+      "id": "glass-rubber-transition",
+      "title": "Glass–rubber transition",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/glass-rubber-transition/",
+      "json": "https://coffearium.org/entries/glass-rubber-transition.json",
+      "file": "src/content/entries/glass-rubber-transition.md"
+    },
+    {
+      "id": "grading-and-sorting",
+      "title": "Grading and sorting of green coffee",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/grading-and-sorting/",
+      "json": "https://coffearium.org/entries/grading-and-sorting.json",
+      "file": "src/content/entries/grading-and-sorting.md"
+    },
+    {
+      "id": "green-coffee-composition",
+      "title": "Green coffee composition",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/green-coffee-composition/",
+      "json": "https://coffearium.org/entries/green-coffee-composition.json",
+      "file": "src/content/entries/green-coffee-composition.md"
+    },
+    {
+      "id": "green-coffee-contracts",
+      "title": "Green coffee contracts",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/green-coffee-contracts/",
+      "json": "https://coffearium.org/entries/green-coffee-contracts.json",
+      "file": "src/content/entries/green-coffee-contracts.md"
+    },
+    {
+      "id": "green-coffee-grading",
+      "title": "Green coffee grading standards",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/green-coffee-grading/",
+      "json": "https://coffearium.org/entries/green-coffee-grading.json",
+      "file": "src/content/entries/green-coffee-grading.md"
+    },
+    {
+      "id": "green-coffee-storage",
+      "title": "Green coffee storage and transport",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/green-coffee-storage/",
+      "json": "https://coffearium.org/entries/green-coffee-storage.json",
+      "file": "src/content/entries/green-coffee-storage.md"
+    },
+    {
+      "id": "grinder-types-and-burrs",
+      "title": "Grinder types and burrs",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/grinder-types-and-burrs/",
+      "json": "https://coffearium.org/entries/grinder-types-and-burrs.json",
+      "file": "src/content/entries/grinder-types-and-burrs.md"
+    },
+    {
+      "id": "grinding",
+      "title": "Grinding",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/grinding/",
+      "json": "https://coffearium.org/entries/grinding.json",
+      "file": "src/content/entries/grinding.md"
+    },
+    {
+      "id": "hardness-and-alkalinity",
+      "title": "Hardness and alkalinity",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/hardness-and-alkalinity/",
+      "json": "https://coffearium.org/entries/hardness-and-alkalinity.json",
+      "file": "src/content/entries/hardness-and-alkalinity.md"
+    },
+    {
+      "id": "harvest-calendars",
+      "title": "Harvest calendars",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/harvest-calendars/",
+      "json": "https://coffearium.org/entries/harvest-calendars.json",
+      "file": "src/content/entries/harvest-calendars.md"
+    },
+    {
+      "id": "harvesting-and-sorting",
+      "title": "Harvesting and cherry sorting",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/harvesting-and-sorting/",
+      "json": "https://coffearium.org/entries/harvesting-and-sorting.json",
+      "file": "src/content/entries/harvesting-and-sorting.md"
+    },
+    {
+      "id": "heat-transfer",
+      "title": "Heat transfer",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/heat-transfer/",
+      "json": "https://coffearium.org/entries/heat-transfer.json",
+      "file": "src/content/entries/heat-transfer.md"
+    },
+    {
+      "id": "hedging",
+      "title": "Hedging",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/hedging/",
+      "json": "https://coffearium.org/entries/hedging.json",
+      "file": "src/content/entries/hedging.md"
+    },
+    {
+      "id": "honey-process",
+      "title": "Honey process",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/honey-process/",
+      "json": "https://coffearium.org/entries/honey-process.json",
+      "file": "src/content/entries/honey-process.md"
+    },
+    {
+      "id": "how-a-coffee-price-is-made",
+      "title": "How a coffee price is made",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/how-a-coffee-price-is-made/",
+      "json": "https://coffearium.org/entries/how-a-coffee-price-is-made.json",
+      "file": "src/content/entries/how-a-coffee-price-is-made.md"
+    },
+    {
+      "id": "how-to-read-coffee-health-news",
+      "title": "How to read coffee health news",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/how-to-read-coffee-health-news/",
+      "json": "https://coffearium.org/entries/how-to-read-coffee-health-news.json",
+      "file": "src/content/entries/how-to-read-coffee-health-news.md"
+    },
+    {
+      "id": "how-we-taste-coffee",
+      "title": "How we taste coffee",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/how-we-taste-coffee/",
+      "json": "https://coffearium.org/entries/how-we-taste-coffee.json",
+      "file": "src/content/entries/how-we-taste-coffee.md"
+    },
+    {
+      "id": "hulling-and-dry-milling",
+      "title": "Hulling and dry milling",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/hulling-and-dry-milling/",
+      "json": "https://coffearium.org/entries/hulling-and-dry-milling.json",
+      "file": "src/content/entries/hulling-and-dry-milling.md"
+    },
+    {
+      "id": "incoterms-for-coffee",
+      "title": "Incoterms for coffee",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/incoterms-for-coffee/",
+      "json": "https://coffearium.org/entries/incoterms-for-coffee.json",
+      "file": "src/content/entries/incoterms-for-coffee.md"
+    },
+    {
+      "id": "integrated-pest-management",
+      "title": "Integrated pest management",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/integrated-pest-management/",
+      "json": "https://coffearium.org/entries/integrated-pest-management.json",
+      "file": "src/content/entries/integrated-pest-management.md"
+    },
+    {
+      "id": "irrigation",
+      "title": "Irrigation",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/irrigation/",
+      "json": "https://coffearium.org/entries/irrigation.json",
+      "file": "src/content/entries/irrigation.md"
+    },
+    {
+      "id": "liberica-and-excelsa",
+      "title": "Liberica and excelsa",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/liberica-and-excelsa/",
+      "json": "https://coffearium.org/entries/liberica-and-excelsa.json",
+      "file": "src/content/entries/liberica-and-excelsa.md"
+    },
+    {
+      "id": "living-income",
+      "title": "Living income",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/living-income/",
+      "json": "https://coffearium.org/entries/living-income.json",
+      "file": "src/content/entries/living-income.md"
+    },
+    {
+      "id": "maillard-reaction",
+      "title": "Maillard reaction",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/maillard-reaction/",
+      "json": "https://coffearium.org/entries/maillard-reaction.json",
+      "file": "src/content/entries/maillard-reaction.md"
+    },
+    {
+      "id": "measuring-water",
+      "title": "Measuring water",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/measuring-water/",
+      "json": "https://coffearium.org/entries/measuring-water.json",
+      "file": "src/content/entries/measuring-water.md"
+    },
+    {
+      "id": "mechanical-demucilaging",
+      "title": "Mechanical demucilaging",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/mechanical-demucilaging/",
+      "json": "https://coffearium.org/entries/mechanical-demucilaging.json",
+      "file": "src/content/entries/mechanical-demucilaging.md"
+    },
+    {
+      "id": "mechanical-dryers",
+      "title": "Mechanical dryers",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/mechanical-dryers/",
+      "json": "https://coffearium.org/entries/mechanical-dryers.json",
+      "file": "src/content/entries/mechanical-dryers.md"
+    },
+    {
+      "id": "melanoidins",
+      "title": "Melanoidins",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/melanoidins/",
+      "json": "https://coffearium.org/entries/melanoidins.json",
+      "file": "src/content/entries/melanoidins.md"
+    },
+    {
+      "id": "microorganisms",
+      "title": "Microorganisms in coffee processing",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/microorganisms/",
+      "json": "https://coffearium.org/entries/microorganisms.json",
+      "file": "src/content/entries/microorganisms.md"
+    },
+    {
+      "id": "moisture-and-water-activity",
+      "title": "Moisture and water activity",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/moisture-and-water-activity/",
+      "json": "https://coffearium.org/entries/moisture-and-water-activity.json",
+      "file": "src/content/entries/moisture-and-water-activity.md"
+    },
+    {
+      "id": "moka-pot",
+      "title": "Moka pot",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/moka-pot/",
+      "json": "https://coffearium.org/entries/moka-pot.json",
+      "file": "src/content/entries/moka-pot.md"
+    },
+    {
+      "id": "mucilage",
+      "title": "Mucilage",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/mucilage/",
+      "json": "https://coffearium.org/entries/mucilage.json",
+      "file": "src/content/entries/mucilage.md"
+    },
+    {
+      "id": "natural-process",
+      "title": "Natural process",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/natural-process/",
+      "json": "https://coffearium.org/entries/natural-process.json",
+      "file": "src/content/entries/natural-process.md"
+    },
+    {
+      "id": "nutrition-and-fertilisation",
+      "title": "Nutrition and fertilisation",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/nutrition-and-fertilisation/",
+      "json": "https://coffearium.org/entries/nutrition-and-fertilisation.json",
+      "file": "src/content/entries/nutrition-and-fertilisation.md"
+    },
+    {
+      "id": "ochratoxin-a",
+      "title": "Ochratoxin A",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/ochratoxin-a/",
+      "json": "https://coffearium.org/entries/ochratoxin-a.json",
+      "file": "src/content/entries/ochratoxin-a.md"
+    },
+    {
+      "id": "overbearing-and-dieback",
+      "title": "Overbearing and die-back",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/overbearing-and-dieback/",
+      "json": "https://coffearium.org/entries/overbearing-and-dieback.json",
+      "file": "src/content/entries/overbearing-and-dieback.md"
+    },
+    {
+      "id": "packaging",
+      "title": "Coffee packaging",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/packaging/",
+      "json": "https://coffearium.org/entries/packaging.json",
+      "file": "src/content/entries/packaging.md"
+    },
+    {
+      "id": "particle-size-and-fines",
+      "title": "Particle size and fines",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/particle-size-and-fines/",
+      "json": "https://coffearium.org/entries/particle-size-and-fines.json",
+      "file": "src/content/entries/particle-size-and-fines.md"
+    },
+    {
+      "id": "peaberries-and-bean-shapes",
+      "title": "Peaberries and bean shapes",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/peaberries-and-bean-shapes/",
+      "json": "https://coffearium.org/entries/peaberries-and-bean-shapes.json",
+      "file": "src/content/entries/peaberries-and-bean-shapes.md"
+    },
+    {
+      "id": "planting-density-and-layout",
+      "title": "Planting density and layout",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/planting-density-and-layout/",
+      "json": "https://coffearium.org/entries/planting-density-and-layout.json",
+      "file": "src/content/entries/planting-density-and-layout.md"
+    },
+    {
+      "id": "polyploidy-and-the-arabica-genome",
+      "title": "Polyploidy and the arabica genome",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/polyploidy-and-the-arabica-genome/",
+      "json": "https://coffearium.org/entries/polyploidy-and-the-arabica-genome.json",
+      "file": "src/content/entries/polyploidy-and-the-arabica-genome.md"
+    },
+    {
+      "id": "porosity-and-cell-structure",
+      "title": "Porosity and cell structure",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/porosity-and-cell-structure/",
+      "json": "https://coffearium.org/entries/porosity-and-cell-structure.json",
+      "file": "src/content/entries/porosity-and-cell-structure.md"
+    },
+    {
+      "id": "pour-over-technique",
+      "title": "Pour-over technique",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/pour-over-technique/",
+      "json": "https://coffearium.org/entries/pour-over-technique.json",
+      "file": "src/content/entries/pour-over-technique.md"
+    },
+    {
+      "id": "preheating-and-charge",
+      "title": "Preheating and charge",
+      "status": "verified",
+      "updated": "2026-10-17T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/preheating-and-charge/",
+      "json": "https://coffearium.org/entries/preheating-and-charge.json",
+      "file": "src/content/entries/preheating-and-charge.md"
+    },
+    {
+      "id": "price-fixation",
+      "title": "Price fixation",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/price-fixation/",
+      "json": "https://coffearium.org/entries/price-fixation.json",
+      "file": "src/content/entries/price-fixation.md"
+    },
+    {
+      "id": "processing-defects",
+      "title": "Green coffee defects and their causes",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/processing-defects/",
+      "json": "https://coffearium.org/entries/processing-defects.json",
+      "file": "src/content/entries/processing-defects.md"
+    },
+    {
+      "id": "pruning-and-renovation",
+      "title": "Pruning, stumping and renovation",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/pruning-and-renovation/",
+      "json": "https://coffearium.org/entries/pruning-and-renovation.json",
+      "file": "src/content/entries/pruning-and-renovation.md"
+    },
+    {
+      "id": "puck-preparation",
+      "title": "Puck preparation",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/puck-preparation/",
+      "json": "https://coffearium.org/entries/puck-preparation.json",
+      "file": "src/content/entries/puck-preparation.md"
+    },
+    {
+      "id": "pulped-natural",
+      "title": "Pulped natural",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/pulped-natural/",
+      "json": "https://coffearium.org/entries/pulped-natural.json",
+      "file": "src/content/entries/pulped-natural.md"
+    },
+    {
+      "id": "pulping",
+      "title": "Pulping",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/pulping/",
+      "json": "https://coffearium.org/entries/pulping.json",
+      "file": "src/content/entries/pulping.md"
+    },
+    {
+      "id": "rate-of-rise",
+      "title": "Rate of rise",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/rate-of-rise/",
+      "json": "https://coffearium.org/entries/rate-of-rise.json",
+      "file": "src/content/entries/rate-of-rise.md"
+    },
+    {
+      "id": "resting",
+      "title": "Resting (reposo)",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/resting/",
+      "json": "https://coffearium.org/entries/resting.json",
+      "file": "src/content/entries/resting.md"
+    },
+    {
+      "id": "roast-defects",
+      "title": "Roast defects",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roast-defects/",
+      "json": "https://coffearium.org/entries/roast-defects.json",
+      "file": "src/content/entries/roast-defects.md"
+    },
+    {
+      "id": "roast-degree-and-colour",
+      "title": "Roast degree and colour",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roast-degree-and-colour/",
+      "json": "https://coffearium.org/entries/roast-degree-and-colour.json",
+      "file": "src/content/entries/roast-degree-and-colour.md"
+    },
+    {
+      "id": "roast-gases-and-co2",
+      "title": "Roast gases and CO₂",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roast-gases-and-co2/",
+      "json": "https://coffearium.org/entries/roast-gases-and-co2.json",
+      "file": "src/content/entries/roast-gases-and-co2.md"
+    },
+    {
+      "id": "roast-loss",
+      "title": "Roast loss",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roast-loss/",
+      "json": "https://coffearium.org/entries/roast-loss.json",
+      "file": "src/content/entries/roast-loss.md"
+    },
+    {
+      "id": "roast-profile",
+      "title": "Roast profiles",
+      "status": "verified",
+      "updated": "2026-10-12T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roast-profile/",
+      "json": "https://coffearium.org/entries/roast-profile.json",
+      "file": "src/content/entries/roast-profile.md"
+    },
+    {
+      "id": "roaster-emissions",
+      "title": "Roaster emissions",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roaster-emissions/",
+      "json": "https://coffearium.org/entries/roaster-emissions.json",
+      "file": "src/content/entries/roaster-emissions.md"
+    },
+    {
+      "id": "roasting",
+      "title": "Roasting",
+      "status": "verified",
+      "updated": "2026-10-10T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roasting/",
+      "json": "https://coffearium.org/entries/roasting.json",
+      "file": "src/content/entries/roasting.md"
+    },
+    {
+      "id": "roasting-contaminants",
+      "title": "Roasting contaminants",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/roasting-contaminants/",
+      "json": "https://coffearium.org/entries/roasting-contaminants.json",
+      "file": "src/content/entries/roasting-contaminants.md"
+    },
+    {
+      "id": "second-crack",
+      "title": "Second crack",
+      "status": "verified",
+      "updated": "2026-10-17T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/second-crack/",
+      "json": "https://coffearium.org/entries/second-crack.json",
+      "file": "src/content/entries/second-crack.md"
+    },
+    {
+      "id": "seed-anatomy-and-storage",
+      "title": "Seed anatomy and storage",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/seed-anatomy-and-storage/",
+      "json": "https://coffearium.org/entries/seed-anatomy-and-storage.json",
+      "file": "src/content/entries/seed-anatomy-and-storage.md"
+    },
+    {
+      "id": "seed-physiology",
+      "title": "The living seed during processing",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/seed-physiology/",
+      "json": "https://coffearium.org/entries/seed-physiology.json",
+      "file": "src/content/entries/seed-physiology.md"
+    },
+    {
+      "id": "sensory-science-methods",
+      "title": "Sensory science methods",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/sensory-science-methods/",
+      "json": "https://coffearium.org/entries/sensory-science-methods.json",
+      "file": "src/content/entries/sensory-science-methods.md"
+    },
+    {
+      "id": "serving-temperature",
+      "title": "Serving temperature",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/serving-temperature/",
+      "json": "https://coffearium.org/entries/serving-temperature.json",
+      "file": "src/content/entries/serving-temperature.md"
+    },
+    {
+      "id": "shade-and-agroforestry",
+      "title": "Shade and agroforestry",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/shade-and-agroforestry/",
+      "json": "https://coffearium.org/entries/shade-and-agroforestry.json",
+      "file": "src/content/entries/shade-and-agroforestry.md"
+    },
+    {
+      "id": "shipping-green-coffee",
+      "title": "Shipping green coffee",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/shipping-green-coffee/",
+      "json": "https://coffearium.org/entries/shipping-green-coffee.json",
+      "file": "src/content/entries/shipping-green-coffee.md"
+    },
+    {
+      "id": "site-selection-and-climate",
+      "title": "Site selection: climate, altitude and terrain",
+      "status": "verified",
+      "updated": "2026-10-16T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/site-selection-and-climate/",
+      "json": "https://coffearium.org/entries/site-selection-and-climate.json",
+      "file": "src/content/entries/site-selection-and-climate.md"
+    },
+    {
+      "id": "soil-acidity-and-liming",
+      "title": "Soil acidity and liming",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/soil-acidity-and-liming/",
+      "json": "https://coffearium.org/entries/soil-acidity-and-liming.json",
+      "file": "src/content/entries/soil-acidity-and-liming.md"
+    },
+    {
+      "id": "soils-for-coffee",
+      "title": "Soils for coffee",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/soils-for-coffee/",
+      "json": "https://coffearium.org/entries/soils-for-coffee.json",
+      "file": "src/content/entries/soils-for-coffee.md"
+    },
+    {
+      "id": "stenophylla-and-wild-relatives",
+      "title": "Stenophylla and other wild relatives",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/stenophylla-and-wild-relatives/",
+      "json": "https://coffearium.org/entries/stenophylla-and-wild-relatives.json",
+      "file": "src/content/entries/stenophylla-and-wild-relatives.md"
+    },
+    {
+      "id": "strecker-degradation",
+      "title": "Strecker degradation",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/strecker-degradation/",
+      "json": "https://coffearium.org/entries/strecker-degradation.json",
+      "file": "src/content/entries/strecker-degradation.md"
+    },
+    {
+      "id": "sustainability-claims",
+      "title": "Sustainability claims and greenwashing rules",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/sustainability-claims/",
+      "json": "https://coffearium.org/entries/sustainability-claims.json",
+      "file": "src/content/entries/sustainability-claims.md"
+    },
+    {
+      "id": "switzerland-and-the-coffee-trade",
+      "title": "Switzerland and the coffee trade",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/switzerland-and-the-coffee-trade/",
+      "json": "https://coffearium.org/entries/switzerland-and-the-coffee-trade.json",
+      "file": "src/content/entries/switzerland-and-the-coffee-trade.md"
+    },
+    {
+      "id": "tangential-and-centrifugal-roasters",
+      "title": "Tangential and centrifugal roasters",
+      "status": "verified",
+      "updated": "2026-10-14T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/tangential-and-centrifugal-roasters/",
+      "json": "https://coffearium.org/entries/tangential-and-centrifugal-roasters.json",
+      "file": "src/content/entries/tangential-and-centrifugal-roasters.md"
+    },
+    {
+      "id": "the-arabica-bottleneck",
+      "title": "The arabica bottleneck",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-arabica-bottleneck/",
+      "json": "https://coffearium.org/entries/the-arabica-bottleneck.json",
+      "file": "src/content/entries/the-arabica-bottleneck.md"
+    },
+    {
+      "id": "the-aroma-of-coffee",
+      "title": "The aroma of coffee",
+      "status": "verified",
+      "updated": "2026-10-15T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-aroma-of-coffee/",
+      "json": "https://coffearium.org/entries/the-aroma-of-coffee.json",
+      "file": "src/content/entries/the-aroma-of-coffee.md"
+    },
+    {
+      "id": "the-coffee-belt",
+      "title": "The coffee belt",
+      "status": "verified",
+      "updated": "2026-10-23T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-coffee-belt/",
+      "json": "https://coffearium.org/entries/the-coffee-belt.json",
+      "file": "src/content/entries/the-coffee-belt.md"
+    },
+    {
+      "id": "the-coffee-value-chain",
+      "title": "The coffee value chain",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-coffee-value-chain/",
+      "json": "https://coffearium.org/entries/the-coffee-value-chain.json",
+      "file": "src/content/entries/the-coffee-value-chain.md"
+    },
+    {
+      "id": "the-ethiopian-coffee-ceremony",
+      "title": "The Ethiopian coffee ceremony",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-ethiopian-coffee-ceremony/",
+      "json": "https://coffearium.org/entries/the-ethiopian-coffee-ceremony.json",
+      "file": "src/content/entries/the-ethiopian-coffee-ceremony.md"
+    },
+    {
+      "id": "the-international-coffee-agreements",
+      "title": "The International Coffee Agreements",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-international-coffee-agreements/",
+      "json": "https://coffearium.org/entries/the-international-coffee-agreements.json",
+      "file": "src/content/entries/the-international-coffee-agreements.md"
+    },
+    {
+      "id": "the-timor-hybrid",
+      "title": "The Timor Hybrid",
+      "status": "verified",
+      "updated": "2026-10-22T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/the-timor-hybrid/",
+      "json": "https://coffearium.org/entries/the-timor-hybrid.json",
+      "file": "src/content/entries/the-timor-hybrid.md"
+    },
+    {
+      "id": "turning-point",
+      "title": "Turning point",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/turning-point/",
+      "json": "https://coffearium.org/entries/turning-point.json",
+      "file": "src/content/entries/turning-point.md"
+    },
+    {
+      "id": "washed-process",
+      "title": "Washed process",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/washed-process/",
+      "json": "https://coffearium.org/entries/washed-process.json",
+      "file": "src/content/entries/washed-process.md"
+    },
+    {
+      "id": "water-for-coffee",
+      "title": "Water for coffee",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/water-for-coffee/",
+      "json": "https://coffearium.org/entries/water-for-coffee.json",
+      "file": "src/content/entries/water-for-coffee.md"
+    },
+    {
+      "id": "water-in-roasting",
+      "title": "Water in roasting",
+      "status": "verified",
+      "updated": "2026-10-19T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/water-in-roasting/",
+      "json": "https://coffearium.org/entries/water-in-roasting.json",
+      "file": "src/content/entries/water-in-roasting.md"
+    },
+    {
+      "id": "water-minerals-and-flavour",
+      "title": "Water minerals and flavour",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/water-minerals-and-flavour/",
+      "json": "https://coffearium.org/entries/water-minerals-and-flavour.json",
+      "file": "src/content/entries/water-minerals-and-flavour.md"
+    },
+    {
+      "id": "water-treatment",
+      "title": "Water treatment",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/water-treatment/",
+      "json": "https://coffearium.org/entries/water-treatment.json",
+      "file": "src/content/entries/water-treatment.md"
+    },
+    {
+      "id": "wet-hulled",
+      "title": "Wet-hulled (giling basah)",
+      "status": "verified",
+      "updated": "2026-10-08T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/wet-hulled/",
+      "json": "https://coffearium.org/entries/wet-hulled.json",
+      "file": "src/content/entries/wet-hulled.md"
+    },
+    {
+      "id": "what-extraction-is",
+      "title": "What extraction is",
+      "status": "verified",
+      "updated": "2026-10-20T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/what-extraction-is/",
+      "json": "https://coffearium.org/entries/what-extraction-is.json",
+      "file": "src/content/entries/what-extraction-is.md"
+    },
+    {
+      "id": "whats-in-a-cup-of-coffee",
+      "title": "What’s in a cup of coffee",
+      "status": "verified",
+      "updated": "2026-10-21T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/whats-in-a-cup-of-coffee/",
+      "json": "https://coffearium.org/entries/whats-in-a-cup-of-coffee.json",
+      "file": "src/content/entries/whats-in-a-cup-of-coffee.md"
+    },
+    {
+      "id": "who-earns-what",
+      "title": "Who earns what along the chain",
+      "status": "verified",
+      "updated": "2026-10-24T00:00:00.000Z",
+      "url": "https://coffearium.org/entries/who-earns-what/",
+      "json": "https://coffearium.org/entries/who-earns-what.json",
+      "file": "src/content/entries/who-earns-what.md"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{"version":"6.9","hitCount":1,"request":{"queryString":"DOI:\"10.9999/test.closed\"","resultType":"core"},
+ "resultList":{"result":[{"id":"30000002","source":"MED","pmid":"30000002","pmcid":"PMC7654321","doi":"10.9999/test.closed",
+ "title":"Roasting kinetics of arabica","isOpenAccess":"N","inEPMC":"N"}]}}

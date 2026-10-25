@@ -1,0 +1,56 @@
+# Canonical quantities that several entries state. The consistency scan (npm run consistency) finds every sentence
+# about each quantity and reports values that are not in `known`. A value is known when a cited source gives it;
+# where good sources differ, all their values are listed and the entries must say which source gives which.
+# subject: regex the sentence (or table row) must contain; value: regex whose first group is the value.
+- id: arabica-height
+  label: Height of Coffea arabica
+  subject: '(?:arabica|C\. arabica)[^|]{0,120}(?:tall|height)|(?:tall|height)[^|]{0,40}arabica'
+  value: '(\d+(?:\.\d+)?\s?–\s?\d+(?:\.\d+)?)\s?m\b'
+  known: ['2–7', '2–8']
+  note: 2–7 m Flora of Tropical East Africa (via POWO); 2–8 m Kew plant page.
+- id: canephora-height
+  label: Height of Coffea canephora
+  subject: '(?:canephora|robusta)[^|]{0,120}(?:tall|height)|(?:tall|height)[^|]{0,40}(?:canephora|robusta)'
+  value: '((?:up to )?\d+(?:\.\d+)?(?:\s?–\s?\d+(?:\.\d+)?)?)\s?m\b(?! ?a\.?s\.?l)'
+  known: ['3.5–8.5', 'up to 12']
+  note: 3.5–8.5 m Flora of Tropical East Africa (via POWO); up to 12 m NParks.
+- id: sca-water-hardness
+  label: SCA 2018 target range, total hardness
+  subject: 'SCA[^|]{0,80}hardness|hardness[^|]{0,80}SCA'
+  value: 'hardness[^0-9|]{0,40}(\d+–\d+)\s?(?:ppm|mg)'
+  known: ['50–175', '17–85', '68']
+  note: SCA 2018 handbook 50–175 ppm as CaCO3; SCAA 2009 calcium hardness 17–85 (target 68).
+- id: sca-water-alkalinity
+  label: SCA 2018 target range, alkalinity
+  subject: 'SCA[^|]{0,80}alkalinity|alkalinity[^|]{0,80}SCA'
+  value: 'alkalinity[^0-9|]{0,40}(\d+–\d+)\s?(?:ppm|mg)'
+  known: ['40–75', '40–70']
+  note: SCA 2018 target 40–75 ppm; 40–70 ppm is the SCA's separate advice for a decarboniser bypass on espresso machines.
+- id: gold-cup-ey
+  label: Extraction yield, SCA brewing control chart ideal zone
+  subject: '(?:extraction yield|ideal|optimum|optimal)[^|]{0,80}(?:SCA|Golden Cup|control chart|ideal)'
+  value: '(\d+(?:\.\d+)?–\d+(?:\.\d+)?)\s?%'
+  known: ['18–22', '1.15–1.35', '1.15–1.55', '18–20', '20–22', '1.15–1.45', '19–22', '1.2–1.45', '18–24', '17–21']
+  note: SCA chart 18–22% EY and 1.15–1.35% TDS; SCA home-brewer standard 1.15–1.55% TDS; other charts are named where used.
+- id: brew-temperature
+  label: Recommended brewing water temperature
+  subject: '(?:brew(?:ing)? (?:water )?temperature|water temperature)[^|]{0,120}(?:recommend|standard|SCA|target|ideal)|(?:recommend|standard|SCA|target|ideal)[^|]{0,120}(?:brew(?:ing)? (?:water )?temperature|water temperature)'
+  value: '(\d+(?:\.\d+)?\s?–\s?\d+(?:\.\d+)?)\s?°C'
+  known: ['92–96', '90–96', '93.0–95.5', '92.2–96.1', '91–94', '88–92', '86–90', '88–90', '92–94']
+- id: ota-eu-roasted
+  label: EU maximum level of ochratoxin A, roasted coffee
+  subject: '(?:ochratoxin|OTA)[^|]{0,160}roasted|roasted[^|]{0,80}(?:ochratoxin|OTA)'
+  value: '(?<![\d,.])(\d+(?:[.,]\d+)?)\s?µg/kg'
+  known: ['3', '5', '10', '3.0', '5.0', '3,0', '5,0']
+  note: EU 2023/915 and Swiss VHK roasted 3 µg/kg, soluble 5 µg/kg; older EU levels 5 / 10 µg/kg must be marked as earlier.
+- id: arabica-chromosomes
+  label: Chromosome number of Coffea arabica
+  subject: 'arabica[^|]{0,80}(?:2n|chromosom)|(?:2n|chromosom)[^|]{0,80}arabica'
+  value: '2n\s?=\s?(?:\d+x\s?=\s?)?(\d+)'
+  known: ['44', '4x', '22']
+  note: arabica 2n = 4x = 44; its diploid parents 2n = 22.
+- id: export-bag
+  label: Standard export bag of green coffee
+  subject: 'bags?[^|]{0,40}(?:green coffee|export)|(?:green coffee|export)[^|]{0,40}bags?'
+  value: '(?<![\d,.])(\d+(?:\.\d+)?)[ -]?kg\b'
+  known: ['60', '69', '70', '46', '30', '1,000', '15', '50', '59', '62.5', '68', '1']
