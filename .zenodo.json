@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "Coffearium: open coffee compendium – entries and verification tools",
+  "creators": [
+    {
+      "name": "Coffearium"
+    }
+  ],
+  "description": "173 published entries of the Coffearium open coffee compendium, from seed to cup, with the glossary (CC BY 4.0), and the tools that check them (MIT): quote check, context audit, literature watch and consistency scan. Every statement carries a source; see https://coffearium.org/how-we-verify/.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "coffee",
+    "open data",
+    "evidence",
+    "verification"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://coffearium.org/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}

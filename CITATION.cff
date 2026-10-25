@@ -6,5 +6,7 @@ authors:
   - name: "Coffearium"
 date-released: 2026-10-25
 url: "https://coffearium.org/"
+repository-code: "https://github.com/Rumanici/coffearium-open"
+doi: 10.5281/zenodo.23641507
 license: CC-BY-4.0
 keywords: [coffee, open data, evidence, verification]

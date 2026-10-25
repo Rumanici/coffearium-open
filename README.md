@@ -1,5 +1,7 @@
 # Coffearium – open data and verification tools
 
+[![DOI](https://zenodo.org/badge/1433108540.svg)](https://doi.org/10.5281/zenodo.23641507)
+
 [Coffearium](https://coffearium.org/) is an open coffee compendium, from seed to cup. Every statement carries a source,
 and every entry passes a source check that is separate from its writing. This repository publishes:
 
@@ -43,6 +45,9 @@ Node 22 or later. `npm install`, then:
 | `npm run lit:due` | Lists entries whose literature search is older than 90 days (`docs/LITERATURE_WATCH.md`) |
 
 Results of the context audits so far are in `docs/verification/` and on https://coffearium.org/how-we-verify/.
+
+## Citing
+Cite the archived release on Zenodo: Coffearium, *Coffearium: open coffee compendium – entries and verification tools*, https://doi.org/10.5281/zenodo.23641507 (this DOI always resolves to the latest version; each release also has its own DOI on Zenodo). For a single entry, cite the entry page with its date.
 
 ## Contributing
 Found a statement its source does not support, or a newer study? Use *Suggest a change* or *Suggest a source* on the
